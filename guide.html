@@ -41,11 +41,11 @@ th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);verti
 </head>
 <body>
 <header><div class="bar"><b>FINTECH Circle Content Studio</b>
-<nav><a href="index.html">Review posts</a><a href="examples.html">Format gallery</a><a href="guide.html" class="on">How to make content</a></nav></div></header>
+<nav><a href="index.html">Review posts</a><a href="ideas/index.html">Ideas</a><a href="examples.html">Format gallery</a><a href="guide.html" class="on">How to make content</a></nav></div></header>
 <div class="wrap">
 <aside>
 <a href="#week">The weekly rhythm</a><a href="#setup">One-time setup</a><a href="#batch">Make a batch</a><a href="#prompt">The batch prompt</a>
-<a href="#hooks">Writing hooks</a><a href="#rules">The rules</a><a href="#images">Images of Susanne</a><a href="#review">Review and approve</a><a href="#post">Posting</a><a href="#help">When something fails</a>
+<a href="#formats">Formats and samples</a><a href="#hooks">Writing hooks</a><a href="#rules">The rules</a><a href="#images">Images of Susanne</a><a href="#review">Review and approve</a><a href="#post">Posting</a><a href="#help">When something fails</a>
 </aside>
 <main>
 <h1>How to make FINTECH Circle content</h1>
@@ -53,8 +53,8 @@ th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);verti
 
 <h2 id="week">The weekly rhythm</h2>
 <ol class="steps">
-<li><b>Monday: ideas</b>Claude proposes 10 ideas from the knowledge base and recent webinars. The owner picks or edits them.</li>
-<li><b>Tuesday: build</b>Claude writes, designs and renders the batch: 6 carousels and 4 single images. Every check must pass.</li>
+<li><b>Monday: ideas</b>Claude pitches 20 ideas (twice the posts), each matched to its own creator sample from the taxonomy, with the hook written on that sample's pattern. They appear under Ideas on this site. The owner picks 10.</li>
+<li><b>Tuesday: build</b>Claude builds only the picks, each in its sample's layout, craft, motion and colours: a mix of carousels, animated pieces and single posts, never the same format twice in a batch. Every check must pass.</li>
 <li><b>Wednesday: review</b>The team and the owner review each post on the review page, tick Team and Owner, and leave feedback.</li>
 <li><b>Thursday: fix</b>Claude applies the feedback and republishes. A post is ready when both boxes are ticked.</li>
 <li><b>Following week: post</b>A team member posts each approved post at 08:30 UK and adds the first comment with the link.</li>
@@ -95,10 +95,13 @@ node kits\content\deploy.mjs --github https://github.com/growthclub-ai/fintech-c
 Before writing, read RULES.md, content/corpus/voice.md (including the Hooks section), content/corpus/facts.md,
 content/corpus/knowledge-base/README.md and the last BUILD_STATE file in outputs/content/.
 
-1. Propose 10 ideas first and wait for my picks. For each: the hook (first two lines), the format from the
-   format gallery, the CTA (webinar or Board Programme) and the fact rows it uses.
-2. After I pick: copy the last batch builder to kits/content/batches/bN_build.py and build the posts.
-   Covers and closing slides use the Kie.ai scenes in content/brand/people/susanne/avatars/.
+1. Pitch 20 ideas first (3 carousels, 3 animated pieces and 4 single posts get picked), each matched to its own
+   unused taxonomy sample (taxonomy.py unused --profile susanne), no two sharing a template variation. For each: the
+   hook written on the sample's own hook pattern, what it teaches, the asset in the sample's layout and colours, the
+   CTA and the fact rows. Write content/ideas/BATCH_N_susanne_ideas.json, publish it to the Ideas page and wait.
+2. After I pick: build only the picks, each faithful to its sample (layout, craft signature, motion, colours).
+   Animated pieces use kits/content/batches/anim_common.py and are recorded with anim.py. Susanne appears only as
+   her Kie.ai avatar, restyled to the sample where needed.
 3. Every claim must resolve to a facts.md row. No invented numbers, results or stories. No em or en dashes.
    UK spelling, no emoji, max 3 hashtags, no closing question, the link only in the first comment.
    Every list item in a caption starts with "• " (or "1." for steps).
@@ -110,6 +113,19 @@ Do not post or schedule anything.</code></pre>
 <p>To apply review feedback later:</p>
 <pre><button class="copy">Copy</button><code>Read the feedback on batch N in the review sheet (or I paste it below), fix each post, re-render, re-run the gates
 and the critic, republish the review site and merge to main. Tell me what changed per post.</code></pre>
+
+<h2 id="formats">Formats and samples: never the same look twice</h2>
+<p>The team's rule: one content format is used only once in each batch, ideally only once over several weeks, so every post looks unique. The engine enforces it with the creator taxonomy: 253 real LinkedIn posts that performed, from Harry Dry, Austin Belcak, Alex Vacca, Patrick James Cumming, Bharath Krishna Pai, Ipsita Dhar, Nelbin Joseph and others.</p>
+<ol class="steps">
+<li><b>Each post gets its own sample</b>No two posts in a batch share a sample or a template variation, and Susanne never reuses a sample while unused ones remain.</li>
+<li><b>Build the sample, not a house template</b>Copy the sample's layout, its signature craft detail, its motion and its colours. Our fonts stay; Susanne appears as her avatar where the sample shows its creator.</li>
+<li><b>Every batch has animated pieces</b>Animated posts are one page with a timeline, recorded to an MP4 and a GIF. LinkedIn plays the GIF in the feed.</li>
+</ol>
+<pre><button class="copy">Copy</button><code>python kits\content	axonomy.py fetch                     # refresh the sample library
+python kits\content	axonomy.py unused --profile susanne   # samples Susanne has not used
+python kits\content	axonomy.py show AV25                  # one sample: copy, layout, craft, palette, motion
+python kits\contentnim.py outputs\contentatch-4\A1 --sheet   # record an animated post (MP4 + GIF)</code></pre>
+<p>The animated samples each have a full write-up and a frame sheet in <code>content/corpus/taxonomy-samples/</code>.</p>
 
 <h2 id="hooks">Writing hooks that earn "see more"</h2>
 <p>LinkedIn shows about two lines before "...more". Those lines decide everything.</p>
