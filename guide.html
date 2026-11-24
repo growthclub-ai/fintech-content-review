@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Content Playbook</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#0b0d12;--muted:#5b6170;--line:#e4e2dc;--accent:#6F46B7;--soft:#f1ecfb;--warn:#a15c00}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line)}
+.bar{max-width:1080px;margin:0 auto;padding:12px 16px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.bar b{font-size:16px}.bar nav{display:flex;gap:6px;margin-left:auto;flex-wrap:wrap}
+.bar nav a{padding:7px 12px;border-radius:999px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:14px}
+.bar nav a.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+.wrap{max-width:1080px;margin:0 auto;padding:28px 16px 90px;display:grid;grid-template-columns:220px 1fr;gap:36px}
+aside{position:sticky;top:74px;align-self:start;font-size:14px}
+aside a{display:block;color:var(--muted);text-decoration:none;padding:4px 0}aside a:hover{color:var(--accent)}
+h1{font-size:32px;line-height:1.2;margin:0 0 8px}
+h2{font-size:22px;margin:40px 0 10px;padding-top:6px}
+h3{font-size:17px;margin:22px 0 6px}
+.lead{color:var(--muted);margin:0 0 18px}
+.steps{counter-reset:s;list-style:none;padding:0;margin:0}
+.steps>li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:14px 16px 14px 56px;margin:0 0 10px;position:relative}
+.steps>li::before{content:counter(s);position:absolute;left:16px;top:14px;width:28px;height:28px;border-radius:50%;background:var(--accent);color:#fff;font-weight:700;display:grid;place-items:center;font-size:14px}
+.steps b{display:block}
+pre{background:#14161c;color:#e9eaee;border-radius:10px;padding:14px 16px;overflow:auto;font:13px/1.55 ui-monospace,Consolas,monospace;white-space:pre-wrap;position:relative}
+code{font:13.5px/1.4 ui-monospace,Consolas,monospace;background:#efede8;padding:1px 5px;border-radius:5px}
+pre code{background:none;padding:0;color:inherit}
+.copy{position:absolute;top:8px;right:8px;font:12px Inter,sans-serif;background:#2b2e37;color:#fff;border:0;border-radius:6px;padding:5px 9px;cursor:pointer}
+table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:14.5px}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--line);vertical-align:top}th{background:#faf9f7}
+.do{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.box{background:#fff;border:1px solid var(--line);border-radius:12px;padding:12px 16px}
+.box h3{margin-top:4px}.box ul{margin:0;padding-left:18px}
+.note{background:var(--soft);border-left:4px solid var(--accent);padding:10px 14px;border-radius:8px}
+.warn{background:#fff5e6;border-left:4px solid var(--warn);padding:10px 14px;border-radius:8px}
+@media (max-width:760px){.wrap{grid-template-columns:1fr}aside{display:none}.do{grid-template-columns:1fr}h1{font-size:26px}.bar nav{margin-left:0}}
+</style>
+</head>
+<body>
+<header><div class="bar"><b>FINTECH Circle Content Studio</b>
+<nav><a href="index.html">Review posts</a><a href="examples.html">Format gallery</a><a href="guide.html" class="on">How to make content</a></nav></div></header>
+<div class="wrap">
+<aside>
+<a href="#week">The weekly rhythm</a><a href="#setup">One-time setup</a><a href="#batch">Make a batch</a><a href="#prompt">The batch prompt</a>
+<a href="#hooks">Writing hooks</a><a href="#rules">The rules</a><a href="#images">Images of Susanne</a><a href="#review">Review and approve</a><a href="#post">Posting</a><a href="#help">When something fails</a>
+</aside>
+<main>
+<h1>How to make FINTECH Circle content</h1>
+<p class="lead">This playbook is for the FINTECH Circle team. It covers how to make a batch of 10 LinkedIn posts for Susanne with Claude Code and the content engine, how to review it here, and how to post it. Nothing is ever posted or scheduled automatically: a person posts every approved post.</p>
+
+<h2 id="week">The weekly rhythm</h2>
+<ol class="steps">
+<li><b>Monday: ideas</b>Claude proposes 10 ideas from the knowledge base and recent webinars. The owner picks or edits them.</li>
+<li><b>Tuesday: build</b>Claude writes, designs and renders the batch: 6 carousels and 4 single images. Every check must pass.</li>
+<li><b>Wednesday: review</b>The team and the owner review each post on the review page, tick Team and Owner, and leave feedback.</li>
+<li><b>Thursday: fix</b>Claude applies the feedback and republishes. A post is ready when both boxes are ticked.</li>
+<li><b>Following week: post</b>A team member posts each approved post at 08:30 UK and adds the first comment with the link.</li>
+</ol>
+
+<h2 id="setup">One-time setup (per laptop)</h2>
+<p>You need access to the private repo <code>growthclub-ai/fintech-circle-content</code>, Claude Code, Python 3.10 or newer, Node 18 or newer and Git. Then run this once in a terminal:</p>
+<pre><button class="copy">Copy</button><code>git clone https://github.com/growthclub-ai/fintech-circle-content.git
+cd fintech-circle-content
+python -m pip install -r requirements.txt
+python -m playwright install chromium</code></pre>
+<p>Kie.ai images (only needed for new scenes of Susanne): put the key in a file outside the repo, never in the repo itself.</p>
+<pre><button class="copy">Copy</button><code># Windows PowerShell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.config\fintech-circle\keys"
+Set-Content -Path "$env:USERPROFILE\.config\fintech-circle\keys\kie.env" -Value "KIE_API_KEY=paste_the_key_here"</code></pre>
+<div class="warn">Never paste a key into a chat, a post, a file inside the repo or a commit.</div>
+
+<h2 id="batch">Make a batch, step by step</h2>
+<ol class="steps">
+<li><b>Open the repo in Claude Code</b>Open the <code>fintech-circle-content</code> folder in VS Code with the Claude Code extension, or run <code>claude</code> in that folder.</li>
+<li><b>Paste the batch prompt</b>Use the prompt below. Claude reads RULES.md, the voice, the facts and the knowledge base first.</li>
+<li><b>Pick the ideas</b>Claude lists 10 ideas, each with a hook, a format and the facts it uses. Reply with your picks and changes.</li>
+<li><b>Add anything new as a fact first</b>A new number, quote or story goes into <code>content/corpus/facts.md</code> with its source before it appears in a post. If Susanne shares a story, paste it in and say it is hers.</li>
+<li><b>Let Claude build, render and check</b>It copies the last batch builder (for example <code>kits/content/batches/b3_build.py</code> to <code>b4_build.py</code>), writes the copy, renders every page and runs the gates and an independent critic.</li>
+<li><b>Publish the review page</b>Claude runs <code>merge_batch.py all</code>, <code>publish.py</code> and the deploy. The new batch appears in the sidebar of this site.</li>
+</ol>
+<h3>The commands Claude runs (for reference)</h3>
+<pre><button class="copy">Copy</button><code>python kits\content\batches\b4_build.py
+python kits\content\render.py outputs\content\batch-4\T1 outputs\content\batch-4\T2 ...
+python kits\content\gates.py 4
+python kits\content\merge_batch.py all
+python kits\content\publish.py
+node kits\content\deploy.mjs --github https://github.com/growthclub-ai/fintech-content-review.git</code></pre>
+
+<h2 id="prompt">The batch prompt (copy into Claude Code)</h2>
+<pre><button class="copy">Copy</button><code>Make batch N of FINTECH Circle LinkedIn content for Susanne Chishti: 10 posts, 6 carousels and 4 single images.
+
+Before writing, read RULES.md, content/corpus/voice.md (including the Hooks section), content/corpus/facts.md,
+content/corpus/knowledge-base/README.md and the last BUILD_STATE file in outputs/content/.
+
+1. Propose 10 ideas first and wait for my picks. For each: the hook (first two lines), the format from the
+   format gallery, the CTA (webinar or Board Programme) and the fact rows it uses.
+2. After I pick: copy the last batch builder to kits/content/batches/bN_build.py and build the posts.
+   Covers and closing slides use the Kie.ai scenes in content/brand/people/susanne/avatars/.
+3. Every claim must resolve to a facts.md row. No invented numbers, results or stories. No em or en dashes.
+   UK spelling, no emoji, max 3 hashtags, no closing question, the link only in the first comment.
+4. Hooks: a first-person credential or hard number, a short flip line, then a promise with an arrow.
+5. Render every post, run gates.py N until 0 failures, then run an independent critic pass and fix what it finds.
+6. Add batch N to content/queue/batches.json, run merge_batch.py all and publish.py, deploy to the review site,
+   write outputs/content/batch-N/BUILD_STATE_BN.md, commit on a branch, open a PR and merge it to main.
+Do not post or schedule anything.</code></pre>
+<p>To apply review feedback later:</p>
+<pre><button class="copy">Copy</button><code>Read the feedback on batch N in the review sheet (or I paste it below), fix each post, re-render, re-run the gates
+and the critic, republish the review site and merge to main. Tell me what changed per post.</code></pre>
+
+<h2 id="hooks">Writing hooks that earn "see more"</h2>
+<p>LinkedIn shows about two lines before "...more". Those lines decide everything.</p>
+<table>
+<tr><th>Pattern</th><th>Example from our posts</th></tr>
+<tr><td>Credential, then a flip</td><td>30 years in finance and technology taught me this about board seats: / Being a strong leader isn't enough. / Being visible is.</td></tr>
+<tr><td>Hard number</td><td>Venture investors won't back a fintech growing at 10%. / They want one that could be a 10x.</td></tr>
+<tr><td>What I learned</td><td>I spent years helping fintechs raise capital. / Here's what I learned: / Fintechs don't only run out of money. / They run out of adult supervision.</td></tr>
+<tr><td>A list with a promise</td><td>5 things to check before you accept any board seat. / Including the people you'll be sitting next to.</td></tr>
+<tr><td>Myth broken</td><td>The days of one AI expert on the board are over. / Every director is now expected to understand AI.</td></tr>
+</table>
+<p class="note">A stronger hook needs real material: Susanne's own stories, Board Programme results (placements, NED roles landed, cohort numbers) or a free resource to give away. Send them in and add them to facts.md first.</p>
+
+<h2 id="rules">The rules every post passes</h2>
+<div class="do">
+<div class="box"><h3>Always</h3><ul>
+<li>Every number, name, date and quote from a facts.md row</li><li>Her quotes word for word, hedges kept ("might", "probably")</li>
+<li>UK spelling, executive and warm in tone</li><li>The link only in the first comment, with UTM tags</li>
+<li>Carousels of 8 to 12 pages, 1080 by 1350</li><li>The next webinar date confirmed before scheduling</li></ul></div>
+<div class="box"><h3>Never</h3><ul>
+<li>Em or en dashes anywhere</li><li>Invented results, anecdotes or statistics</li>
+<li>The 260,000 community figure (blocked until confirmed)</li><li>The name of the bank she sits on</li>
+<li>Emoji, more than 3 hashtags, a closing question</li><li>Posting or scheduling without the Owner tick</li></ul></div>
+</div>
+
+<h2 id="images">Images of Susanne</h2>
+<p>Susanne consented to AI scenes made with Kie.ai from her two reference photos. Eight scenes exist (stage, boardroom, screen, City walk, board papers, founder conversation, panel, atrium) in <code>content/brand/people/susanne/avatars/</code>. Reuse them first: they cost nothing. A new scene costs about 4 credits:</p>
+<pre><button class="copy">Copy</button><code>python kits\content\image.py credit
+python kits\content\avatars.py create susanne &lt;new-pose&gt;</code></pre>
+<p>Add the new pose and its prompt to <code>content/brand/people/susanne/person.json</code> first. Scenes illustrate a lesson; a caption never says the scene really happened.</p>
+
+<h2 id="review">Review and approve on this site</h2>
+<ol class="steps">
+<li><b>Open Review posts</b>Pick the batch in the sidebar. Each post shows as it will look in the LinkedIn app. Swipe carousels; tap "...more" to read the whole post.</li>
+<li><b>Write your name once, then feedback</b>Feedback is saved to the shared review sheet and appears for everyone. Wait for "✓ Saved".</li>
+<li><b>Tick Team or Owner</b>The team ticks Team when the post is right. Only the owner ticks Owner. A post is approved when both are ticked.</li>
+<li><b>Use the filter</b>"Needs review" shows what is left; "Approved" shows what is ready to post.</li>
+</ol>
+
+<h2 id="post">Posting an approved post</h2>
+<ol class="steps">
+<li><b>Download</b>Use "Download PDF" for a carousel (upload it as a document) or "Download PNG" for an image. These are full quality.</li>
+<li><b>Copy the post</b>Use "Copy post copy" and paste it into LinkedIn on Susanne's profile. Check line breaks survived.</li>
+<li><b>Post at 08:30 UK</b>On the date shown on the card.</li>
+<li><b>Add the first comment straight away</b>"Copy first comment" holds the link with its tracking tags.</li>
+<li><b>Tell the team</b>Share the live post link so the team can engage in the first hour.</li>
+</ol>
+
+<h2 id="help">When something fails</h2>
+<table>
+<tr><th>You see</th><th>Do this</th></tr>
+<tr><td>A gate says a number has no facts.md row</td><td>Add the fact with its source, or remove the number. Never relax the gate.</td></tr>
+<tr><td>A banned dash</td><td>Rewrite with a full stop, comma, colon or "to".</td></tr>
+<tr><td>Hook over 140 characters</td><td>Shorten the first paragraph; move detail to line 3.</td></tr>
+<tr><td>Sync badge says "Offline"</td><td>Your feedback is kept in the browser and retried. Reload later; do not clear the browser.</td></tr>
+<tr><td>Kie.ai says no credits</td><td>Ask the owner to top up; reuse the existing scenes meanwhile.</td></tr>
+</table>
+</main>
+</div>
+<script>
+document.addEventListener("click", (e) => {
+  const b = e.target.closest(".copy"); if (!b) return;
+  const t = b.parentElement.querySelector("code").innerText;
+  const done = () => { b.textContent = "Copied"; setTimeout(() => (b.textContent = "Copy"), 1500); };
+  (navigator.clipboard ? navigator.clipboard.writeText(t) : Promise.reject()).then(done, () => { const r = document.createRange(); r.selectNodeContents(b.parentElement.querySelector("code")); getSelection().removeAllRanges(); getSelection().addRange(r); });
+});
+</script>
+</body>
+</html>

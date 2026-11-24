@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Format Gallery</title>
+<style>
+:root{--bg:#f6f5f2;--card:#fff;--ink:#0b0d12;--muted:#5b6170;--line:#e4e2dc;--accent:#6F46B7;--soft:#f1ecfb}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.55 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;z-index:5;background:#fff;border-bottom:1px solid var(--line)}
+.bar{max-width:1240px;margin:0 auto;padding:12px 16px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.bar b{font-size:16px}.bar nav{display:flex;gap:6px;margin-left:auto;flex-wrap:wrap}
+.bar nav a{padding:7px 12px;border-radius:999px;border:1px solid var(--line);color:var(--ink);text-decoration:none;font-size:14px}
+.bar nav a.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+main{max-width:1240px;margin:0 auto;padding:28px 16px 80px}
+h1{font-size:30px;line-height:1.2;margin:0 0 8px}
+.lead{color:var(--muted);max-width:760px;margin:0 0 24px}
+.filters{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 22px}
+.filters button{font:inherit;padding:7px 14px;border-radius:999px;border:1px solid var(--line);background:#fff;cursor:pointer}
+.filters button.on{background:var(--accent);border-color:var(--accent);color:#fff}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:18px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.card img{width:100%;aspect-ratio:4/5;object-fit:cover;display:block;background:#ddd;cursor:zoom-in}
+.body{padding:14px 16px 16px;display:flex;flex-direction:column;gap:8px}
+.body h2{font-size:17px;margin:0}
+.tag{display:inline-block;font-size:12px;font-weight:600;letter-spacing:.03em;text-transform:uppercase;color:var(--accent);background:var(--soft);padding:2px 8px;border-radius:6px;margin-right:6px}
+.body p{margin:0;color:var(--muted);font-size:14px}
+.body dl{margin:4px 0 0;display:grid;grid-template-columns:auto 1fr;gap:4px 10px;font-size:13px}
+.body dt{color:var(--muted)}.body dd{margin:0}
+code{font:12.5px/1.4 ui-monospace,Consolas,monospace;background:#f2f1ee;padding:1px 5px;border-radius:5px}
+.lb{position:fixed;inset:0;background:rgba(10,10,12,.88);display:none;align-items:center;justify-content:center;z-index:20;padding:16px}
+.lb.on{display:flex}.lb img{max-width:100%;max-height:92vh;border-radius:8px}
+@media (max-width:600px){h1{font-size:24px}.bar nav{margin-left:0}}
+</style>
+</head>
+<body>
+<header><div class="bar"><b>FINTECH Circle Content Studio</b>
+<nav><a href="index.html">Review posts</a><a href="examples.html" class="on">Format gallery</a><a href="guide.html">How to make content</a></nav></div></header>
+<main>
+<h1>Format gallery</h1>
+<p class="lead">Every format the content engine can make today, each shown with a real page from our batches. Pick formats by what the idea needs: a comparison for roles, a checklist for due diligence, a scene for the cover. Each card names the builder function to ask Claude for.</p>
+<div class="filters" id="f"></div>
+<div class="grid" id="g"></div>
+</main>
+<div class="lb" id="lb"><img alt=""></div>
+<script>
+const F = [
+ {k:"Cover", n:"Scene cover with caption bubbles", img:"media/batch-3/T1/p01.jpg", post:"Batch 3 · T1", use:"The first page of every carousel. Susanne in a Kie.ai scene, her own line in white bubbles, the key words in purple.", fn:"scene(name, bubbles)", rule:"Bubble text is her real words (BL rows). Scenes illustrate, never claim an event happened."},
+ {k:"Cover", n:"Closing scene with the CTA", img:"media/batch-3/T1/p08.jpg", post:"Batch 3 · T1", use:"The last page of a carousel: a different scene and the webinar or programme CTA.", fn:"scene(name, bubbles)", rule:"Never a link on the image: the link goes in the first comment."},
+ {k:"Image", n:"Tweet-style quote card", img:"media/batch-3/I1/image.jpg", post:"Batch 3 · I1", use:"One strong line of hers, framed like a post, floating over a scene.", fn:"tweet(name, line, em)", rule:"Exact quote from a BL row, credited to the source."},
+ {k:"Image", n:"Bubbles over a portrait", img:"media/batch-3/I2/image.jpg", post:"Batch 3 · I2", use:"An opinion post in her voice (for example equity versus options).", fn:"scene(name, bubbles) as the single image", rule:"Opinions stay hers: \"I think...\"."},
+ {k:"Image", n:"Checklist card", img:"media/batch-3/I3/image.jpg", post:"Batch 3 · I3", use:"Five to six things to check before a decision (joining a board).", fn:"items(title, rows, chk=True)", rule:"Hedged where she hedged (\"might have SMCR exposure\")."},
+ {k:"Image", n:"Numbered tiles", img:"media/batch-3/I4/image.jpg", post:"Batch 3 · I4", use:"A framework in six parts, such as the six areas of the Board Programme.", fn:"tiles in the I4 override block", rule:"Promotional posts carry the Board Programme CTA."},
+ {k:"Inside", n:"Definition table", img:"media/batch-3/T2/p02.jpg", post:"Batch 3 · T2", use:"One role or concept per page: what you do, authority, watch out.", fn:"role(lab, title, rows, src)", rule:"Source line at the bottom of every taught page."},
+ {k:"Inside", n:"Staircase path", img:"media/batch-3/T2/p05.jpg", post:"Batch 3 · T2", use:"A sequence or career path in four steps.", fn:"path page in b3_build.py", rule:"Equal steps: no implied data."},
+ {k:"Inside", n:"Quote page", img:"media/batch-3/T2/p06.jpg", post:"Batch 3 · T2", use:"A pause between teaching pages with one line of hers.", fn:"quote(text, who)", rule:"Credit the source (webinar or module), not her name again."},
+ {k:"Inside", n:"Then and now", img:"media/batch-3/T5/p02.jpg", post:"Batch 3 · T5", use:"Before and after, or narrative versus fundamentals.", fn:"duo(title, a_head, a_body, b_head, b_body, foot)", rule:"Both sides sourced."},
+ {k:"Inside", n:"Numbered step", img:"media/batch-3/T3/p03.jpg", post:"Batch 3 · T3", use:"Tutorial carousels: one verb or step per page.", fn:"numbered(n, lab, title, body)", rule:"Build exact counts in HTML, never ask the image model to count."},
+ {k:"Inside", n:"Question checklist", img:"media/batch-3/T3/p08.jpg", post:"Batch 3 · T3", use:"Questions to take into the next board meeting.", fn:"items(title, rows, chk=True)", rule:"Questions from the curriculum (WS rows)."},
+ {k:"Inside", n:"Metric list", img:"media/batch-3/T5/p04.jpg", post:"Batch 3 · T5", use:"What a board reads: four to five metrics with a heading.", fn:"items(title, rows)", rule:"No invented benchmarks or numbers."},
+ {k:"Inside", n:"Tag pills", img:"media/batch-3/T6/p05.jpg", post:"Batch 3 · T6", use:"Short attributes, such as what investors want now.", fn:"pills page in b3_build.py", rule:"Keep each pill under four words."},
+ {k:"Inside", n:"Timeline", img:"media/batch-3/T6/p03.jpg", post:"Batch 3 · T6", use:"A horizon or a sequence with a start and an end.", fn:"timeline page in b3_build.py", rule:"Rules of thumb labelled as rules of thumb."}
+];
+const g = document.getElementById("g"), f = document.getElementById("f"), lb = document.getElementById("lb");
+const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const kinds = ["All", ...new Set(F.map((x) => x.k))];
+const label = {Cover:"Covers and closers", Image:"Single images", Inside:"Carousel pages"};
+let on = "All";
+function draw() {
+  f.innerHTML = kinds.map((k) => `<button class="${k === on ? "on" : ""}" data-k="${k}">${k === "All" ? "All formats" : label[k]}</button>`).join("");
+  g.innerHTML = F.filter((x) => on === "All" || x.k === on).map((x) => `<article class="card"><img loading="lazy" src="${x.img}" alt="${esc(x.n)}"><div class="body">
+    <div><span class="tag">${label[x.k]}</span></div><h2>${esc(x.n)}</h2><p>${esc(x.use)}</p>
+    <dl><dt>Ask for</dt><dd><code>${esc(x.fn)}</code></dd><dt>Rule</dt><dd>${esc(x.rule)}</dd><dt>Seen in</dt><dd>${esc(x.post)}</dd></dl></div></article>`).join("");
+}
+f.addEventListener("click", (e) => { const b = e.target.closest("button"); if (b) { on = b.dataset.k; draw(); } });
+g.addEventListener("click", (e) => { const i = e.target.closest("img"); if (i) { lb.firstElementChild.src = i.src; lb.classList.add("on"); } });
+lb.addEventListener("click", () => lb.classList.remove("on"));
+draw();
+</script>
+</body>
+</html>
