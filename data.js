@@ -45,7 +45,7 @@ window.STUDIO = {
    "time": "08:30",
    "tz": "Europe/London",
    "avatar_ok": true,
-   "avatar": "media/avatars/susanne.jpg?v=20261124141657",
+   "avatar": "media/avatars/susanne.jpg?v=20261124144325",
    "tz_label": "UK"
   },
   {
@@ -72,19 +72,19 @@ window.STUDIO = {
    "idea": "Speaking at Bluechip26: three board questions on crypto safety",
    "format": "Image",
    "cta": "event",
-   "text": "Thank you to the Bluechip team for welcoming FINTECH Circle as media partner for the second year running.\n\nI will be speaking at Bluechip26, a crypto safety conference, on 10 to 11 November in Vienna. It is presented by Raiffeisen Bank International, with Mastercard as strategic partner.\n\nCrypto safety is a board-level issue. Three questions I would put to any board whose company touches digital assets:\n\n🔹 Who owns digital asset risk at board level?\n🔹 Which controls must be in place before customers can buy, hold or move crypto?\n🔹 How would we know, early, if a partner in the chain failed?\n\nThe future of digital assets will be shaped by the boards that ask these questions first.\n\nIf you are in Vienna, come and say hello. Tickets in the first comment. 👏\n\n#Bluechip26 #CryptoSafety",
+   "text": "Thank you to the Bluechip team for welcoming FINTECH Circle as media partner for the second year running.\n\nI will be speaking at Bluechip26, a crypto safety conference, on 10 to 11 November in Vienna. It is presented by Raiffeisen Bank International, with Mastercard as strategic partner.\n\nCrypto safety is a board-level issue. Three questions I would put to any board whose company touches digital assets:\n\n• Who owns digital asset risk at board level?\n• Which controls must be in place before customers can buy, hold or move crypto?\n• How would we know, early, if a partner in the chain failed?\n\nThe future of digital assets will be shaped by the boards that ask these questions first.\n\nIf you are in Vienna, come and say hello. Tickets in the first comment. 👏\n\n#Bluechip26 #CryptoSafety",
    "first_comment": "Bluechip26 tickets:\nhttps://conference.bluechip.org/",
    "media": {
     "type": "image",
     "files": [
-     "media/batch-1/I1/image.jpg?v=20261124141657"
+     "media/batch-1/I1/image.jpg?v=20261124144325"
     ],
     "title": "Speaking at Bluechip26: three board questions on crypto safety",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-1/I1/fintech-circle-b1-I1-2026-11-06-susanne.png?v=20261124141657",
+     "href": "media/batch-1/I1/fintech-circle-b1-I1-2026-11-06-susanne.png?v=20261124144325",
      "name": "fintech-circle-b1-I1-2026-11-06-susanne.png",
      "bytes": 116705,
      "w": 1080,
@@ -120,28 +120,28 @@ window.STUDIO = {
    "idea": "The 6 questions a board must answer before approving AI",
    "format": "Carousel, 10 pages",
    "cta": "board-programme",
-   "text": "Thank you to ABA Banking Journal for publishing Ravi Nemalikanti's framework for boards approving AI.\n\nNemalikanti, chief product and technology officer at Abrigo, a software provider to banks, argues that AI governance is a set of operational decisions, not a policy document. And each decision is made before deployment. It is written for US banks, but the questions travel to any regulated board.\n\nSix questions a board should be able to answer before approving an AI use case:\n\n🔹 In what functional areas and workflows will AI be used?\n🔹 How are the boundaries for prohibited applications and systems defined?\n🔹 What are the human-in-the-loop requirements?\n🔹 How will risk be identified, documented, measured, monitored and mitigated?\n🔹 What controls govern data, vendors and model inputs?\n🔹 Who is accountable for AI decisions and outcomes?\n\nHe is clear it is not an exhaustive list. But it moves the board from \"how do we use AI?\" to \"how do we govern the intelligence we are deploying?\"\n\nDone well, governance is what lets a board say yes. As he puts it: \"Boards that trust the governance structure will approve the next use case.\"\n\nThis is the work I do with leaders in the FINTECH Circle Board Programme. Link in the first comment. 🚀\n\nWhich of the six does your board find hardest to answer?\n\n#BoardGovernance #AIGovernance",
+   "text": "Thank you to ABA Banking Journal for publishing Ravi Nemalikanti's framework for boards approving AI.\n\nNemalikanti, chief product and technology officer at Abrigo, a software provider to banks, argues that AI governance is a set of operational decisions, not a policy document. And each decision is made before deployment. It is written for US banks, but the questions travel to any regulated board.\n\nSix questions a board should be able to answer before approving an AI use case:\n\n• In what functional areas and workflows will AI be used?\n• How are the boundaries for prohibited applications and systems defined?\n• What are the human-in-the-loop requirements?\n• How will risk be identified, documented, measured, monitored and mitigated?\n• What controls govern data, vendors and model inputs?\n• Who is accountable for AI decisions and outcomes?\n\nHe is clear it is not an exhaustive list. But it moves the board from \"how do we use AI?\" to \"how do we govern the intelligence we are deploying?\"\n\nDone well, governance is what lets a board say yes. As he puts it: \"Boards that trust the governance structure will approve the next use case.\"\n\nThis is the work I do with leaders in the FINTECH Circle Board Programme. Link in the first comment. 🚀\n\nWhich of the six does your board find hardest to answer?\n\n#BoardGovernance #AIGovernance",
    "first_comment": "Join the Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b1&utm_content=ai-governance-carousel-b1T1\n\nRavi Nemalikanti's article in ABA Banking Journal:\nhttps://bankingjournal.aba.com/2026/10/bringing-ai-into-banks-safely-a-framework-for-boards/",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T1/p01.jpg?v=20261124141657",
-     "media/batch-1/T1/p02.jpg?v=20261124141657",
-     "media/batch-1/T1/p03.jpg?v=20261124141657",
-     "media/batch-1/T1/p04.jpg?v=20261124141657",
-     "media/batch-1/T1/p05.jpg?v=20261124141657",
-     "media/batch-1/T1/p06.jpg?v=20261124141657",
-     "media/batch-1/T1/p07.jpg?v=20261124141657",
-     "media/batch-1/T1/p08.jpg?v=20261124141657",
-     "media/batch-1/T1/p09.jpg?v=20261124141657",
-     "media/batch-1/T1/p10.jpg?v=20261124141657"
+     "media/batch-1/T1/p01.jpg?v=20261124144325",
+     "media/batch-1/T1/p02.jpg?v=20261124144325",
+     "media/batch-1/T1/p03.jpg?v=20261124144325",
+     "media/batch-1/T1/p04.jpg?v=20261124144325",
+     "media/batch-1/T1/p05.jpg?v=20261124144325",
+     "media/batch-1/T1/p06.jpg?v=20261124144325",
+     "media/batch-1/T1/p07.jpg?v=20261124144325",
+     "media/batch-1/T1/p08.jpg?v=20261124144325",
+     "media/batch-1/T1/p09.jpg?v=20261124144325",
+     "media/batch-1/T1/p10.jpg?v=20261124144325"
     ],
     "title": "The 6 questions a board must answer before approving AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-1/T1/fintech-circle-b1-T1-2026-11-03-susanne.pdf?v=20261124141657",
+     "href": "media/batch-1/T1/fintech-circle-b1-T1-2026-11-03-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b1-T1-2026-11-03-susanne.pdf",
      "bytes": 1033870,
      "w": 1080,
@@ -189,29 +189,29 @@ window.STUDIO = {
    "idea": "Executive mindset vs board mindset, in seven pairs",
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
-   "text": "The CV that secured your last executive role will not secure your first board mandate.\n\nI often see senior leaders make this mistake. The shift is from doing to governing:\n\n🔹 From running the plan to testing it\n🔹 From giving answers to asking the right questions\n🔹 From defending your function to weighing the whole company\n🔹 From this year's targets to long-term value and risk\n🔹 From waiting for the next promotion to building a deliberate board strategy\n🔹 From \"I'll start when I leave\" to starting while you are still employed\n\nAnd do not wait for an advert. Many board seats are filled through closed networks long before a role is advertised.\n\nKnowing the difference matters. But it is not a binary decision. You can build the board mindset alongside your executive career.\n\nIt is a strategy, not a by-product of seniority.\n\nThis is the shift I work on with leaders in the FINTECH Circle Board Programme. Link in the first comment.\n\nWhich of these shifts was hardest for you?\n\n#BoardCareers #NonExecutiveDirector",
+   "text": "The CV that secured your last executive role will not secure your first board mandate.\n\nI often see senior leaders make this mistake. The shift is from doing to governing:\n\n• From running the plan to testing it\n• From giving answers to asking the right questions\n• From defending your function to weighing the whole company\n• From this year's targets to long-term value and risk\n• From waiting for the next promotion to building a deliberate board strategy\n• From \"I'll start when I leave\" to starting while you are still employed\n\nAnd do not wait for an advert. Many board seats are filled through closed networks long before a role is advertised.\n\nKnowing the difference matters. But it is not a binary decision. You can build the board mindset alongside your executive career.\n\nIt is a strategy, not a by-product of seniority.\n\nThis is the shift I work on with leaders in the FINTECH Circle Board Programme. Link in the first comment.\n\nWhich of these shifts was hardest for you?\n\n#BoardCareers #NonExecutiveDirector",
    "first_comment": "Join the Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b1&utm_content=portfolio-career-carousel-b1T2",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T2/p01.jpg?v=20261124141657",
-     "media/batch-1/T2/p02.jpg?v=20261124141657",
-     "media/batch-1/T2/p03.jpg?v=20261124141657",
-     "media/batch-1/T2/p04.jpg?v=20261124141657",
-     "media/batch-1/T2/p05.jpg?v=20261124141657",
-     "media/batch-1/T2/p06.jpg?v=20261124141657",
-     "media/batch-1/T2/p07.jpg?v=20261124141657",
-     "media/batch-1/T2/p08.jpg?v=20261124141657",
-     "media/batch-1/T2/p09.jpg?v=20261124141657"
+     "media/batch-1/T2/p01.jpg?v=20261124144325",
+     "media/batch-1/T2/p02.jpg?v=20261124144325",
+     "media/batch-1/T2/p03.jpg?v=20261124144325",
+     "media/batch-1/T2/p04.jpg?v=20261124144325",
+     "media/batch-1/T2/p05.jpg?v=20261124144325",
+     "media/batch-1/T2/p06.jpg?v=20261124144325",
+     "media/batch-1/T2/p07.jpg?v=20261124144325",
+     "media/batch-1/T2/p08.jpg?v=20261124144325",
+     "media/batch-1/T2/p09.jpg?v=20261124144325"
     ],
     "title": "Executive mindset vs board mindset, in seven pairs",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-1/T2/fintech-circle-b1-T2-2026-11-04-susanne.pdf?v=20261124141657",
+     "href": "media/batch-1/T2/fintech-circle-b1-T2-2026-11-04-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b1-T2-2026-11-04-susanne.pdf",
-     "bytes": 821346,
+     "bytes": 821300,
      "w": 1080,
      "h": 1350
     }
@@ -248,26 +248,26 @@ window.STUDIO = {
    "idea": "Start your board career while you are still employed: 5 steps",
    "format": "Carousel, 8 pages",
    "cta": "board-programme",
-   "text": "You don't need to quit your job to start your board career.\n\nThe best time to prepare for a non-executive role is while you still have your full-time one. You build knowledge, expertise and a network without time pressure, and you reach the relationships before you need them.\n\nFive steps to start now:\n\n🔹 Knowledge: learn the board's agenda. Governance, regulation, risk and AI oversight.\n🔹 Story: rewrite your achievements as decisions and judgement, not deliverables.\n🔹 Network: meet founders, investors and chairs, not only other bankers.\n🔹 Practice: build board exposure through fractional or advisory roles, with your employer's approval.\n🔹 Focus: choose the sector, stage and committee where you add most.\n\nNo one builds alone. If you are ready to start, the FINTECH Circle Board Programme is a good place to begin. Link in the first comment. 🚀\n\nWhich step are you working on right now?\n\n#PortfolioCareer #BoardCareers",
+   "text": "You don't need to quit your job to start your board career.\n\nThe best time to prepare for a non-executive role is while you still have your full-time one. You build knowledge, expertise and a network without time pressure, and you reach the relationships before you need them.\n\nFive steps to start now:\n\n• Knowledge: learn the board's agenda. Governance, regulation, risk and AI oversight.\n• Story: rewrite your achievements as decisions and judgement, not deliverables.\n• Network: meet founders, investors and chairs, not only other bankers.\n• Practice: build board exposure through fractional or advisory roles, with your employer's approval.\n• Focus: choose the sector, stage and committee where you add most.\n\nNo one builds alone. If you are ready to start, the FINTECH Circle Board Programme is a good place to begin. Link in the first comment. 🚀\n\nWhich step are you working on right now?\n\n#PortfolioCareer #BoardCareers",
    "first_comment": "Join the Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b1&utm_content=portfolio-career-carousel-b1T3",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T3/p01.jpg?v=20261124141657",
-     "media/batch-1/T3/p02.jpg?v=20261124141657",
-     "media/batch-1/T3/p03.jpg?v=20261124141657",
-     "media/batch-1/T3/p04.jpg?v=20261124141657",
-     "media/batch-1/T3/p05.jpg?v=20261124141657",
-     "media/batch-1/T3/p06.jpg?v=20261124141657",
-     "media/batch-1/T3/p07.jpg?v=20261124141657",
-     "media/batch-1/T3/p08.jpg?v=20261124141657"
+     "media/batch-1/T3/p01.jpg?v=20261124144325",
+     "media/batch-1/T3/p02.jpg?v=20261124144325",
+     "media/batch-1/T3/p03.jpg?v=20261124144325",
+     "media/batch-1/T3/p04.jpg?v=20261124144325",
+     "media/batch-1/T3/p05.jpg?v=20261124144325",
+     "media/batch-1/T3/p06.jpg?v=20261124144325",
+     "media/batch-1/T3/p07.jpg?v=20261124144325",
+     "media/batch-1/T3/p08.jpg?v=20261124144325"
     ],
     "title": "Start your board career while you are still employed: 5 steps",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-1/T3/fintech-circle-b1-T3-2026-11-05-susanne.pdf?v=20261124141657",
+     "href": "media/batch-1/T3/fintech-circle-b1-T3-2026-11-05-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b1-T3-2026-11-05-susanne.pdf",
      "bytes": 837981,
      "w": 1080,
@@ -309,14 +309,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I1/image.jpg?v=20261124141657"
+     "media/batch-2/I1/image.jpg?v=20261124144325"
     ],
     "title": "The biggest fintech risk is running out of adult supervision",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I1/fintech-circle-b2-I1-2026-11-11-susanne.png?v=20261124141657",
+     "href": "media/batch-2/I1/fintech-circle-b2-I1-2026-11-11-susanne.png?v=20261124144325",
      "name": "fintech-circle-b2-I1-2026-11-11-susanne.png",
      "bytes": 91487,
      "w": 1080,
@@ -354,14 +354,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I3/image.jpg?v=20261124141657"
+     "media/batch-2/I3/image.jpg?v=20261124144325"
     ],
     "title": "The CV that secured your last executive role will not secure your first board mandate",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I3/fintech-circle-b2-I3-2026-11-17-susanne.png?v=20261124141657",
+     "href": "media/batch-2/I3/fintech-circle-b2-I3-2026-11-17-susanne.png?v=20261124144325",
      "name": "fintech-circle-b2-I3-2026-11-17-susanne.png",
      "bytes": 83575,
      "w": 1080,
@@ -399,14 +399,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I4/image.jpg?v=20261124141657"
+     "media/batch-2/I4/image.jpg?v=20261124144325"
     ],
     "title": "The Insider Roadmap to UK Fintech Board Seats 2027, Friday 20 November",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I4/fintech-circle-b2-I4-2026-11-12-susanne.png?v=20261124141657",
+     "href": "media/batch-2/I4/fintech-circle-b2-I4-2026-11-12-susanne.png?v=20261124144325",
      "name": "fintech-circle-b2-I4-2026-11-12-susanne.png",
      "bytes": 88552,
      "w": 1080,
@@ -450,14 +450,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I5/image.jpg?v=20261124141657"
+     "media/batch-2/I5/image.jpg?v=20261124144325"
     ],
     "title": "The Insider Roadmap to UK Fintech Board Seats 2027, Friday 20 November",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I5/fintech-circle-b2-I5-2026-11-12-company.png?v=20261124141657",
+     "href": "media/batch-2/I5/fintech-circle-b2-I5-2026-11-12-company.png?v=20261124144325",
      "name": "fintech-circle-b2-I5-2026-11-12-company.png",
      "bytes": 129404,
      "w": 1080,
@@ -500,23 +500,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T1/p01.jpg?v=20261124141657",
-     "media/batch-2/T1/p02.jpg?v=20261124141657",
-     "media/batch-2/T1/p03.jpg?v=20261124141657",
-     "media/batch-2/T1/p04.jpg?v=20261124141657",
-     "media/batch-2/T1/p05.jpg?v=20261124141657",
-     "media/batch-2/T1/p06.jpg?v=20261124141657",
-     "media/batch-2/T1/p07.jpg?v=20261124141657",
-     "media/batch-2/T1/p08.jpg?v=20261124141657",
-     "media/batch-2/T1/p09.jpg?v=20261124141657",
-     "media/batch-2/T1/p10.jpg?v=20261124141657"
+     "media/batch-2/T1/p01.jpg?v=20261124144325",
+     "media/batch-2/T1/p02.jpg?v=20261124144325",
+     "media/batch-2/T1/p03.jpg?v=20261124144325",
+     "media/batch-2/T1/p04.jpg?v=20261124144325",
+     "media/batch-2/T1/p05.jpg?v=20261124144325",
+     "media/batch-2/T1/p06.jpg?v=20261124144325",
+     "media/batch-2/T1/p07.jpg?v=20261124144325",
+     "media/batch-2/T1/p08.jpg?v=20261124144325",
+     "media/batch-2/T1/p09.jpg?v=20261124144325",
+     "media/batch-2/T1/p10.jpg?v=20261124144325"
     ],
     "title": "Six questions for a board to ask about AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-2/T1/fintech-circle-b2-T1-2026-11-10-susanne.pdf?v=20261124141657",
+     "href": "media/batch-2/T1/fintech-circle-b2-T1-2026-11-10-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b2-T1-2026-11-10-susanne.pdf",
      "bytes": 1049297,
      "w": 1080,
@@ -563,21 +563,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T2/p01.jpg?v=20261124141657",
-     "media/batch-2/T2/p02.jpg?v=20261124141657",
-     "media/batch-2/T2/p03.jpg?v=20261124141657",
-     "media/batch-2/T2/p04.jpg?v=20261124141657",
-     "media/batch-2/T2/p05.jpg?v=20261124141657",
-     "media/batch-2/T2/p06.jpg?v=20261124141657",
-     "media/batch-2/T2/p07.jpg?v=20261124141657",
-     "media/batch-2/T2/p08.jpg?v=20261124141657"
+     "media/batch-2/T2/p01.jpg?v=20261124144325",
+     "media/batch-2/T2/p02.jpg?v=20261124144325",
+     "media/batch-2/T2/p03.jpg?v=20261124144325",
+     "media/batch-2/T2/p04.jpg?v=20261124144325",
+     "media/batch-2/T2/p05.jpg?v=20261124144325",
+     "media/batch-2/T2/p06.jpg?v=20261124144325",
+     "media/batch-2/T2/p07.jpg?v=20261124144325",
+     "media/batch-2/T2/p08.jpg?v=20261124144325"
     ],
     "title": "The FINTECH Circle Board Programme",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-2/T2/fintech-circle-b2-T2-2026-11-18-susanne.pdf?v=20261124141657",
+     "href": "media/batch-2/T2/fintech-circle-b2-T2-2026-11-18-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b2-T2-2026-11-18-susanne.pdf",
      "bytes": 643593,
      "w": 1080,
@@ -617,21 +617,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T3/p01.jpg?v=20261124141657",
-     "media/batch-2/T3/p02.jpg?v=20261124141657",
-     "media/batch-2/T3/p03.jpg?v=20261124141657",
-     "media/batch-2/T3/p04.jpg?v=20261124141657",
-     "media/batch-2/T3/p05.jpg?v=20261124141657",
-     "media/batch-2/T3/p06.jpg?v=20261124141657",
-     "media/batch-2/T3/p07.jpg?v=20261124141657",
-     "media/batch-2/T3/p08.jpg?v=20261124141657"
+     "media/batch-2/T3/p01.jpg?v=20261124144325",
+     "media/batch-2/T3/p02.jpg?v=20261124144325",
+     "media/batch-2/T3/p03.jpg?v=20261124144325",
+     "media/batch-2/T3/p04.jpg?v=20261124144325",
+     "media/batch-2/T3/p05.jpg?v=20261124144325",
+     "media/batch-2/T3/p06.jpg?v=20261124144325",
+     "media/batch-2/T3/p07.jpg?v=20261124144325",
+     "media/batch-2/T3/p08.jpg?v=20261124144325"
     ],
     "title": "The 6-step insider board roadmap",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-2/T3/fintech-circle-b2-T3-2026-11-13-company.pdf?v=20261124141657",
+     "href": "media/batch-2/T3/fintech-circle-b2-T3-2026-11-13-company.pdf?v=20261124144325",
      "name": "fintech-circle-b2-T3-2026-11-13-company.pdf",
      "bytes": 767001,
      "w": 1080,
@@ -669,19 +669,19 @@ window.STUDIO = {
    "idea": "The governance voice on a founder-led board",
    "format": "Image",
    "cta": "webinar",
-   "text": "I spent years helping fintechs raise capital.\n\nHere's what I learned:\nFintechs don't only run out of money.\nThey run out of adult supervision.\n\nOn a private, VC-backed board, you might be one of the first more experienced governance voices leading the founder, the CEO, in the right direction.\n\nIt's really about building the governance muscle from a lower baseline.\n\nThat is a very different job from a listed board:\n\nPrivate and VC-backed. Founder influence is much stronger. Governance maturity varies with stage and investors. Few independent NEDs.\n\nPE-backed. Later stage, majority stakes, a focus on EBITDA, execution and forecasting. More structured governance.\n\nPublic. Detailed disclosure, more independent members, more committees, disciplined communication to the market.\n\nIt's a very different look and feel, and a very different experience.\n\nKnow which board you are walking into before you say yes.\n\nPrivate fintech boards are part of the next board webinar. Link in the first comment.\n\n#BoardGovernance #Fintech #NonExecutiveDirector",
+   "text": "I spent years helping fintechs raise capital.\n\nHere's what I learned:\nFintechs don't only run out of money.\nThey run out of adult supervision.\n\nOn a private, VC-backed board, you might be one of the first more experienced governance voices leading the founder, the CEO, in the right direction.\n\nIt's really about building the governance muscle from a lower baseline.\n\nThat is a very different job from a listed board:\n\n• Private and VC-backed. Founder influence is much stronger. Governance maturity varies with stage and investors. Few independent NEDs.\n\n• PE-backed. Later stage, majority stakes, a focus on EBITDA, execution and forecasting. More structured governance.\n\n• Public. Detailed disclosure, more independent members, more committees, disciplined communication to the market.\n\nIt's a very different look and feel, and a very different experience.\n\nKnow which board you are walking into before you say yes.\n\nPrivate fintech boards are part of the next board webinar. Link in the first comment.\n\n#BoardGovernance #Fintech #NonExecutiveDirector",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=board-governance-image-b3I1",
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I1/image.jpg?v=20261124141657"
+     "media/batch-3/I1/image.jpg?v=20261124144325"
     ],
     "title": "The governance voice on a founder-led board",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I1/fintech-circle-b3-I1-2026-11-27-susanne.png?v=20261124141657",
+     "href": "media/batch-3/I1/fintech-circle-b3-I1-2026-11-27-susanne.png?v=20261124144325",
      "name": "fintech-circle-b3-I1-2026-11-27-susanne.png",
      "bytes": 1165892,
      "w": 1080,
@@ -718,19 +718,19 @@ window.STUDIO = {
    "idea": "Equity vs options for board members",
    "format": "Image",
    "cta": "webinar",
-   "text": "Equity or options for your board seat?\nI think equity is always better. Here's why ↓\n\nOn a fintech board, the non-cash part of your pay can be worth more than the cash.\n\nWith equity you have the shares and you are on the cap table. An option is a promise to make you a shareholder in the future.\n\nBefore you agree terms:\n\nOn a private fintech board, pay is negotiable.\nFounders often prefer to defer equity, so options vest over time.\nA common rule of thumb is three years with a one-year cliff: the first third vests after the first year, all of it after three.\nOn a public board, it's different. The remuneration committee sets pay, and it's published in the annual report.\n\nAnd always get tax advice first.\n\nBoard pay is part of the next board webinar. Link in the first comment.\n\n#NonExecutiveDirector #PortfolioCareer #Fintech",
+   "text": "Equity or options for your board seat?\nI think equity is always better. Here's why ↓\n\nOn a fintech board, the non-cash part of your pay can be worth more than the cash.\n\nWith equity you have the shares and you are on the cap table. An option is a promise to make you a shareholder in the future.\n\nBefore you agree terms:\n\n• On a private fintech board, pay is negotiable.\n• Founders often prefer to defer equity, so options vest over time.\n• A common rule of thumb is three years with a one-year cliff: the first third vests after the first year, all of it after three.\n• On a public board, it's different. The remuneration committee sets pay, and it's published in the annual report.\n\nAnd always get tax advice first.\n\nBoard pay is part of the next board webinar. Link in the first comment.\n\n#NonExecutiveDirector #PortfolioCareer #Fintech",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=portfolio-career-image-b3I2",
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I2/image.jpg?v=20261124141657"
+     "media/batch-3/I2/image.jpg?v=20261124144325"
     ],
     "title": "Equity vs options for board members",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I2/fintech-circle-b3-I2-2026-12-03-susanne.png?v=20261124141657",
+     "href": "media/batch-3/I2/fintech-circle-b3-I2-2026-12-03-susanne.png?v=20261124144325",
      "name": "fintech-circle-b3-I2-2026-12-03-susanne.png",
      "bytes": 1113902,
      "w": 1080,
@@ -765,19 +765,19 @@ window.STUDIO = {
    "idea": "Before you join a board: the due diligence checklist",
    "format": "Image",
    "cta": "webinar",
-   "text": "5 things to check before you accept any board seat.\nIncluding the people you'll be sitting next to.\n\nIn the UK, accountability is personal. Your name is on the line.\n\nThe checklist ↓\n\nIn a UK regulated firm, you might have SMCR exposure. Know it before you sign.\nUnderstand the fiduciary and reputational risk.\nLook at the other board members and the founders.\nLook at the financials, the products and services, and the reputation.\nCheck the D&O cover, whether you join as a NED, a chair or an adviser.\n\nA board seat carries your name. Protect it before you accept it.\n\nRegulatory and reputational risk is one of the six areas of the next board webinar. Link in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #RiskManagement",
+   "text": "5 things to check before you accept any board seat.\nIncluding the people you'll be sitting next to.\n\nIn the UK, accountability is personal. Your name is on the line.\n\nThe checklist ↓\n\n• In a UK regulated firm, you might have SMCR exposure. Know it before you sign.\n• Understand the fiduciary and reputational risk.\n• Look at the other board members and the founders.\n• Look at the financials, the products and services, and the reputation.\n• Check the D&O cover, whether you join as a NED, a chair or an adviser.\n\nA board seat carries your name. Protect it before you accept it.\n\nRegulatory and reputational risk is one of the six areas of the next board webinar. Link in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #RiskManagement",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=regulation-image-b3I3",
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I3/image.jpg?v=20261124141657"
+     "media/batch-3/I3/image.jpg?v=20261124144325"
     ],
     "title": "Before you join a board: the due diligence checklist",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I3/fintech-circle-b3-I3-2026-12-04-susanne.png?v=20261124141657",
+     "href": "media/batch-3/I3/fintech-circle-b3-I3-2026-12-04-susanne.png?v=20261124144325",
      "name": "fintech-circle-b3-I3-2026-12-04-susanne.png",
      "bytes": 131844,
      "w": 1080,
@@ -816,14 +816,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I4/image.jpg?v=20261124141657"
+     "media/batch-3/I4/image.jpg?v=20261124144325"
     ],
     "title": "Six areas a board-ready executive needs",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I4/fintech-circle-b3-I4-2026-12-09-susanne.png?v=20261124141657",
+     "href": "media/batch-3/I4/fintech-circle-b3-I4-2026-12-09-susanne.png?v=20261124144325",
      "name": "fintech-circle-b3-I4-2026-12-09-susanne.png",
      "bytes": 95954,
      "w": 1080,
@@ -867,21 +867,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T1/p01.jpg?v=20261124141657",
-     "media/batch-3/T1/p02.jpg?v=20261124141657",
-     "media/batch-3/T1/p03.jpg?v=20261124141657",
-     "media/batch-3/T1/p04.jpg?v=20261124141657",
-     "media/batch-3/T1/p05.jpg?v=20261124141657",
-     "media/batch-3/T1/p06.jpg?v=20261124141657",
-     "media/batch-3/T1/p07.jpg?v=20261124141657",
-     "media/batch-3/T1/p08.jpg?v=20261124141657"
+     "media/batch-3/T1/p01.jpg?v=20261124144325",
+     "media/batch-3/T1/p02.jpg?v=20261124144325",
+     "media/batch-3/T1/p03.jpg?v=20261124144325",
+     "media/batch-3/T1/p04.jpg?v=20261124144325",
+     "media/batch-3/T1/p05.jpg?v=20261124144325",
+     "media/batch-3/T1/p06.jpg?v=20261124144325",
+     "media/batch-3/T1/p07.jpg?v=20261124144325",
+     "media/batch-3/T1/p08.jpg?v=20261124144325"
     ],
     "title": "Four reasons strong executives never get a board seat",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T1/fintech-circle-b3-T1-2026-11-24-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T1/fintech-circle-b3-T1-2026-11-24-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T1-2026-11-24-susanne.pdf",
      "bytes": 940029,
      "w": 1080,
@@ -925,26 +925,26 @@ window.STUDIO = {
    "idea": "Advisor, fractional, NED or chair: who carries what",
    "format": "Carousel, 8 pages",
    "cta": "webinar",
-   "text": "You might work on a business 3 days a month.\nAnd still be as liable as every other director on the board.\n\nThat's the NED role. Before you say yes to any board role, know which of these 4 you're actually taking on ↓\n\nEach one has clear boundaries and expectations:\n\nFractional CXO. A part-time executive, responsible for delivery. It is not a board light role. It's a very different role.\n\nBoard advisor. Non-executive, not a director, no formal fiduciary duty. If your advice is ignored, there is not much you can do about it. And be careful not to become a shadow director.\n\nNED. Listed at Companies House as a director. Equally liable and responsible. In regulated firms, answerable to the regulators.\n\nChair. Leads the board, and is responsible for how well it works.\n\nThe usual path runs from advisor or fractional, to NED, to committee chair, to chair.\n\nAs they always say: don't start all your roles at once. Sequence them.\n\nAnd choose the role that is right for you, the one you will enjoy most and feel most comfortable in.\n\nSwipe through to see who carries what.\n\nAll four roles are covered in the next board webinar. Link in the first comment.\n\n#PortfolioCareer #NonExecutiveDirector #BoardGovernance",
+   "text": "You might work on a business 3 days a month.\nAnd still be as liable as every other director on the board.\n\nThat's the NED role. Before you say yes to any board role, know which of these 4 you're actually taking on ↓\n\nEach one has clear boundaries and expectations:\n\n• Fractional CXO. A part-time executive, responsible for delivery. It is not a board light role. It's a very different role.\n\n• Board advisor. Non-executive, not a director, no formal fiduciary duty. If your advice is ignored, there is not much you can do about it. And be careful not to become a shadow director.\n\n• NED. Listed at Companies House as a director. Equally liable and responsible. In regulated firms, answerable to the regulators.\n\n• Chair. Leads the board, and is responsible for how well it works.\n\nThe usual path runs from advisor or fractional, to NED, to committee chair, to chair.\n\nAs they always say: don't start all your roles at once. Sequence them.\n\nAnd choose the role that is right for you, the one you will enjoy most and feel most comfortable in.\n\nSwipe through to see who carries what.\n\nAll four roles are covered in the next board webinar. Link in the first comment.\n\n#PortfolioCareer #NonExecutiveDirector #BoardGovernance",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=portfolio-career-carousel-b3T2",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T2/p01.jpg?v=20261124141657",
-     "media/batch-3/T2/p02.jpg?v=20261124141657",
-     "media/batch-3/T2/p03.jpg?v=20261124141657",
-     "media/batch-3/T2/p04.jpg?v=20261124141657",
-     "media/batch-3/T2/p05.jpg?v=20261124141657",
-     "media/batch-3/T2/p06.jpg?v=20261124141657",
-     "media/batch-3/T2/p07.jpg?v=20261124141657",
-     "media/batch-3/T2/p08.jpg?v=20261124141657"
+     "media/batch-3/T2/p01.jpg?v=20261124144325",
+     "media/batch-3/T2/p02.jpg?v=20261124144325",
+     "media/batch-3/T2/p03.jpg?v=20261124144325",
+     "media/batch-3/T2/p04.jpg?v=20261124144325",
+     "media/batch-3/T2/p05.jpg?v=20261124144325",
+     "media/batch-3/T2/p06.jpg?v=20261124144325",
+     "media/batch-3/T2/p07.jpg?v=20261124144325",
+     "media/batch-3/T2/p08.jpg?v=20261124144325"
     ],
     "title": "Advisor, fractional, NED or chair: who carries what",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T2/fintech-circle-b3-T2-2026-11-25-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T2/fintech-circle-b3-T2-2026-11-25-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T2-2026-11-25-susanne.pdf",
      "bytes": 806422,
      "w": 1080,
@@ -985,28 +985,28 @@ window.STUDIO = {
    "idea": "Noses in, fingers out: the board's job on AI",
    "format": "Carousel, 10 pages",
    "cta": "webinar",
-   "text": "The days of one AI expert on the board are over.\n\nEvery director is now expected to understand AI.\n\nHere's the 3-verb framework we teach board members on our Board Programme ↓\n\nThe rule for the board is simple: noses in, fingers out.\n\nWe don't do the work. Executives deliver the business plan. Board members ensure integrity and long-term oversight.\n\nOn AI, that comes down to three verbs:\n\n1. Set intent. Use AI for higher growth, better customer service or more efficient operations, in an ethical and responsible way.\n2. Approve guard rails. Enterprise tools only, trained staff only, use cases approved by an AI steering committee.\n3. Demand visibility. Quarterly reporting, clear metrics, an annual report from internal audit.\n\nWhat the board does not do: select models, approve individual use cases or review prompts.\n\nFour questions to take into your next board meeting:\n\nWhere are we using AI?\nWhat is our AI governance structure?\nWhat would a bad AI incident look like?\nWhat are the performance measures for our AI?\n\nThe full framework is in the carousel.\n\nAI is one of the six areas of the next board webinar. Link in the first comment.\n\n#AIGovernance #BoardGovernance #NonExecutiveDirector",
+   "text": "The days of one AI expert on the board are over.\n\nEvery director is now expected to understand AI.\n\nHere's the 3-verb framework we teach board members on our Board Programme ↓\n\nThe rule for the board is simple: noses in, fingers out.\n\nWe don't do the work. Executives deliver the business plan. Board members ensure integrity and long-term oversight.\n\nOn AI, that comes down to three verbs:\n\n1. Set intent. Use AI for higher growth, better customer service or more efficient operations, in an ethical and responsible way.\n2. Approve guard rails. Enterprise tools only, trained staff only, use cases approved by an AI steering committee.\n3. Demand visibility. Quarterly reporting, clear metrics, an annual report from internal audit.\n\nWhat the board does not do: select models, approve individual use cases or review prompts.\n\nFour questions to take into your next board meeting:\n\n• Where are we using AI?\n• What is our AI governance structure?\n• What would a bad AI incident look like?\n• What are the performance measures for our AI?\n\nThe full framework is in the carousel.\n\nAI is one of the six areas of the next board webinar. Link in the first comment.\n\n#AIGovernance #BoardGovernance #NonExecutiveDirector",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=ai-governance-carousel-b3T3",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T3/p01.jpg?v=20261124141657",
-     "media/batch-3/T3/p02.jpg?v=20261124141657",
-     "media/batch-3/T3/p03.jpg?v=20261124141657",
-     "media/batch-3/T3/p04.jpg?v=20261124141657",
-     "media/batch-3/T3/p05.jpg?v=20261124141657",
-     "media/batch-3/T3/p06.jpg?v=20261124141657",
-     "media/batch-3/T3/p07.jpg?v=20261124141657",
-     "media/batch-3/T3/p08.jpg?v=20261124141657",
-     "media/batch-3/T3/p09.jpg?v=20261124141657",
-     "media/batch-3/T3/p10.jpg?v=20261124141657"
+     "media/batch-3/T3/p01.jpg?v=20261124144325",
+     "media/batch-3/T3/p02.jpg?v=20261124144325",
+     "media/batch-3/T3/p03.jpg?v=20261124144325",
+     "media/batch-3/T3/p04.jpg?v=20261124144325",
+     "media/batch-3/T3/p05.jpg?v=20261124144325",
+     "media/batch-3/T3/p06.jpg?v=20261124144325",
+     "media/batch-3/T3/p07.jpg?v=20261124144325",
+     "media/batch-3/T3/p08.jpg?v=20261124144325",
+     "media/batch-3/T3/p09.jpg?v=20261124144325",
+     "media/batch-3/T3/p10.jpg?v=20261124144325"
     ],
     "title": "Noses in, fingers out: the board's job on AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-3/T3/fintech-circle-b3-T3-2026-11-26-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T3/fintech-circle-b3-T3-2026-11-26-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T3-2026-11-26-susanne.pdf",
      "bytes": 975620,
      "w": 1080,
@@ -1044,27 +1044,27 @@ window.STUDIO = {
    "idea": "Where does it sit in the regulated value chain?",
    "format": "Carousel, 9 pages",
    "cta": "webinar",
-   "text": "30 years in finance and technology.\n1 question I ask about every fintech before anything else:\n\nWhere does it sit in the regulated value chain?\n\nEven a technology company that isn't regulated operates in a value chain that probably will be. Here's why that changes every question a board asks ↓\n\nThere are four places a fintech can sit:\n\n1. Front-end apps and distribution\n2. Product manufacturer: credit, loans, insurance, investment products\n3. Infrastructure: processing, APIs, compliance tooling\n4. Data and identity: customer verification, transaction monitoring\n\nEach position carries different risks. That means a different set of board questions.\n\nPayments: fraud and financial controls, operational resilience, partner dependencies, revenue concentration.\n\nLending: underwriting discipline, risk appetite, early warning signs, stress testing. Often, rapid growth can hide latent losses if credit scoring technologies have not been implemented well.\n\nEmbedded finance: accountability across several firms, the hand-offs between legal entities, data sharing and consent.\n\nKnow where the company sits before you sit on its board.\n\nSwipe through for the checklist by sub-sector.\n\nThe next board webinar is linked in the first comment.\n\n#Fintech #BoardGovernance #FinancialServices",
+   "text": "30 years in finance and technology.\n1 question I ask about every fintech before anything else:\n\nWhere does it sit in the regulated value chain?\n\nEven a technology company that isn't regulated operates in a value chain that probably will be. Here's why that changes every question a board asks ↓\n\nThere are four places a fintech can sit:\n\n1. Front-end apps and distribution\n2. Product manufacturer: credit, loans, insurance, investment products\n3. Infrastructure: processing, APIs, compliance tooling\n4. Data and identity: customer verification, transaction monitoring\n\nEach position carries different risks. That means a different set of board questions.\n\n• Payments: fraud and financial controls, operational resilience, partner dependencies, revenue concentration.\n\n• Lending: underwriting discipline, risk appetite, early warning signs, stress testing. Often, rapid growth can hide latent losses if credit scoring technologies have not been implemented well.\n\n• Embedded finance: accountability across several firms, the hand-offs between legal entities, data sharing and consent.\n\nKnow where the company sits before you sit on its board.\n\nSwipe through for the checklist by sub-sector.\n\nThe next board webinar is linked in the first comment.\n\n#Fintech #BoardGovernance #FinancialServices",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=fintech-sector-carousel-b3T4",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T4/p01.jpg?v=20261124141657",
-     "media/batch-3/T4/p02.jpg?v=20261124141657",
-     "media/batch-3/T4/p03.jpg?v=20261124141657",
-     "media/batch-3/T4/p04.jpg?v=20261124141657",
-     "media/batch-3/T4/p05.jpg?v=20261124141657",
-     "media/batch-3/T4/p06.jpg?v=20261124141657",
-     "media/batch-3/T4/p07.jpg?v=20261124141657",
-     "media/batch-3/T4/p08.jpg?v=20261124141657",
-     "media/batch-3/T4/p09.jpg?v=20261124141657"
+     "media/batch-3/T4/p01.jpg?v=20261124144325",
+     "media/batch-3/T4/p02.jpg?v=20261124144325",
+     "media/batch-3/T4/p03.jpg?v=20261124144325",
+     "media/batch-3/T4/p04.jpg?v=20261124144325",
+     "media/batch-3/T4/p05.jpg?v=20261124144325",
+     "media/batch-3/T4/p06.jpg?v=20261124144325",
+     "media/batch-3/T4/p07.jpg?v=20261124144325",
+     "media/batch-3/T4/p08.jpg?v=20261124144325",
+     "media/batch-3/T4/p09.jpg?v=20261124144325"
     ],
     "title": "Where does it sit in the regulated value chain?",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-3/T4/fintech-circle-b3-T4-2026-12-01-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T4/fintech-circle-b3-T4-2026-12-01-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T4-2026-12-01-susanne.pdf",
      "bytes": 1014108,
      "w": 1080,
@@ -1102,26 +1102,26 @@ window.STUDIO = {
    "idea": "Quality of revenue: the numbers a board reads",
    "format": "Carousel, 8 pages",
    "cta": "webinar",
-   "text": "We've seen fintechs with a great story get repriced.\nThe story was there. The fundamentals weren't.\n\nGrowing revenue is not enough. The quality of the revenue is key.\n\nHere are the 8 numbers a board should read instead ↓\n\nIn the past it was really growth at all costs. Those days are gone.\n\nFintech scale-ups now have to act like grown-ups sooner. That's where governance comes in, without killing innovation.\n\nSo the board question is simple: is the valuation driven by fundamentals and real value, or by narrative?\n\nThe numbers to read in a consumer fintech:\nCAC and payback period.\nLifetime value and retention.\nActive use, and when churn happens.\nRevenue diversification.\n\nThe numbers to read in a B2B fintech:\nARR and net revenue retention.\nContract length and renewal rates.\nConcentration in the top clients.\nSuccess of implementations and pilots.\n\nOne more thing. Strong products need strong distribution as well. You need both.\n\nSwipe through for the before and after.\n\nThe next board webinar is linked in the first comment.\n\n#Fintech #BoardGovernance #NonExecutiveDirector",
+   "text": "We've seen fintechs with a great story get repriced.\nThe story was there. The fundamentals weren't.\n\nGrowing revenue is not enough. The quality of the revenue is key.\n\nHere are the 8 numbers a board should read instead ↓\n\nIn the past it was really growth at all costs. Those days are gone.\n\nFintech scale-ups now have to act like grown-ups sooner. That's where governance comes in, without killing innovation.\n\nSo the board question is simple: is the valuation driven by fundamentals and real value, or by narrative?\n\nThe numbers to read in a consumer fintech:\n• CAC and payback period.\n• Lifetime value and retention.\n• Active use, and when churn happens.\n• Revenue diversification.\n\nThe numbers to read in a B2B fintech:\n• ARR and net revenue retention.\n• Contract length and renewal rates.\n• Concentration in the top clients.\n• Success of implementations and pilots.\n\nOne more thing. Strong products need strong distribution as well. You need both.\n\nSwipe through for the before and after.\n\nThe next board webinar is linked in the first comment.\n\n#Fintech #BoardGovernance #NonExecutiveDirector",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=fintech-sector-carousel-b3T5",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T5/p01.jpg?v=20261124141657",
-     "media/batch-3/T5/p02.jpg?v=20261124141657",
-     "media/batch-3/T5/p03.jpg?v=20261124141657",
-     "media/batch-3/T5/p04.jpg?v=20261124141657",
-     "media/batch-3/T5/p05.jpg?v=20261124141657",
-     "media/batch-3/T5/p06.jpg?v=20261124141657",
-     "media/batch-3/T5/p07.jpg?v=20261124141657",
-     "media/batch-3/T5/p08.jpg?v=20261124141657"
+     "media/batch-3/T5/p01.jpg?v=20261124144325",
+     "media/batch-3/T5/p02.jpg?v=20261124144325",
+     "media/batch-3/T5/p03.jpg?v=20261124144325",
+     "media/batch-3/T5/p04.jpg?v=20261124144325",
+     "media/batch-3/T5/p05.jpg?v=20261124144325",
+     "media/batch-3/T5/p06.jpg?v=20261124144325",
+     "media/batch-3/T5/p07.jpg?v=20261124144325",
+     "media/batch-3/T5/p08.jpg?v=20261124144325"
     ],
     "title": "Quality of revenue: the numbers a board reads",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T5/fintech-circle-b3-T5-2026-12-02-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T5/fintech-circle-b3-T5-2026-12-02-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T5-2026-12-02-susanne.pdf",
      "bytes": 778987,
      "w": 1080,
@@ -1159,26 +1159,26 @@ window.STUDIO = {
    "idea": "What a VC needs to see, and why a NED should know it",
    "format": "Carousel, 8 pages",
    "cta": "webinar",
-   "text": "Venture investors won't back a fintech growing at 10%.\nThey want one that could be a 10x.\n\nIf you sit on a fintech board, here's how VCs think ↓\n\nFounders are stretched between sales and fundraising. A board member who understands investors can take some of that pressure off: helping the founder position the company and prepare for investor conversations.\n\nWhat venture investors look for:\nExplosive growth, not steady growth.\nA 5 to 7 year horizon to exit and return money to their own investors.\nAs a rule of thumb, returns of 3 to 5x, so at investment they want a company that could be a 10x.\n\nWhat investors want in 2026:\nHigher ARR.\nPure recurring revenue, not consulting revenue.\nDeeper teams.\nA professionally prepared deal room.\n\nAnd the path to a round, in four steps: business readiness, investor readiness, investor proposition, investor outreach.\n\nFundraising literacy matters on a fintech board.\n\nSwipe through for the timeline.\n\nFundraising and governance is one of the six areas of the next board webinar. Link in the first comment.\n\n#Fundraising #Fintech #NonExecutiveDirector",
+   "text": "Venture investors won't back a fintech growing at 10%.\nThey want one that could be a 10x.\n\nIf you sit on a fintech board, here's how VCs think ↓\n\nFounders are stretched between sales and fundraising. A board member who understands investors can take some of that pressure off: helping the founder position the company and prepare for investor conversations.\n\nWhat venture investors look for:\n• Explosive growth, not steady growth.\n• A 5 to 7 year horizon to exit and return money to their own investors.\n• As a rule of thumb, returns of 3 to 5x, so at investment they want a company that could be a 10x.\n\nWhat investors want in 2026:\n• Higher ARR.\n• Pure recurring revenue, not consulting revenue.\n• Deeper teams.\n• A professionally prepared deal room.\n\nAnd the path to a round, in four steps: business readiness, investor readiness, investor proposition, investor outreach.\n\nFundraising literacy matters on a fintech board.\n\nSwipe through for the timeline.\n\nFundraising and governance is one of the six areas of the next board webinar. Link in the first comment.\n\n#Fundraising #Fintech #NonExecutiveDirector",
    "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b3&utm_content=fundraising-carousel-b3T6",
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T6/p01.jpg?v=20261124141657",
-     "media/batch-3/T6/p02.jpg?v=20261124141657",
-     "media/batch-3/T6/p03.jpg?v=20261124141657",
-     "media/batch-3/T6/p04.jpg?v=20261124141657",
-     "media/batch-3/T6/p05.jpg?v=20261124141657",
-     "media/batch-3/T6/p06.jpg?v=20261124141657",
-     "media/batch-3/T6/p07.jpg?v=20261124141657",
-     "media/batch-3/T6/p08.jpg?v=20261124141657"
+     "media/batch-3/T6/p01.jpg?v=20261124144325",
+     "media/batch-3/T6/p02.jpg?v=20261124144325",
+     "media/batch-3/T6/p03.jpg?v=20261124144325",
+     "media/batch-3/T6/p04.jpg?v=20261124144325",
+     "media/batch-3/T6/p05.jpg?v=20261124144325",
+     "media/batch-3/T6/p06.jpg?v=20261124144325",
+     "media/batch-3/T6/p07.jpg?v=20261124144325",
+     "media/batch-3/T6/p08.jpg?v=20261124144325"
     ],
     "title": "What a VC needs to see, and why a NED should know it",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T6/fintech-circle-b3-T6-2026-12-08-susanne.pdf?v=20261124141657",
+     "href": "media/batch-3/T6/fintech-circle-b3-T6-2026-12-08-susanne.pdf?v=20261124144325",
      "name": "fintech-circle-b3-T6-2026-12-08-susanne.pdf",
      "bytes": 784954,
      "w": 1080,

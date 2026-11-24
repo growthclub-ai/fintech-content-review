@@ -101,6 +101,7 @@ content/corpus/knowledge-base/README.md and the last BUILD_STATE file in outputs
    Covers and closing slides use the Kie.ai scenes in content/brand/people/susanne/avatars/.
 3. Every claim must resolve to a facts.md row. No invented numbers, results or stories. No em or en dashes.
    UK spelling, no emoji, max 3 hashtags, no closing question, the link only in the first comment.
+   Every list item in a caption starts with "• " (or "1." for steps).
 4. Hooks: a first-person credential or hard number, a short flip line, then a promise with an arrow.
 5. Render every post, run gates.py N until 0 failures, then run an independent critic pass and fix what it finds.
 6. Add batch N to content/queue/batches.json, run merge_batch.py all and publish.py, deploy to the review site,
@@ -126,7 +127,7 @@ and the critic, republish the review site and merge to main. Tell me what change
 <div class="do">
 <div class="box"><h3>Always</h3><ul>
 <li>Every number, name, date and quote from a facts.md row</li><li>Her quotes word for word, hedges kept ("might", "probably")</li>
-<li>UK spelling, executive and warm in tone</li><li>The link only in the first comment, with UTM tags</li>
+<li>UK spelling, executive and warm in tone</li><li>Every list item in a caption starts with • (or 1. 2. 3. for steps)</li><li>The link only in the first comment, with UTM tags</li>
 <li>Carousels of 8 to 12 pages, 1080 by 1350</li><li>The next webinar date confirmed before scheduling</li></ul></div>
 <div class="box"><h3>Never</h3><ul>
 <li>Em or en dashes anywhere</li><li>Invented results, anecdotes or statistics</li>
