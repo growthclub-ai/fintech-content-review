@@ -45,7 +45,7 @@ window.STUDIO = {
    "time": "08:30",
    "tz": "Europe/London",
    "avatar_ok": true,
-   "avatar": "media/avatars/susanne.jpg?v=20261124151029",
+   "avatar": "media/avatars/susanne.jpg?v=20261124151139",
    "tz_label": "UK"
   },
   {
@@ -77,14 +77,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-1/I1/image.jpg?v=20261124151029"
+     "media/batch-1/I1/image.jpg?v=20261124151139"
     ],
     "title": "Speaking at Bluechip26: three board questions on crypto safety",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-1/I1/fintech-circle-b1-I1-2026-11-06-susanne.png?v=20261124151029",
+     "href": "media/batch-1/I1/fintech-circle-b1-I1-2026-11-06-susanne.png?v=20261124151139",
      "name": "fintech-circle-b1-I1-2026-11-06-susanne.png",
      "bytes": 116705,
      "w": 1080,
@@ -125,23 +125,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T1/p01.jpg?v=20261124151029",
-     "media/batch-1/T1/p02.jpg?v=20261124151029",
-     "media/batch-1/T1/p03.jpg?v=20261124151029",
-     "media/batch-1/T1/p04.jpg?v=20261124151029",
-     "media/batch-1/T1/p05.jpg?v=20261124151029",
-     "media/batch-1/T1/p06.jpg?v=20261124151029",
-     "media/batch-1/T1/p07.jpg?v=20261124151029",
-     "media/batch-1/T1/p08.jpg?v=20261124151029",
-     "media/batch-1/T1/p09.jpg?v=20261124151029",
-     "media/batch-1/T1/p10.jpg?v=20261124151029"
+     "media/batch-1/T1/p01.jpg?v=20261124151139",
+     "media/batch-1/T1/p02.jpg?v=20261124151139",
+     "media/batch-1/T1/p03.jpg?v=20261124151139",
+     "media/batch-1/T1/p04.jpg?v=20261124151139",
+     "media/batch-1/T1/p05.jpg?v=20261124151139",
+     "media/batch-1/T1/p06.jpg?v=20261124151139",
+     "media/batch-1/T1/p07.jpg?v=20261124151139",
+     "media/batch-1/T1/p08.jpg?v=20261124151139",
+     "media/batch-1/T1/p09.jpg?v=20261124151139",
+     "media/batch-1/T1/p10.jpg?v=20261124151139"
     ],
     "title": "The 6 questions a board must answer before approving AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-1/T1/fintech-circle-b1-T1-2026-11-03-susanne.pdf?v=20261124151029",
+     "href": "media/batch-1/T1/fintech-circle-b1-T1-2026-11-03-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b1-T1-2026-11-03-susanne.pdf",
      "bytes": 1033870,
      "w": 1080,
@@ -194,22 +194,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T2/p01.jpg?v=20261124151029",
-     "media/batch-1/T2/p02.jpg?v=20261124151029",
-     "media/batch-1/T2/p03.jpg?v=20261124151029",
-     "media/batch-1/T2/p04.jpg?v=20261124151029",
-     "media/batch-1/T2/p05.jpg?v=20261124151029",
-     "media/batch-1/T2/p06.jpg?v=20261124151029",
-     "media/batch-1/T2/p07.jpg?v=20261124151029",
-     "media/batch-1/T2/p08.jpg?v=20261124151029",
-     "media/batch-1/T2/p09.jpg?v=20261124151029"
+     "media/batch-1/T2/p01.jpg?v=20261124151139",
+     "media/batch-1/T2/p02.jpg?v=20261124151139",
+     "media/batch-1/T2/p03.jpg?v=20261124151139",
+     "media/batch-1/T2/p04.jpg?v=20261124151139",
+     "media/batch-1/T2/p05.jpg?v=20261124151139",
+     "media/batch-1/T2/p06.jpg?v=20261124151139",
+     "media/batch-1/T2/p07.jpg?v=20261124151139",
+     "media/batch-1/T2/p08.jpg?v=20261124151139",
+     "media/batch-1/T2/p09.jpg?v=20261124151139"
     ],
     "title": "Executive mindset vs board mindset, in seven pairs",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-1/T2/fintech-circle-b1-T2-2026-11-04-susanne.pdf?v=20261124151029",
+     "href": "media/batch-1/T2/fintech-circle-b1-T2-2026-11-04-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b1-T2-2026-11-04-susanne.pdf",
      "bytes": 821300,
      "w": 1080,
@@ -253,21 +253,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-1/T3/p01.jpg?v=20261124151029",
-     "media/batch-1/T3/p02.jpg?v=20261124151029",
-     "media/batch-1/T3/p03.jpg?v=20261124151029",
-     "media/batch-1/T3/p04.jpg?v=20261124151029",
-     "media/batch-1/T3/p05.jpg?v=20261124151029",
-     "media/batch-1/T3/p06.jpg?v=20261124151029",
-     "media/batch-1/T3/p07.jpg?v=20261124151029",
-     "media/batch-1/T3/p08.jpg?v=20261124151029"
+     "media/batch-1/T3/p01.jpg?v=20261124151139",
+     "media/batch-1/T3/p02.jpg?v=20261124151139",
+     "media/batch-1/T3/p03.jpg?v=20261124151139",
+     "media/batch-1/T3/p04.jpg?v=20261124151139",
+     "media/batch-1/T3/p05.jpg?v=20261124151139",
+     "media/batch-1/T3/p06.jpg?v=20261124151139",
+     "media/batch-1/T3/p07.jpg?v=20261124151139",
+     "media/batch-1/T3/p08.jpg?v=20261124151139"
     ],
     "title": "Start your board career while you are still employed: 5 steps",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-1/T3/fintech-circle-b1-T3-2026-11-05-susanne.pdf?v=20261124151029",
+     "href": "media/batch-1/T3/fintech-circle-b1-T3-2026-11-05-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b1-T3-2026-11-05-susanne.pdf",
      "bytes": 837981,
      "w": 1080,
@@ -309,14 +309,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I1/image.jpg?v=20261124151029"
+     "media/batch-2/I1/image.jpg?v=20261124151139"
     ],
     "title": "The biggest fintech risk is running out of adult supervision",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I1/fintech-circle-b2-I1-2026-11-11-susanne.png?v=20261124151029",
+     "href": "media/batch-2/I1/fintech-circle-b2-I1-2026-11-11-susanne.png?v=20261124151139",
      "name": "fintech-circle-b2-I1-2026-11-11-susanne.png",
      "bytes": 91487,
      "w": 1080,
@@ -354,14 +354,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I3/image.jpg?v=20261124151029"
+     "media/batch-2/I3/image.jpg?v=20261124151139"
     ],
     "title": "The CV that secured your last executive role will not secure your first board mandate",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I3/fintech-circle-b2-I3-2026-11-17-susanne.png?v=20261124151029",
+     "href": "media/batch-2/I3/fintech-circle-b2-I3-2026-11-17-susanne.png?v=20261124151139",
      "name": "fintech-circle-b2-I3-2026-11-17-susanne.png",
      "bytes": 83575,
      "w": 1080,
@@ -399,14 +399,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I4/image.jpg?v=20261124151029"
+     "media/batch-2/I4/image.jpg?v=20261124151139"
     ],
     "title": "The Insider Roadmap to UK Fintech Board Seats 2027, Friday 20 November",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I4/fintech-circle-b2-I4-2026-11-12-susanne.png?v=20261124151029",
+     "href": "media/batch-2/I4/fintech-circle-b2-I4-2026-11-12-susanne.png?v=20261124151139",
      "name": "fintech-circle-b2-I4-2026-11-12-susanne.png",
      "bytes": 88552,
      "w": 1080,
@@ -450,14 +450,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-2/I5/image.jpg?v=20261124151029"
+     "media/batch-2/I5/image.jpg?v=20261124151139"
     ],
     "title": "The Insider Roadmap to UK Fintech Board Seats 2027, Friday 20 November",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-2/I5/fintech-circle-b2-I5-2026-11-12-company.png?v=20261124151029",
+     "href": "media/batch-2/I5/fintech-circle-b2-I5-2026-11-12-company.png?v=20261124151139",
      "name": "fintech-circle-b2-I5-2026-11-12-company.png",
      "bytes": 129404,
      "w": 1080,
@@ -500,23 +500,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T1/p01.jpg?v=20261124151029",
-     "media/batch-2/T1/p02.jpg?v=20261124151029",
-     "media/batch-2/T1/p03.jpg?v=20261124151029",
-     "media/batch-2/T1/p04.jpg?v=20261124151029",
-     "media/batch-2/T1/p05.jpg?v=20261124151029",
-     "media/batch-2/T1/p06.jpg?v=20261124151029",
-     "media/batch-2/T1/p07.jpg?v=20261124151029",
-     "media/batch-2/T1/p08.jpg?v=20261124151029",
-     "media/batch-2/T1/p09.jpg?v=20261124151029",
-     "media/batch-2/T1/p10.jpg?v=20261124151029"
+     "media/batch-2/T1/p01.jpg?v=20261124151139",
+     "media/batch-2/T1/p02.jpg?v=20261124151139",
+     "media/batch-2/T1/p03.jpg?v=20261124151139",
+     "media/batch-2/T1/p04.jpg?v=20261124151139",
+     "media/batch-2/T1/p05.jpg?v=20261124151139",
+     "media/batch-2/T1/p06.jpg?v=20261124151139",
+     "media/batch-2/T1/p07.jpg?v=20261124151139",
+     "media/batch-2/T1/p08.jpg?v=20261124151139",
+     "media/batch-2/T1/p09.jpg?v=20261124151139",
+     "media/batch-2/T1/p10.jpg?v=20261124151139"
     ],
     "title": "Six questions for a board to ask about AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-2/T1/fintech-circle-b2-T1-2026-11-10-susanne.pdf?v=20261124151029",
+     "href": "media/batch-2/T1/fintech-circle-b2-T1-2026-11-10-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b2-T1-2026-11-10-susanne.pdf",
      "bytes": 1049297,
      "w": 1080,
@@ -563,21 +563,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T2/p01.jpg?v=20261124151029",
-     "media/batch-2/T2/p02.jpg?v=20261124151029",
-     "media/batch-2/T2/p03.jpg?v=20261124151029",
-     "media/batch-2/T2/p04.jpg?v=20261124151029",
-     "media/batch-2/T2/p05.jpg?v=20261124151029",
-     "media/batch-2/T2/p06.jpg?v=20261124151029",
-     "media/batch-2/T2/p07.jpg?v=20261124151029",
-     "media/batch-2/T2/p08.jpg?v=20261124151029"
+     "media/batch-2/T2/p01.jpg?v=20261124151139",
+     "media/batch-2/T2/p02.jpg?v=20261124151139",
+     "media/batch-2/T2/p03.jpg?v=20261124151139",
+     "media/batch-2/T2/p04.jpg?v=20261124151139",
+     "media/batch-2/T2/p05.jpg?v=20261124151139",
+     "media/batch-2/T2/p06.jpg?v=20261124151139",
+     "media/batch-2/T2/p07.jpg?v=20261124151139",
+     "media/batch-2/T2/p08.jpg?v=20261124151139"
     ],
     "title": "The FINTECH Circle Board Programme",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-2/T2/fintech-circle-b2-T2-2026-11-18-susanne.pdf?v=20261124151029",
+     "href": "media/batch-2/T2/fintech-circle-b2-T2-2026-11-18-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b2-T2-2026-11-18-susanne.pdf",
      "bytes": 643593,
      "w": 1080,
@@ -617,21 +617,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-2/T3/p01.jpg?v=20261124151029",
-     "media/batch-2/T3/p02.jpg?v=20261124151029",
-     "media/batch-2/T3/p03.jpg?v=20261124151029",
-     "media/batch-2/T3/p04.jpg?v=20261124151029",
-     "media/batch-2/T3/p05.jpg?v=20261124151029",
-     "media/batch-2/T3/p06.jpg?v=20261124151029",
-     "media/batch-2/T3/p07.jpg?v=20261124151029",
-     "media/batch-2/T3/p08.jpg?v=20261124151029"
+     "media/batch-2/T3/p01.jpg?v=20261124151139",
+     "media/batch-2/T3/p02.jpg?v=20261124151139",
+     "media/batch-2/T3/p03.jpg?v=20261124151139",
+     "media/batch-2/T3/p04.jpg?v=20261124151139",
+     "media/batch-2/T3/p05.jpg?v=20261124151139",
+     "media/batch-2/T3/p06.jpg?v=20261124151139",
+     "media/batch-2/T3/p07.jpg?v=20261124151139",
+     "media/batch-2/T3/p08.jpg?v=20261124151139"
     ],
     "title": "The 6-step insider board roadmap",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-2/T3/fintech-circle-b2-T3-2026-11-13-company.pdf?v=20261124151029",
+     "href": "media/batch-2/T3/fintech-circle-b2-T3-2026-11-13-company.pdf?v=20261124151139",
      "name": "fintech-circle-b2-T3-2026-11-13-company.pdf",
      "bytes": 767001,
      "w": 1080,
@@ -674,14 +674,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I1/image.jpg?v=20261124151029"
+     "media/batch-3/I1/image.jpg?v=20261124151139"
     ],
     "title": "The governance voice on a founder-led board",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I1/fintech-circle-b3-I1-2026-11-27-susanne.png?v=20261124151029",
+     "href": "media/batch-3/I1/fintech-circle-b3-I1-2026-11-27-susanne.png?v=20261124151139",
      "name": "fintech-circle-b3-I1-2026-11-27-susanne.png",
      "bytes": 1165892,
      "w": 1080,
@@ -723,14 +723,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I2/image.jpg?v=20261124151029"
+     "media/batch-3/I2/image.jpg?v=20261124151139"
     ],
     "title": "Equity vs options for board members",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I2/fintech-circle-b3-I2-2026-12-03-susanne.png?v=20261124151029",
+     "href": "media/batch-3/I2/fintech-circle-b3-I2-2026-12-03-susanne.png?v=20261124151139",
      "name": "fintech-circle-b3-I2-2026-12-03-susanne.png",
      "bytes": 1113902,
      "w": 1080,
@@ -770,14 +770,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I3/image.jpg?v=20261124151029"
+     "media/batch-3/I3/image.jpg?v=20261124151139"
     ],
     "title": "Before you join a board: the due diligence checklist",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I3/fintech-circle-b3-I3-2026-12-04-susanne.png?v=20261124151029",
+     "href": "media/batch-3/I3/fintech-circle-b3-I3-2026-12-04-susanne.png?v=20261124151139",
      "name": "fintech-circle-b3-I3-2026-12-04-susanne.png",
      "bytes": 131844,
      "w": 1080,
@@ -816,14 +816,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-3/I4/image.jpg?v=20261124151029"
+     "media/batch-3/I4/image.jpg?v=20261124151139"
     ],
     "title": "Six areas a board-ready executive needs",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-3/I4/fintech-circle-b3-I4-2026-12-09-susanne.png?v=20261124151029",
+     "href": "media/batch-3/I4/fintech-circle-b3-I4-2026-12-09-susanne.png?v=20261124151139",
      "name": "fintech-circle-b3-I4-2026-12-09-susanne.png",
      "bytes": 95954,
      "w": 1080,
@@ -867,21 +867,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T1/p01.jpg?v=20261124151029",
-     "media/batch-3/T1/p02.jpg?v=20261124151029",
-     "media/batch-3/T1/p03.jpg?v=20261124151029",
-     "media/batch-3/T1/p04.jpg?v=20261124151029",
-     "media/batch-3/T1/p05.jpg?v=20261124151029",
-     "media/batch-3/T1/p06.jpg?v=20261124151029",
-     "media/batch-3/T1/p07.jpg?v=20261124151029",
-     "media/batch-3/T1/p08.jpg?v=20261124151029"
+     "media/batch-3/T1/p01.jpg?v=20261124151139",
+     "media/batch-3/T1/p02.jpg?v=20261124151139",
+     "media/batch-3/T1/p03.jpg?v=20261124151139",
+     "media/batch-3/T1/p04.jpg?v=20261124151139",
+     "media/batch-3/T1/p05.jpg?v=20261124151139",
+     "media/batch-3/T1/p06.jpg?v=20261124151139",
+     "media/batch-3/T1/p07.jpg?v=20261124151139",
+     "media/batch-3/T1/p08.jpg?v=20261124151139"
     ],
     "title": "Four reasons strong executives never get a board seat",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T1/fintech-circle-b3-T1-2026-11-24-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T1/fintech-circle-b3-T1-2026-11-24-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T1-2026-11-24-susanne.pdf",
      "bytes": 940029,
      "w": 1080,
@@ -930,21 +930,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T2/p01.jpg?v=20261124151029",
-     "media/batch-3/T2/p02.jpg?v=20261124151029",
-     "media/batch-3/T2/p03.jpg?v=20261124151029",
-     "media/batch-3/T2/p04.jpg?v=20261124151029",
-     "media/batch-3/T2/p05.jpg?v=20261124151029",
-     "media/batch-3/T2/p06.jpg?v=20261124151029",
-     "media/batch-3/T2/p07.jpg?v=20261124151029",
-     "media/batch-3/T2/p08.jpg?v=20261124151029"
+     "media/batch-3/T2/p01.jpg?v=20261124151139",
+     "media/batch-3/T2/p02.jpg?v=20261124151139",
+     "media/batch-3/T2/p03.jpg?v=20261124151139",
+     "media/batch-3/T2/p04.jpg?v=20261124151139",
+     "media/batch-3/T2/p05.jpg?v=20261124151139",
+     "media/batch-3/T2/p06.jpg?v=20261124151139",
+     "media/batch-3/T2/p07.jpg?v=20261124151139",
+     "media/batch-3/T2/p08.jpg?v=20261124151139"
     ],
     "title": "Advisor, fractional, NED or chair: who carries what",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T2/fintech-circle-b3-T2-2026-11-25-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T2/fintech-circle-b3-T2-2026-11-25-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T2-2026-11-25-susanne.pdf",
      "bytes": 806422,
      "w": 1080,
@@ -990,23 +990,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T3/p01.jpg?v=20261124151029",
-     "media/batch-3/T3/p02.jpg?v=20261124151029",
-     "media/batch-3/T3/p03.jpg?v=20261124151029",
-     "media/batch-3/T3/p04.jpg?v=20261124151029",
-     "media/batch-3/T3/p05.jpg?v=20261124151029",
-     "media/batch-3/T3/p06.jpg?v=20261124151029",
-     "media/batch-3/T3/p07.jpg?v=20261124151029",
-     "media/batch-3/T3/p08.jpg?v=20261124151029",
-     "media/batch-3/T3/p09.jpg?v=20261124151029",
-     "media/batch-3/T3/p10.jpg?v=20261124151029"
+     "media/batch-3/T3/p01.jpg?v=20261124151139",
+     "media/batch-3/T3/p02.jpg?v=20261124151139",
+     "media/batch-3/T3/p03.jpg?v=20261124151139",
+     "media/batch-3/T3/p04.jpg?v=20261124151139",
+     "media/batch-3/T3/p05.jpg?v=20261124151139",
+     "media/batch-3/T3/p06.jpg?v=20261124151139",
+     "media/batch-3/T3/p07.jpg?v=20261124151139",
+     "media/batch-3/T3/p08.jpg?v=20261124151139",
+     "media/batch-3/T3/p09.jpg?v=20261124151139",
+     "media/batch-3/T3/p10.jpg?v=20261124151139"
     ],
     "title": "Noses in, fingers out: the board's job on AI",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-3/T3/fintech-circle-b3-T3-2026-11-26-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T3/fintech-circle-b3-T3-2026-11-26-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T3-2026-11-26-susanne.pdf",
      "bytes": 975620,
      "w": 1080,
@@ -1049,22 +1049,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T4/p01.jpg?v=20261124151029",
-     "media/batch-3/T4/p02.jpg?v=20261124151029",
-     "media/batch-3/T4/p03.jpg?v=20261124151029",
-     "media/batch-3/T4/p04.jpg?v=20261124151029",
-     "media/batch-3/T4/p05.jpg?v=20261124151029",
-     "media/batch-3/T4/p06.jpg?v=20261124151029",
-     "media/batch-3/T4/p07.jpg?v=20261124151029",
-     "media/batch-3/T4/p08.jpg?v=20261124151029",
-     "media/batch-3/T4/p09.jpg?v=20261124151029"
+     "media/batch-3/T4/p01.jpg?v=20261124151139",
+     "media/batch-3/T4/p02.jpg?v=20261124151139",
+     "media/batch-3/T4/p03.jpg?v=20261124151139",
+     "media/batch-3/T4/p04.jpg?v=20261124151139",
+     "media/batch-3/T4/p05.jpg?v=20261124151139",
+     "media/batch-3/T4/p06.jpg?v=20261124151139",
+     "media/batch-3/T4/p07.jpg?v=20261124151139",
+     "media/batch-3/T4/p08.jpg?v=20261124151139",
+     "media/batch-3/T4/p09.jpg?v=20261124151139"
     ],
     "title": "Where does it sit in the regulated value chain?",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-3/T4/fintech-circle-b3-T4-2026-12-01-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T4/fintech-circle-b3-T4-2026-12-01-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T4-2026-12-01-susanne.pdf",
      "bytes": 1014108,
      "w": 1080,
@@ -1107,21 +1107,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T5/p01.jpg?v=20261124151029",
-     "media/batch-3/T5/p02.jpg?v=20261124151029",
-     "media/batch-3/T5/p03.jpg?v=20261124151029",
-     "media/batch-3/T5/p04.jpg?v=20261124151029",
-     "media/batch-3/T5/p05.jpg?v=20261124151029",
-     "media/batch-3/T5/p06.jpg?v=20261124151029",
-     "media/batch-3/T5/p07.jpg?v=20261124151029",
-     "media/batch-3/T5/p08.jpg?v=20261124151029"
+     "media/batch-3/T5/p01.jpg?v=20261124151139",
+     "media/batch-3/T5/p02.jpg?v=20261124151139",
+     "media/batch-3/T5/p03.jpg?v=20261124151139",
+     "media/batch-3/T5/p04.jpg?v=20261124151139",
+     "media/batch-3/T5/p05.jpg?v=20261124151139",
+     "media/batch-3/T5/p06.jpg?v=20261124151139",
+     "media/batch-3/T5/p07.jpg?v=20261124151139",
+     "media/batch-3/T5/p08.jpg?v=20261124151139"
     ],
     "title": "Quality of revenue: the numbers a board reads",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T5/fintech-circle-b3-T5-2026-12-02-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T5/fintech-circle-b3-T5-2026-12-02-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T5-2026-12-02-susanne.pdf",
      "bytes": 778987,
      "w": 1080,
@@ -1164,21 +1164,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-3/T6/p01.jpg?v=20261124151029",
-     "media/batch-3/T6/p02.jpg?v=20261124151029",
-     "media/batch-3/T6/p03.jpg?v=20261124151029",
-     "media/batch-3/T6/p04.jpg?v=20261124151029",
-     "media/batch-3/T6/p05.jpg?v=20261124151029",
-     "media/batch-3/T6/p06.jpg?v=20261124151029",
-     "media/batch-3/T6/p07.jpg?v=20261124151029",
-     "media/batch-3/T6/p08.jpg?v=20261124151029"
+     "media/batch-3/T6/p01.jpg?v=20261124151139",
+     "media/batch-3/T6/p02.jpg?v=20261124151139",
+     "media/batch-3/T6/p03.jpg?v=20261124151139",
+     "media/batch-3/T6/p04.jpg?v=20261124151139",
+     "media/batch-3/T6/p05.jpg?v=20261124151139",
+     "media/batch-3/T6/p06.jpg?v=20261124151139",
+     "media/batch-3/T6/p07.jpg?v=20261124151139",
+     "media/batch-3/T6/p08.jpg?v=20261124151139"
     ],
     "title": "What a VC needs to see, and why a NED should know it",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-3/T6/fintech-circle-b3-T6-2026-12-08-susanne.pdf?v=20261124151029",
+     "href": "media/batch-3/T6/fintech-circle-b3-T6-2026-12-08-susanne.pdf?v=20261124151139",
      "name": "fintech-circle-b3-T6-2026-12-08-susanne.pdf",
      "bytes": 784954,
      "w": 1080,
