@@ -40,6 +40,12 @@ window.STUDIO = {
    "title": "Batch 4",
    "dates": "Mon 18 Jan 2027 to Fri 29 Jan 2027",
    "cta_label": "Board Programme CTA"
+  },
+  {
+   "id": "8",
+   "title": "Company page, Batch 1",
+   "dates": "Tue 1 Dec 2026 to Wed 16 Dec 2026",
+   "cta_label": "Webinar CTA to 10 Dec, then Board Programme"
   }
  ],
  "profiles": [
@@ -51,7 +57,7 @@ window.STUDIO = {
    "time": "08:30",
    "tz": "Europe/London",
    "avatar_ok": true,
-   "avatar": "media/avatars/susanne.jpg?v=20261125194834",
+   "avatar": "media/avatars/susanne.jpg?v=20261126001534",
    "tz_label": "UK"
   },
   {
@@ -83,19 +89,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-4/A1/poster.jpg?v=20261125194834"
+     "media/batch-4/A1/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261125194834",
+    "video": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261125194834",
+      "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b4-A1-2026-12-07-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 1543545
      },
      {
-      "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.gif?v=20261125194834",
+      "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b4-A1-2026-12-07-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -105,7 +111,7 @@ window.STUDIO = {
     "tall": false,
     "title": "The generative AI hierarchy: agentic AI is step 3, not step 1",
     "download": {
-     "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261125194834",
+     "href": "media/batch-4/A1/fintech-circle-b4-A1-2026-12-07-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b4-A1-2026-12-07-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -146,19 +152,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-4/A3/poster.jpg?v=20261125194834"
+     "media/batch-4/A3/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261125194834",
+    "video": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261125194834",
+      "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b4-A3-2026-12-01-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 659320
      },
      {
-      "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.gif?v=20261125194834",
+      "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b4-A3-2026-12-01-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -168,7 +174,7 @@ window.STUDIO = {
     "tall": false,
     "title": "How a listed NED fee is built: base + committee + committee chair",
     "download": {
-     "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261125194834",
+     "href": "media/batch-4/A3/fintech-circle-b4-A3-2026-12-01-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b4-A3-2026-12-01-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -211,19 +217,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-4/A5/poster.jpg?v=20261125194834"
+     "media/batch-4/A5/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261125194834",
+    "video": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261125194834",
+      "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b4-A5-2026-12-10-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 318688
      },
      {
-      "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.gif?v=20261125194834",
+      "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b4-A5-2026-12-10-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -233,7 +239,7 @@ window.STUDIO = {
     "tall": false,
     "title": "Unit economics as a governance tool: the 5-stage funnel",
     "download": {
-     "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261125194834",
+     "href": "media/batch-4/A5/fintech-circle-b4-A5-2026-12-10-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b4-A5-2026-12-10-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -274,22 +280,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-4/C1/p01.jpg?v=20261125194834",
-     "media/batch-4/C1/p02.jpg?v=20261125194834",
-     "media/batch-4/C1/p03.jpg?v=20261125194834",
-     "media/batch-4/C1/p04.jpg?v=20261125194834",
-     "media/batch-4/C1/p05.jpg?v=20261125194834",
-     "media/batch-4/C1/p06.jpg?v=20261125194834",
-     "media/batch-4/C1/p07.jpg?v=20261125194834",
-     "media/batch-4/C1/p08.jpg?v=20261125194834",
-     "media/batch-4/C1/p09.jpg?v=20261125194834"
+     "media/batch-4/C1/p01.jpg?v=20261126001534",
+     "media/batch-4/C1/p02.jpg?v=20261126001534",
+     "media/batch-4/C1/p03.jpg?v=20261126001534",
+     "media/batch-4/C1/p04.jpg?v=20261126001534",
+     "media/batch-4/C1/p05.jpg?v=20261126001534",
+     "media/batch-4/C1/p06.jpg?v=20261126001534",
+     "media/batch-4/C1/p07.jpg?v=20261126001534",
+     "media/batch-4/C1/p08.jpg?v=20261126001534",
+     "media/batch-4/C1/p09.jpg?v=20261126001534"
     ],
     "title": "The SafeCharge story: what a listed board taught her about governance",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-4/C1/fintech-circle-b4-C1-2026-11-30-susanne.pdf?v=20261125194834",
+     "href": "media/batch-4/C1/fintech-circle-b4-C1-2026-11-30-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b4-C1-2026-11-30-susanne.pdf",
      "bytes": 679278,
      "w": 1080,
@@ -333,21 +339,21 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-4/C2/p01.jpg?v=20261125194834",
-     "media/batch-4/C2/p02.jpg?v=20261125194834",
-     "media/batch-4/C2/p03.jpg?v=20261125194834",
-     "media/batch-4/C2/p04.jpg?v=20261125194834",
-     "media/batch-4/C2/p05.jpg?v=20261125194834",
-     "media/batch-4/C2/p06.jpg?v=20261125194834",
-     "media/batch-4/C2/p07.jpg?v=20261125194834",
-     "media/batch-4/C2/p08.jpg?v=20261125194834"
+     "media/batch-4/C2/p01.jpg?v=20261126001534",
+     "media/batch-4/C2/p02.jpg?v=20261126001534",
+     "media/batch-4/C2/p03.jpg?v=20261126001534",
+     "media/batch-4/C2/p04.jpg?v=20261126001534",
+     "media/batch-4/C2/p05.jpg?v=20261126001534",
+     "media/batch-4/C2/p06.jpg?v=20261126001534",
+     "media/batch-4/C2/p07.jpg?v=20261126001534",
+     "media/batch-4/C2/p08.jpg?v=20261126001534"
     ],
     "title": "The Chair vs the CEO: who runs what",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-4/C2/fintech-circle-b4-C2-2026-12-03-susanne.pdf?v=20261125194834",
+     "href": "media/batch-4/C2/fintech-circle-b4-C2-2026-12-03-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b4-C2-2026-12-03-susanne.pdf",
      "bytes": 607480,
      "w": 1080,
@@ -387,23 +393,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-4/C4/p01.jpg?v=20261125194834",
-     "media/batch-4/C4/p02.jpg?v=20261125194834",
-     "media/batch-4/C4/p03.jpg?v=20261125194834",
-     "media/batch-4/C4/p04.jpg?v=20261125194834",
-     "media/batch-4/C4/p05.jpg?v=20261125194834",
-     "media/batch-4/C4/p06.jpg?v=20261125194834",
-     "media/batch-4/C4/p07.jpg?v=20261125194834",
-     "media/batch-4/C4/p08.jpg?v=20261125194834"
+     "media/batch-4/C4/p01.jpg?v=20261126001534",
+     "media/batch-4/C4/p02.jpg?v=20261126001534",
+     "media/batch-4/C4/p03.jpg?v=20261126001534",
+     "media/batch-4/C4/p04.jpg?v=20261126001534",
+     "media/batch-4/C4/p05.jpg?v=20261126001534",
+     "media/batch-4/C4/p06.jpg?v=20261126001534",
+     "media/batch-4/C4/p07.jpg?v=20261126001534",
+     "media/batch-4/C4/p08.jpg?v=20261126001534"
     ],
     "title": "5 sub-sectors, 5 board checklists",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-4/C4/fintech-circle-b4-C4-2026-12-08-susanne.pdf?v=20261125194834",
+     "href": "media/batch-4/C4/fintech-circle-b4-C4-2026-12-08-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b4-C4-2026-12-08-susanne.pdf",
-     "bytes": 655351,
+     "bytes": 655349,
      "w": 1080,
      "h": 1350
     }
@@ -441,16 +447,16 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-4/S1/image.jpg?v=20261125194834"
+     "media/batch-4/S1/image.jpg?v=20261126001534"
     ],
     "title": "The fintech map: four boxes and a layer underneath",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-4/S1/fintech-circle-b4-S1-2026-12-02-susanne.png?v=20261125194834",
+     "href": "media/batch-4/S1/fintech-circle-b4-S1-2026-12-02-susanne.png?v=20261126001534",
      "name": "fintech-circle-b4-S1-2026-12-02-susanne.png",
-     "bytes": 242994,
+     "bytes": 242995,
      "w": 1080,
      "h": 1350
     }
@@ -488,14 +494,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-4/S2/image.jpg?v=20261125194834"
+     "media/batch-4/S2/image.jpg?v=20261126001534"
     ],
     "title": "Board committees on one page",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-4/S2/fintech-circle-b4-S2-2026-12-11-susanne.png?v=20261125194834",
+     "href": "media/batch-4/S2/fintech-circle-b4-S2-2026-12-11-susanne.png?v=20261126001534",
      "name": "fintech-circle-b4-S2-2026-12-11-susanne.png",
      "bytes": 207980,
      "w": 1080,
@@ -537,14 +543,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-4/S5/image.jpg?v=20261125194834"
+     "media/batch-4/S5/image.jpg?v=20261126001534"
     ],
     "title": "The hidden board market: less than 10% of job specs are published",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-4/S5/fintech-circle-b4-S5-2026-12-04-susanne.png?v=20261125194834",
+     "href": "media/batch-4/S5/fintech-circle-b4-S5-2026-12-04-susanne.png?v=20261126001534",
      "name": "fintech-circle-b4-S5-2026-12-04-susanne.png",
      "bytes": 181243,
      "w": 1080,
@@ -625,19 +631,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-5/A1/poster.jpg?v=20261125194834"
+     "media/batch-5/A1/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261125194834",
+    "video": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261125194834",
+      "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b5-A1-2026-12-14-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 1025612
      },
      {
-      "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.gif?v=20261125194834",
+      "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b5-A1-2026-12-14-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -647,7 +653,7 @@ window.STUDIO = {
     "tall": false,
     "title": "Six questions a board answers before approving AI",
     "download": {
-     "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261125194834",
+     "href": "media/batch-5/A1/fintech-circle-b5-A1-2026-12-14-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b5-A1-2026-12-14-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -698,19 +704,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-5/A2/poster.jpg?v=20261125194834"
+     "media/batch-5/A2/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261125194834",
+    "video": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261125194834",
+      "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b5-A2-2026-12-22-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 1006587
      },
      {
-      "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.gif?v=20261125194834",
+      "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b5-A2-2026-12-22-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -720,7 +726,7 @@ window.STUDIO = {
     "tall": false,
     "title": "Three layers of AI governance: only the top one is the board's",
     "download": {
-     "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261125194834",
+     "href": "media/batch-5/A2/fintech-circle-b5-A2-2026-12-22-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b5-A2-2026-12-22-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -762,23 +768,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-5/C1/p01.jpg?v=20261125194834",
-     "media/batch-5/C1/p02.jpg?v=20261125194834",
-     "media/batch-5/C1/p03.jpg?v=20261125194834",
-     "media/batch-5/C1/p04.jpg?v=20261125194834",
-     "media/batch-5/C1/p05.jpg?v=20261125194834",
-     "media/batch-5/C1/p06.jpg?v=20261125194834",
-     "media/batch-5/C1/p07.jpg?v=20261125194834",
-     "media/batch-5/C1/p08.jpg?v=20261125194834",
-     "media/batch-5/C1/p09.jpg?v=20261125194834",
-     "media/batch-5/C1/p10.jpg?v=20261125194834"
+     "media/batch-5/C1/p01.jpg?v=20261126001534",
+     "media/batch-5/C1/p02.jpg?v=20261126001534",
+     "media/batch-5/C1/p03.jpg?v=20261126001534",
+     "media/batch-5/C1/p04.jpg?v=20261126001534",
+     "media/batch-5/C1/p05.jpg?v=20261126001534",
+     "media/batch-5/C1/p06.jpg?v=20261126001534",
+     "media/batch-5/C1/p07.jpg?v=20261126001534",
+     "media/batch-5/C1/p08.jpg?v=20261126001534",
+     "media/batch-5/C1/p09.jpg?v=20261126001534",
+     "media/batch-5/C1/p10.jpg?v=20261126001534"
     ],
     "title": "Executive mindset vs board mindset",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 10,
-     "href": "media/batch-5/C1/fintech-circle-b5-C1-2026-12-15-susanne.pdf?v=20261125194834",
+     "href": "media/batch-5/C1/fintech-circle-b5-C1-2026-12-15-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b5-C1-2026-12-15-susanne.pdf",
      "bytes": 1798185,
      "w": 1080,
@@ -825,22 +831,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-5/C2/p01.jpg?v=20261125194834",
-     "media/batch-5/C2/p02.jpg?v=20261125194834",
-     "media/batch-5/C2/p03.jpg?v=20261125194834",
-     "media/batch-5/C2/p04.jpg?v=20261125194834",
-     "media/batch-5/C2/p05.jpg?v=20261125194834",
-     "media/batch-5/C2/p06.jpg?v=20261125194834",
-     "media/batch-5/C2/p07.jpg?v=20261125194834",
-     "media/batch-5/C2/p08.jpg?v=20261125194834",
-     "media/batch-5/C2/p09.jpg?v=20261125194834"
+     "media/batch-5/C2/p01.jpg?v=20261126001534",
+     "media/batch-5/C2/p02.jpg?v=20261126001534",
+     "media/batch-5/C2/p03.jpg?v=20261126001534",
+     "media/batch-5/C2/p04.jpg?v=20261126001534",
+     "media/batch-5/C2/p05.jpg?v=20261126001534",
+     "media/batch-5/C2/p06.jpg?v=20261126001534",
+     "media/batch-5/C2/p07.jpg?v=20261126001534",
+     "media/batch-5/C2/p08.jpg?v=20261126001534",
+     "media/batch-5/C2/p09.jpg?v=20261126001534"
     ],
     "title": "The biggest fintech risk: running out of adult supervision",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-5/C2/fintech-circle-b5-C2-2026-12-16-susanne.pdf?v=20261125194834",
+     "href": "media/batch-5/C2/fintech-circle-b5-C2-2026-12-16-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b5-C2-2026-12-16-susanne.pdf",
      "bytes": 680894,
      "w": 1080,
@@ -888,22 +894,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-5/C3/p01.jpg?v=20261125194834",
-     "media/batch-5/C3/p02.jpg?v=20261125194834",
-     "media/batch-5/C3/p03.jpg?v=20261125194834",
-     "media/batch-5/C3/p04.jpg?v=20261125194834",
-     "media/batch-5/C3/p05.jpg?v=20261125194834",
-     "media/batch-5/C3/p06.jpg?v=20261125194834",
-     "media/batch-5/C3/p07.jpg?v=20261125194834",
-     "media/batch-5/C3/p08.jpg?v=20261125194834",
-     "media/batch-5/C3/p09.jpg?v=20261125194834"
+     "media/batch-5/C3/p01.jpg?v=20261126001534",
+     "media/batch-5/C3/p02.jpg?v=20261126001534",
+     "media/batch-5/C3/p03.jpg?v=20261126001534",
+     "media/batch-5/C3/p04.jpg?v=20261126001534",
+     "media/batch-5/C3/p05.jpg?v=20261126001534",
+     "media/batch-5/C3/p06.jpg?v=20261126001534",
+     "media/batch-5/C3/p07.jpg?v=20261126001534",
+     "media/batch-5/C3/p08.jpg?v=20261126001534",
+     "media/batch-5/C3/p09.jpg?v=20261126001534"
     ],
     "title": "Due diligence before you join a board: five files",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-5/C3/fintech-circle-b5-C3-2026-12-21-susanne.pdf?v=20261125194834",
+     "href": "media/batch-5/C3/fintech-circle-b5-C3-2026-12-21-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b5-C3-2026-12-21-susanne.pdf",
      "bytes": 609045,
      "w": 1080,
@@ -949,16 +955,16 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-5/S1/image.jpg?v=20261125194834"
+     "media/batch-5/S1/image.jpg?v=20261126001534"
     ],
     "title": "The independent director: six jobs, one seat",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-5/S1/fintech-circle-b5-S1-2026-12-18-susanne.png?v=20261125194834",
+     "href": "media/batch-5/S1/fintech-circle-b5-S1-2026-12-18-susanne.png?v=20261126001534",
      "name": "fintech-circle-b5-S1-2026-12-18-susanne.png",
-     "bytes": 168075,
+     "bytes": 168076,
      "w": 1080,
      "h": 1350
     }
@@ -1000,14 +1006,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-5/S2/image.jpg?v=20261125194834"
+     "media/batch-5/S2/image.jpg?v=20261126001534"
     ],
     "title": "Machine learning vs generative AI: two risk profiles",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-5/S2/fintech-circle-b5-S2-2026-12-23-susanne.png?v=20261125194834",
+     "href": "media/batch-5/S2/fintech-circle-b5-S2-2026-12-23-susanne.png?v=20261126001534",
      "name": "fintech-circle-b5-S2-2026-12-23-susanne.png",
      "bytes": 169502,
      "w": 1080,
@@ -1052,14 +1058,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-5/S3/image.jpg?v=20261125194834"
+     "media/batch-5/S3/image.jpg?v=20261126001534"
     ],
     "title": "UK AI rules: no standalone AI law, existing rules apply",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-5/S3/fintech-circle-b5-S3-2026-12-29-susanne.png?v=20261125194834",
+     "href": "media/batch-5/S3/fintech-circle-b5-S3-2026-12-29-susanne.png?v=20261126001534",
      "name": "fintech-circle-b5-S3-2026-12-29-susanne.png",
      "bytes": 257461,
      "w": 1080,
@@ -1103,14 +1109,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-5/S4/image.jpg?v=20261125194834"
+     "media/batch-5/S4/image.jpg?v=20261126001534"
     ],
     "title": "The agenda challenge: information, discussion or decision",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-5/S4/fintech-circle-b5-S4-2026-12-30-susanne.png?v=20261125194834",
+     "href": "media/batch-5/S4/fintech-circle-b5-S4-2026-12-30-susanne.png?v=20261126001534",
      "name": "fintech-circle-b5-S4-2026-12-30-susanne.png",
      "bytes": 890852,
      "w": 1080,
@@ -1192,33 +1198,33 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-6/A1/poster.jpg?v=20261125194834"
+     "media/batch-6/A1/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261125194834",
+    "video": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261125194834",
+      "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b6-A1-2027-01-08-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
-      "bytes": 396715
+      "bytes": 397765
      },
      {
-      "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.gif?v=20261125194834",
+      "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b6-A1-2027-01-08-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
-      "bytes": 532166
+      "bytes": 532072
      }
     ],
     "tall": false,
     "title": "From one executive role to a portfolio of board mandates",
     "download": {
-     "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261125194834",
+     "href": "media/batch-6/A1/fintech-circle-b6-A1-2027-01-08-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b6-A1-2027-01-08-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
-     "bytes": 396715
+     "bytes": 397765
     }
    },
    "sample": {
@@ -1259,19 +1265,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-6/A2/poster.jpg?v=20261125194834"
+     "media/batch-6/A2/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261125194834",
+    "video": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261125194834",
+      "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b6-A2-2027-01-13-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 771857
      },
      {
-      "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.gif?v=20261125194834",
+      "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b6-A2-2027-01-13-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -1281,7 +1287,7 @@ window.STUDIO = {
     "tall": false,
     "title": "6 areas a board-ready executive needs",
     "download": {
-     "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261125194834",
+     "href": "media/batch-6/A2/fintech-circle-b6-A2-2027-01-13-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b6-A2-2027-01-13-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -1330,22 +1336,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-6/C1/p01.jpg?v=20261125194834",
-     "media/batch-6/C1/p02.jpg?v=20261125194834",
-     "media/batch-6/C1/p03.jpg?v=20261125194834",
-     "media/batch-6/C1/p04.jpg?v=20261125194834",
-     "media/batch-6/C1/p05.jpg?v=20261125194834",
-     "media/batch-6/C1/p06.jpg?v=20261125194834",
-     "media/batch-6/C1/p07.jpg?v=20261125194834",
-     "media/batch-6/C1/p08.jpg?v=20261125194834",
-     "media/batch-6/C1/p09.jpg?v=20261125194834"
+     "media/batch-6/C1/p01.jpg?v=20261126001534",
+     "media/batch-6/C1/p02.jpg?v=20261126001534",
+     "media/batch-6/C1/p03.jpg?v=20261126001534",
+     "media/batch-6/C1/p04.jpg?v=20261126001534",
+     "media/batch-6/C1/p05.jpg?v=20261126001534",
+     "media/batch-6/C1/p06.jpg?v=20261126001534",
+     "media/batch-6/C1/p07.jpg?v=20261126001534",
+     "media/batch-6/C1/p08.jpg?v=20261126001534",
+     "media/batch-6/C1/p09.jpg?v=20261126001534"
     ],
     "title": "Start your board career while you are still employed: 6 steps",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-6/C1/fintech-circle-b6-C1-2027-01-04-susanne.pdf?v=20261125194834",
+     "href": "media/batch-6/C1/fintech-circle-b6-C1-2027-01-04-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b6-C1-2027-01-04-susanne.pdf",
      "bytes": 646644,
      "w": 1080,
@@ -1392,24 +1398,24 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-6/C2/p01.jpg?v=20261125194834",
-     "media/batch-6/C2/p02.jpg?v=20261125194834",
-     "media/batch-6/C2/p03.jpg?v=20261125194834",
-     "media/batch-6/C2/p04.jpg?v=20261125194834",
-     "media/batch-6/C2/p05.jpg?v=20261125194834",
-     "media/batch-6/C2/p06.jpg?v=20261125194834",
-     "media/batch-6/C2/p07.jpg?v=20261125194834",
-     "media/batch-6/C2/p08.jpg?v=20261125194834",
-     "media/batch-6/C2/p09.jpg?v=20261125194834"
+     "media/batch-6/C2/p01.jpg?v=20261126001534",
+     "media/batch-6/C2/p02.jpg?v=20261126001534",
+     "media/batch-6/C2/p03.jpg?v=20261126001534",
+     "media/batch-6/C2/p04.jpg?v=20261126001534",
+     "media/batch-6/C2/p05.jpg?v=20261126001534",
+     "media/batch-6/C2/p06.jpg?v=20261126001534",
+     "media/batch-6/C2/p07.jpg?v=20261126001534",
+     "media/batch-6/C2/p08.jpg?v=20261126001534",
+     "media/batch-6/C2/p09.jpg?v=20261126001534"
     ],
     "title": "Four reasons strong executives never get a board seat",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-6/C2/fintech-circle-b6-C2-2027-01-06-susanne.pdf?v=20261125194834",
+     "href": "media/batch-6/C2/fintech-circle-b6-C2-2027-01-06-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b6-C2-2027-01-06-susanne.pdf",
-     "bytes": 883860,
+     "bytes": 883889,
      "w": 1080,
      "h": 1350
     }
@@ -1459,22 +1465,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-6/C3/p01.jpg?v=20261125194834",
-     "media/batch-6/C3/p02.jpg?v=20261125194834",
-     "media/batch-6/C3/p03.jpg?v=20261125194834",
-     "media/batch-6/C3/p04.jpg?v=20261125194834",
-     "media/batch-6/C3/p05.jpg?v=20261125194834",
-     "media/batch-6/C3/p06.jpg?v=20261125194834",
-     "media/batch-6/C3/p07.jpg?v=20261125194834",
-     "media/batch-6/C3/p08.jpg?v=20261125194834",
-     "media/batch-6/C3/p09.jpg?v=20261125194834"
+     "media/batch-6/C3/p01.jpg?v=20261126001534",
+     "media/batch-6/C3/p02.jpg?v=20261126001534",
+     "media/batch-6/C3/p03.jpg?v=20261126001534",
+     "media/batch-6/C3/p04.jpg?v=20261126001534",
+     "media/batch-6/C3/p05.jpg?v=20261126001534",
+     "media/batch-6/C3/p06.jpg?v=20261126001534",
+     "media/batch-6/C3/p07.jpg?v=20261126001534",
+     "media/batch-6/C3/p08.jpg?v=20261126001534",
+     "media/batch-6/C3/p09.jpg?v=20261126001534"
     ],
     "title": "A founder is raising: the board's map of a funding round",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-6/C3/fintech-circle-b6-C3-2027-01-14-susanne.pdf?v=20261125194834",
+     "href": "media/batch-6/C3/fintech-circle-b6-C3-2027-01-14-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b6-C3-2027-01-14-susanne.pdf",
      "bytes": 854894,
      "w": 1080,
@@ -1522,16 +1528,16 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-6/S1/image.jpg?v=20261125194834"
+     "media/batch-6/S1/image.jpg?v=20261126001534"
     ],
     "title": "Your executive CV will not win your first board mandate",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-6/S1/fintech-circle-b6-S1-2027-01-05-susanne.png?v=20261125194834",
+     "href": "media/batch-6/S1/fintech-circle-b6-S1-2027-01-05-susanne.png?v=20261126001534",
      "name": "fintech-circle-b6-S1-2027-01-05-susanne.png",
-     "bytes": 182537,
+     "bytes": 182547,
      "w": 1080,
      "h": 1350
     }
@@ -1573,14 +1579,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-6/S2/image.jpg?v=20261125194834"
+     "media/batch-6/S2/image.jpg?v=20261126001534"
     ],
     "title": "Advisor, fractional, NED or chair: who carries what",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-6/S2/fintech-circle-b6-S2-2027-01-07-susanne.png?v=20261125194834",
+     "href": "media/batch-6/S2/fintech-circle-b6-S2-2027-01-07-susanne.png?v=20261126001534",
      "name": "fintech-circle-b6-S2-2027-01-07-susanne.png",
      "bytes": 190379,
      "w": 1080,
@@ -1627,14 +1633,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-6/S3/image.jpg?v=20261125194834"
+     "media/batch-6/S3/image.jpg?v=20261126001534"
     ],
     "title": "Private, PE-backed or public: three very different boards",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-6/S3/fintech-circle-b6-S3-2027-01-12-susanne.png?v=20261125194834",
+     "href": "media/batch-6/S3/fintech-circle-b6-S3-2027-01-12-susanne.png?v=20261126001534",
      "name": "fintech-circle-b6-S3-2027-01-12-susanne.png",
      "bytes": 198085,
      "w": 1080,
@@ -1718,33 +1724,33 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-6/V1/poster.jpg?v=20261125194834"
+     "media/batch-6/V1/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261125194834",
+    "video": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261125194834",
+      "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b6-V1-2027-01-11-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
-      "bytes": 526980
+      "bytes": 529759
      },
      {
-      "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.gif?v=20261125194834",
+      "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b6-V1-2027-01-11-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
-      "bytes": 796465
+      "bytes": 797577
      }
     ],
     "tall": false,
     "title": "The best rehearsal for a first board seat is a real board situation",
     "download": {
-     "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261125194834",
+     "href": "media/batch-6/V1/fintech-circle-b6-V1-2027-01-11-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b6-V1-2027-01-11-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
-     "bytes": 526980
+     "bytes": 529759
     }
    },
    "sample": {
@@ -1784,19 +1790,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-7/A1/poster.jpg?v=20261125194834"
+     "media/batch-7/A1/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261125194834",
+    "video": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261125194834",
+      "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b7-A1-2027-01-20-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 674050
      },
      {
-      "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.gif?v=20261125194834",
+      "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b7-A1-2027-01-20-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -1806,7 +1812,7 @@ window.STUDIO = {
     "tall": false,
     "title": "Seed to exit: what the board does at each stop",
     "download": {
-     "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261125194834",
+     "href": "media/batch-7/A1/fintech-circle-b7-A1-2027-01-20-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b7-A1-2027-01-20-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -1851,19 +1857,19 @@ window.STUDIO = {
    "media": {
     "type": "video",
     "files": [
-     "media/batch-7/A2/poster.jpg?v=20261125194834"
+     "media/batch-7/A2/poster.jpg?v=20261126001534"
     ],
-    "video": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261125194834",
+    "video": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261126001534",
     "sets": [
      {
-      "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261125194834",
+      "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261126001534",
       "name": "fintech-circle-b7-A2-2027-01-26-susanne.mp4",
       "ext": "mp4",
       "label": "Download MP4",
       "bytes": 291043
      },
      {
-      "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.gif?v=20261125194834",
+      "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.gif?v=20261126001534",
       "name": "fintech-circle-b7-A2-2027-01-26-susanne.gif",
       "ext": "gif",
       "label": "Download GIF",
@@ -1873,7 +1879,7 @@ window.STUDIO = {
     "tall": false,
     "title": "Quality of revenue: the numbers a board reads",
     "download": {
-     "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261125194834",
+     "href": "media/batch-7/A2/fintech-circle-b7-A2-2027-01-26-susanne.mp4?v=20261126001534",
      "name": "fintech-circle-b7-A2-2027-01-26-susanne.mp4",
      "ext": "mp4",
      "label": "Download MP4",
@@ -1917,22 +1923,22 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-7/C1/p01.jpg?v=20261125194834",
-     "media/batch-7/C1/p02.jpg?v=20261125194834",
-     "media/batch-7/C1/p03.jpg?v=20261125194834",
-     "media/batch-7/C1/p04.jpg?v=20261125194834",
-     "media/batch-7/C1/p05.jpg?v=20261125194834",
-     "media/batch-7/C1/p06.jpg?v=20261125194834",
-     "media/batch-7/C1/p07.jpg?v=20261125194834",
-     "media/batch-7/C1/p08.jpg?v=20261125194834",
-     "media/batch-7/C1/p09.jpg?v=20261125194834"
+     "media/batch-7/C1/p01.jpg?v=20261126001534",
+     "media/batch-7/C1/p02.jpg?v=20261126001534",
+     "media/batch-7/C1/p03.jpg?v=20261126001534",
+     "media/batch-7/C1/p04.jpg?v=20261126001534",
+     "media/batch-7/C1/p05.jpg?v=20261126001534",
+     "media/batch-7/C1/p06.jpg?v=20261126001534",
+     "media/batch-7/C1/p07.jpg?v=20261126001534",
+     "media/batch-7/C1/p08.jpg?v=20261126001534",
+     "media/batch-7/C1/p09.jpg?v=20261126001534"
     ],
     "title": "What a VC needs to see, and why a NED should know it",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-7/C1/fintech-circle-b7-C1-2027-01-18-susanne.pdf?v=20261125194834",
+     "href": "media/batch-7/C1/fintech-circle-b7-C1-2027-01-18-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b7-C1-2027-01-18-susanne.pdf",
      "bytes": 761870,
      "w": 1080,
@@ -1979,24 +1985,24 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-7/C2/p01.jpg?v=20261125194834",
-     "media/batch-7/C2/p02.jpg?v=20261125194834",
-     "media/batch-7/C2/p03.jpg?v=20261125194834",
-     "media/batch-7/C2/p04.jpg?v=20261125194834",
-     "media/batch-7/C2/p05.jpg?v=20261125194834",
-     "media/batch-7/C2/p06.jpg?v=20261125194834",
-     "media/batch-7/C2/p07.jpg?v=20261125194834",
-     "media/batch-7/C2/p08.jpg?v=20261125194834",
-     "media/batch-7/C2/p09.jpg?v=20261125194834"
+     "media/batch-7/C2/p01.jpg?v=20261126001534",
+     "media/batch-7/C2/p02.jpg?v=20261126001534",
+     "media/batch-7/C2/p03.jpg?v=20261126001534",
+     "media/batch-7/C2/p04.jpg?v=20261126001534",
+     "media/batch-7/C2/p05.jpg?v=20261126001534",
+     "media/batch-7/C2/p06.jpg?v=20261126001534",
+     "media/batch-7/C2/p07.jpg?v=20261126001534",
+     "media/batch-7/C2/p08.jpg?v=20261126001534",
+     "media/batch-7/C2/p09.jpg?v=20261126001534"
     ],
     "title": "The Board Programme, part by part (promotional)",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 9,
-     "href": "media/batch-7/C2/fintech-circle-b7-C2-2027-01-29-susanne.pdf?v=20261125194834",
+     "href": "media/batch-7/C2/fintech-circle-b7-C2-2027-01-29-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b7-C2-2027-01-29-susanne.pdf",
-     "bytes": 662302,
+     "bytes": 662303,
      "w": 1080,
      "h": 1350
     }
@@ -2044,23 +2050,23 @@ window.STUDIO = {
    "media": {
     "type": "carousel",
     "files": [
-     "media/batch-7/C3/p01.jpg?v=20261125194834",
-     "media/batch-7/C3/p02.jpg?v=20261125194834",
-     "media/batch-7/C3/p03.jpg?v=20261125194834",
-     "media/batch-7/C3/p04.jpg?v=20261125194834",
-     "media/batch-7/C3/p05.jpg?v=20261125194834",
-     "media/batch-7/C3/p06.jpg?v=20261125194834",
-     "media/batch-7/C3/p07.jpg?v=20261125194834",
-     "media/batch-7/C3/p08.jpg?v=20261125194834"
+     "media/batch-7/C3/p01.jpg?v=20261126001534",
+     "media/batch-7/C3/p02.jpg?v=20261126001534",
+     "media/batch-7/C3/p03.jpg?v=20261126001534",
+     "media/batch-7/C3/p04.jpg?v=20261126001534",
+     "media/batch-7/C3/p05.jpg?v=20261126001534",
+     "media/batch-7/C3/p06.jpg?v=20261126001534",
+     "media/batch-7/C3/p07.jpg?v=20261126001534",
+     "media/batch-7/C3/p08.jpg?v=20261126001534"
     ],
     "title": "The investor proposition: 4 blanks to fill in before a fintech raises",
     "tall": false,
     "download": {
      "ext": "pdf",
      "pages": 8,
-     "href": "media/batch-7/C3/fintech-circle-b7-C3-2027-01-25-susanne.pdf?v=20261125194834",
+     "href": "media/batch-7/C3/fintech-circle-b7-C3-2027-01-25-susanne.pdf?v=20261126001534",
      "name": "fintech-circle-b7-C3-2027-01-25-susanne.pdf",
-     "bytes": 1508527,
+     "bytes": 1508482,
      "w": 1080,
      "h": 1350
     }
@@ -2101,14 +2107,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-7/S1/image.jpg?v=20261125194834"
+     "media/batch-7/S1/image.jpg?v=20261126001534"
     ],
     "title": "Where does the company sit in the regulated value chain?",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-7/S1/fintech-circle-b7-S1-2027-01-19-susanne.png?v=20261125194834",
+     "href": "media/batch-7/S1/fintech-circle-b7-S1-2027-01-19-susanne.png?v=20261126001534",
      "name": "fintech-circle-b7-S1-2027-01-19-susanne.png",
      "bytes": 407079,
      "w": 1080,
@@ -2151,14 +2157,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-7/S2/image.jpg?v=20261125194834"
+     "media/batch-7/S2/image.jpg?v=20261126001534"
     ],
     "title": "Equity or options for a board seat",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-7/S2/fintech-circle-b7-S2-2027-01-22-susanne.png?v=20261125194834",
+     "href": "media/batch-7/S2/fintech-circle-b7-S2-2027-01-22-susanne.png?v=20261126001534",
      "name": "fintech-circle-b7-S2-2027-01-22-susanne.png",
      "bytes": 140887,
      "w": 1080,
@@ -2204,14 +2210,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-7/S3/image.jpg?v=20261125194834"
+     "media/batch-7/S3/image.jpg?v=20261126001534"
     ],
     "title": "Fundamentals or narrative: the valuation question after the reset",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-7/S3/fintech-circle-b7-S3-2027-01-27-susanne.png?v=20261125194834",
+     "href": "media/batch-7/S3/fintech-circle-b7-S3-2027-01-27-susanne.png?v=20261126001534",
      "name": "fintech-circle-b7-S3-2027-01-27-susanne.png",
      "bytes": 169876,
      "w": 1080,
@@ -2256,14 +2262,14 @@ window.STUDIO = {
    "media": {
     "type": "image",
     "files": [
-     "media/batch-7/S4/image.jpg?v=20261125194834"
+     "media/batch-7/S4/image.jpg?v=20261126001534"
     ],
     "title": "London has both: what fintech boards value in experienced leaders",
     "tall": false,
     "download": {
      "ext": "png",
      "pages": 1,
-     "href": "media/batch-7/S4/fintech-circle-b7-S4-2027-01-28-susanne.png?v=20261125194834",
+     "href": "media/batch-7/S4/fintech-circle-b7-S4-2027-01-28-susanne.png?v=20261126001534",
      "name": "fintech-circle-b7-S4-2027-01-28-susanne.png",
      "bytes": 585275,
      "w": 1080,
@@ -2333,6 +2339,618 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Credentials (Silicon Valley about 30 years ago, founded 2014, The FINTECH Book 2015) are self-described (BL rows): Susanne to confirm the wording",
     "No board webinar is scheduled after 10 December: CTA set to the Board Programme; switch to the webinar when the next broadcast is announced"
+   ]
+  },
+  {
+   "key": "b8-A1",
+   "id": "A1",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-03",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Advisor, NED, committee chair, chair: the portfolio career path",
+   "format": "Animated image (GIF and MP4)",
+   "cta": "webinar",
+   "text": "Advisor. NED. Committee chair. Chair.\nThe 4 steps of a portfolio career ↓\n\nMost portfolio careers follow the same path, and the duties change at every step:\n\n1. Board advisor or fractional CXO. An advisor is non-executive and not a director, with influence only and no formal fiduciary duty. A fractional CXO is a part-time executive with executive authority\n2. Non-executive director. Listed at Companies House, as liable as an executive director, and answerable to the FCA and PRA in a regulated firm\n3. Sub-committee chair. Leading audit and risk, remuneration or nomination\n4. Company chair. Leading the board and responsible for its effectiveness\n\nOne caution at step 1: an advisor must avoid becoming a shadow director through the advice given.\n\nWe cover portfolio career architecture in the Board Webinar on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#PortfolioCareer #NonExecutiveDirector #BoardDirectors",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=portfolio-career-video-b8A1",
+   "media": {
+    "type": "video",
+    "files": [
+     "media/batch-8/A1/poster.jpg?v=20261126001534"
+    ],
+    "video": "media/batch-8/A1/fintech-circle-b8-A1-2026-12-03-company.mp4?v=20261126001534",
+    "sets": [
+     {
+      "href": "media/batch-8/A1/fintech-circle-b8-A1-2026-12-03-company.mp4?v=20261126001534",
+      "name": "fintech-circle-b8-A1-2026-12-03-company.mp4",
+      "ext": "mp4",
+      "label": "Download MP4",
+      "bytes": 816969
+     },
+     {
+      "href": "media/batch-8/A1/fintech-circle-b8-A1-2026-12-03-company.gif?v=20261126001534",
+      "name": "fintech-circle-b8-A1-2026-12-03-company.gif",
+      "ext": "gif",
+      "label": "Download GIF",
+      "bytes": 1392403
+     }
+    ],
+    "tall": false,
+    "title": "Advisor, NED, committee chair, chair: the portfolio career path",
+    "download": {
+     "href": "media/batch-8/A1/fintech-circle-b8-A1-2026-12-03-company.mp4?v=20261126001534",
+     "name": "fintech-circle-b8-A1-2026-12-03-company.mp4",
+     "ext": "mp4",
+     "label": "Download MP4",
+     "bytes": 816969
+    }
+   },
+   "sample": {
+    "id": "AV15",
+    "creator": "Alex Vacca",
+    "what": "Org-chart tree that grows level by level with annotation tabs naming each role's duty (paper, ink, teal connectors)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AV15 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-004 · Typical portfolio career path: board advisor or fractional C-level, then NED, then sub-committee chair, then company chair",
+    "WS-003 · Four roles: fractional CXO (part-time executive, responsible for delivery, executive authority); board advisor (non-executive, not a director, no direct management oversight, no formal fiduciary duty, influence only, can be paid a fee plus equity or options); NED (a director listed at Companies House, as liable as an executive director, answerable to FCA and PRA in regulated firms, formal oversight); chair (leads the board, responsible for its effectiveness)",
+    "WS-005 · Advisors must avoid becoming a shadow director through the advice they give",
+    "WS-023 · Board committees: audit and risk (combined or separate), remuneration, nomination, sometimes a special advisory group for technology or strategic decisions; the senior independent director is \"almost the vice chair\". Sub-committees exist for better decisions, increased assurance and reduced risk, and board and executive productivity; they focus on work delegated by the board, add scrutiny, make recommendations and some delegated decisions",
+    "CO-021 · Step 2, Portfolio Career Architecture: sequencing mandates, managing conflicts, building a portfolio career",
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-A2",
+   "id": "A2",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-11",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Noses in, fingers out: the board's job on AI",
+   "format": "Animated image (GIF and MP4)",
+   "cta": "board-programme",
+   "text": "Noses in, fingers out.\nWhere a board's job on AI starts and stops ↓\n\nAI is a board issue for two reasons: AI-native competitors can be faster, better and cheaper, and AI needs governance to avoid shadow AI.\n\nWhat the board does:\n• Sets intent: use AI to enable growth, better customer service or more efficient operations, in an ethical and responsible way\n• Approves the guard rails: only enterprise tools, only trained staff, use cases approved by an AI steering group\n• Demands visibility on where AI is used and what a bad incident would look like\n\nWhat the board does not do: select models, approve individual use cases or review prompts. That is management's job.\n\nThis is taught in the AI governance module of the Board Programme. Details are in the first comment.\n\n#AIGovernance #BoardDirectors #CorporateGovernance",
+   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=ai-governance-video-b8A2",
+   "media": {
+    "type": "video",
+    "files": [
+     "media/batch-8/A2/poster.jpg?v=20261126001534"
+    ],
+    "video": "media/batch-8/A2/fintech-circle-b8-A2-2026-12-11-company.mp4?v=20261126001534",
+    "sets": [
+     {
+      "href": "media/batch-8/A2/fintech-circle-b8-A2-2026-12-11-company.mp4?v=20261126001534",
+      "name": "fintech-circle-b8-A2-2026-12-11-company.mp4",
+      "ext": "mp4",
+      "label": "Download MP4",
+      "bytes": 859434
+     },
+     {
+      "href": "media/batch-8/A2/fintech-circle-b8-A2-2026-12-11-company.gif?v=20261126001534",
+      "name": "fintech-circle-b8-A2-2026-12-11-company.gif",
+      "ext": "gif",
+      "label": "Download GIF",
+      "bytes": 1155809
+     }
+    ],
+    "tall": false,
+    "title": "Noses in, fingers out: the board's job on AI",
+    "download": {
+     "href": "media/batch-8/A2/fintech-circle-b8-A2-2026-12-11-company.mp4?v=20261126001534",
+     "name": "fintech-circle-b8-A2-2026-12-11-company.mp4",
+     "ext": "mp4",
+     "label": "Download MP4",
+     "bytes": 859434
+    }
+   },
+   "sample": {
+    "id": "AV25",
+    "creator": "Alex Vacca",
+    "what": "2x2 matrix whose quadrants fill in turn under rotated axis labels (graphite and amber)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AV25 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-006 · Board role in AI governance: set intent, approve guard rails, demand visibility (noses in); boards do not select models, approve individual use cases or review prompts (fingers out)",
+    "WS-007 · AI usage policy content: intent (use AI to enable higher growth, better customer service or more efficient operations, in an ethical and responsible way); guard rails (only enterprise tools, only trained staff, use cases approved by an AI steering committee with controls); visibility (quarterly reporting from the steering committee, clear metrics, annual report from internal audit). Structure: AI usage policy (board approved; defines the guidelines and principles for responsible use of AI), AI steering committee (executive management level; manages and approves use cases; reports regularly to the board), AI use case register (a centralised inventory of all AI use cases, their status and potential impact)",
+    "WS-008 · Four questions for NEDs on AI: Where are we using AI? What is the AI governance structure? What would a bad AI incident look like? What are the performance measures for our AI?",
+    "WS-028 · Why AI is a board issue: business model (AI-native competitors can be faster, better and cheaper than firms with 10 years of history) and AI governance (avoid shadow AI, have rules, an ethical approach)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-C1",
+   "id": "C1",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-08",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "6 steps from senior executive to a fintech board seat",
+   "format": "Carousel, 9 pages",
+   "cta": "webinar",
+   "text": "6 steps from senior executive to a fintech board seat.\nWe teach all 6 on 10 December ↓\n\nSince 2014 we have worked with the people who build, back and govern fintech companies. The same six steps come up every time:\n\n1. Understand the real role of the board: management is not governance, and fiduciary duties come with the seat\n2. Portfolio career architecture: sequencing mandates and managing conflicts\n3. Positioning in the fintech NED landscape: where demand sits in 2027 and how founders and VCs judge NED credibility\n4. Fundraising and governance literacy: fundraising readiness and unit economics\n5. Regulatory and reputational protection: SMCR, FCA and PRA expectations, D&O insurance, fiduciary exposure\n6. AI governance literacy: ML versus generative AI risk, board oversight, engaging on technology strategy\n\nThe briefing is designed for senior professionals with 15 to 30+ years in banking, insurance or top-tier audit.\n\nThursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=webinar-carousel-b8C1",
+   "media": {
+    "type": "carousel",
+    "files": [
+     "media/batch-8/C1/p01.jpg?v=20261126001534",
+     "media/batch-8/C1/p02.jpg?v=20261126001534",
+     "media/batch-8/C1/p03.jpg?v=20261126001534",
+     "media/batch-8/C1/p04.jpg?v=20261126001534",
+     "media/batch-8/C1/p05.jpg?v=20261126001534",
+     "media/batch-8/C1/p06.jpg?v=20261126001534",
+     "media/batch-8/C1/p07.jpg?v=20261126001534",
+     "media/batch-8/C1/p08.jpg?v=20261126001534",
+     "media/batch-8/C1/p09.jpg?v=20261126001534"
+    ],
+    "title": "6 steps from senior executive to a fintech board seat",
+    "tall": false,
+    "download": {
+     "ext": "pdf",
+     "pages": 9,
+     "href": "media/batch-8/C1/fintech-circle-b8-C1-2026-12-08-company.pdf?v=20261126001534",
+     "name": "fintech-circle-b8-C1-2026-12-08-company.pdf",
+     "bytes": 711954,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "HD11",
+    "creator": "Harry Dry",
+    "what": "Flow matrix: a numbered pill leads to outlined cards joined by a connector on every page (black, orange pills, teal links)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample HD11 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "CO-002 · FINTECH Circle has run since 2014",
+    "CO-019 · The briefing is \"designed for the UK Portfolio Finance Leader\": senior professionals with 15 to 30+ years of institutional experience in banking, insurance or top-tier audit",
+    "CO-020 · Roadmap step 1, Understanding the Real Role of the Board: distinguishing management from governance, and fiduciary duties",
+    "CO-021 · Step 2, Portfolio Career Architecture: sequencing mandates, managing conflicts, building a portfolio career",
+    "CO-022 · Step 3, Positioning in the Fintech NED Landscape: where demand sits in 2027, how founders and VCs judge NED credibility, how to pitch headhunters and investment committees",
+    "CO-023 · Step 4, Fundraising and Governance Literacy: fundraising readiness and unit economics",
+    "CO-024 · Step 5, Regulatory and Reputational Protection: SMCR, FCA and PRA expectations, D&O insurance, fiduciary exposure",
+    "CO-025 · Step 6, AI Governance Literacy for Board Directors: ML versus generative AI risk, board oversight, engaging on technology strategy",
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "The six steps are the 20 November landing page's roadmap (CO-020 to CO-025); confirm the 10 December session keeps them",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-C2",
+   "id": "C2",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-02",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Executives manage, boards govern: 6 places the line moves",
+   "format": "Carousel, 8 pages",
+   "cta": "webinar",
+   "text": "Executives manage. Boards govern.\n6 places where the line moves ↓\n\nThe first board seat is hardest for people who have been very good executives. The habits that made them senior are the ones the board asks them to put down.\n\n• Running the company becomes overseeing it: the chair runs the board so the chief executive can run the company\n• Executive authority becomes formal oversight, with the same liability as an executive director\n• Choosing AI models becomes setting intent, approving guard rails and demanding visibility. Noses in, fingers out\n• Managing the team becomes judging it on operational and financial performance\n• Answering to the CEO becomes answering to the FCA and PRA as well, in a regulated firm\n• Hands-on advice carries a risk: an adviser must avoid becoming a shadow director\n\nUnderstanding the real role of the board is step 1 of the roadmap we teach on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #CorporateGovernance #Fintech",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=governance-carousel-b8C2",
+   "media": {
+    "type": "carousel",
+    "files": [
+     "media/batch-8/C2/p01.jpg?v=20261126001534",
+     "media/batch-8/C2/p02.jpg?v=20261126001534",
+     "media/batch-8/C2/p03.jpg?v=20261126001534",
+     "media/batch-8/C2/p04.jpg?v=20261126001534",
+     "media/batch-8/C2/p05.jpg?v=20261126001534",
+     "media/batch-8/C2/p06.jpg?v=20261126001534",
+     "media/batch-8/C2/p07.jpg?v=20261126001534",
+     "media/batch-8/C2/p08.jpg?v=20261126001534"
+    ],
+    "title": "Executives manage, boards govern: 6 places the line moves",
+    "tall": false,
+    "download": {
+     "ext": "pdf",
+     "pages": 8,
+     "href": "media/batch-8/C2/fintech-circle-b8-C2-2026-12-02-company.pdf?v=20261126001534",
+     "name": "fintech-circle-b8-C2-2026-12-02-company.pdf",
+     "bytes": 623060,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "HD21",
+    "creator": "Harry Dry",
+    "what": "Strict two-row before and after: every page splits 'As an executive' above and 'On the board' below, huge whitespace (warm white, ink, one orange rule)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample HD21 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "CO-020 · Roadmap step 1, Understanding the Real Role of the Board: distinguishing management from governance, and fiduciary duties",
+    "WS-022 · Role of the Chair: lead the board in determining strategy; ensure the board has clear visibility of results; maintain stakeholder relationships; \"Runs board allows Chief Executive to run the company\"; implement investment strategy and exit; judge the executive team on operational and financial performance; responsible for management change. Role of the CEO: lead the executive in developing and delivering the business plan and maintaining operational and financial integrity; work with the Chair on a healthy board and executive relationship",
+    "WS-003 · Four roles: fractional CXO (part-time executive, responsible for delivery, executive authority); board advisor (non-executive, not a director, no direct management oversight, no formal fiduciary duty, influence only, can be paid a fee plus equity or options); NED (a director listed at Companies House, as liable as an executive director, answerable to FCA and PRA in regulated firms, formal oversight); chair (leads the board, responsible for its effectiveness)",
+    "WS-006 · Board role in AI governance: set intent, approve guard rails, demand visibility (noses in); boards do not select models, approve individual use cases or review prompts (fingers out)",
+    "WS-005 · Advisors must avoid becoming a shadow director through the advice they give",
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-C6",
+   "id": "C6",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-15",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Pop-Up Boards: rehearse the seat before you take it",
+   "format": "Carousel, 9 pages",
+   "cta": "board-programme",
+   "text": "A board meeting you can rehearse before you sit on a board.\nHow our Pop-Up Boards work ↓\n\nAn interview tests what you say. A board tests what you do with the papers. So in the Board Programme, participants rehearse the seat with practising fintech CEOs:\n\n1. Read the detailed board papers\n2. Prepare questions in advance\n3. Meet the leadership team in a small group, on three agenda points\n4. Add value on each point\n5. Follow up with the CEO\n\nPop-Up Boards sit inside a three-month programme: on-demand training, live faculty-led sessions, board CV and interview coaching from specialist headhunters, and introductions to executive search firms.\n\nBoard Programme details are in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
+   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=programme-carousel-b8C6",
+   "media": {
+    "type": "carousel",
+    "files": [
+     "media/batch-8/C6/p01.jpg?v=20261126001534",
+     "media/batch-8/C6/p02.jpg?v=20261126001534",
+     "media/batch-8/C6/p03.jpg?v=20261126001534",
+     "media/batch-8/C6/p04.jpg?v=20261126001534",
+     "media/batch-8/C6/p05.jpg?v=20261126001534",
+     "media/batch-8/C6/p06.jpg?v=20261126001534",
+     "media/batch-8/C6/p07.jpg?v=20261126001534",
+     "media/batch-8/C6/p08.jpg?v=20261126001534",
+     "media/batch-8/C6/p09.jpg?v=20261126001534"
+    ],
+    "title": "Pop-Up Boards: rehearse the seat before you take it",
+    "tall": false,
+    "download": {
+     "ext": "pdf",
+     "pages": 9,
+     "href": "media/batch-8/C6/fintech-circle-b8-C6-2026-12-15-company.pdf?v=20261126001534",
+     "name": "fintech-circle-b8-C6-2026-12-15-company.pdf",
+     "bytes": 671266,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "AB27",
+    "creator": "Austin Belcak",
+    "what": "Dark editorial numbered list: a large numeral, headline and one highlighted line per page (deep navy, white, teal)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AB27 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-020 · Pop-up board: read detailed board papers, prepare questions, meet the leadership team in a small group on three agenda points, add value, then follow up with the CEO",
+    "CO-015 · Board Programme: three months, on-demand training plus live faculty-led sessions, Pop-Up Boards with practising fintech CEOs, board CV and interview coaching from specialist headhunters, introductions to executive search firms"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Programme parts are own-marketing (CO-015); no prices or dates shown (CO-027)",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-G1",
+   "id": "G1",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-09",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Resource giveaway: The Fintech Board Checklist (8 sub-sectors)",
+   "format": "Animated image (GIF and MP4)",
+   "cta": "webinar",
+   "text": "8 fintech sub-sectors. 8 board checklists.\nWhat a director watches in each, in one free guide ↓\n\nA director joining a paytech board needs different questions from one joining a lender or a wealthtech. So we put the sub-sector checklists we teach in Module 3 of the Board Programme into one guide:\n\n• Paytech: fraud and financial controls, operational resilience, partner dependencies, platform risk\n• Lending: underwriting discipline, risk appetite, funding model and liquidity, stress testing\n• Embedded finance: accountability across multi-party ecosystems, consent, hand-offs between entities\n• Digital assets: regulatory perimeter (e.g. MiCA), custody and safeguarding, market integrity\n• Wealthtech: conduct risk and suitability, disclosures, product governance under UK Consumer Duty\n• Regtech: model risk and explainability, data governance, liability across the value chain\n• Insurtech: underwriting governance, claims outcomes, fraud risk\n• Capital markets: long sales cycles, client concentration, implementation risk at go-live\n\nThe guide is free, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #CorporateGovernance",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
+   "media": {
+    "type": "video",
+    "files": [
+     "media/batch-8/G1/poster.jpg?v=20261126001534"
+    ],
+    "video": "media/batch-8/G1/fintech-circle-b8-G1-2026-12-09-company.mp4?v=20261126001534",
+    "sets": [
+     {
+      "href": "media/batch-8/G1/fintech-circle-b8-G1-2026-12-09-company.mp4?v=20261126001534",
+      "name": "fintech-circle-b8-G1-2026-12-09-company.mp4",
+      "ext": "mp4",
+      "label": "Download MP4",
+      "bytes": 377347
+     },
+     {
+      "href": "media/batch-8/G1/fintech-circle-b8-G1-2026-12-09-company.gif?v=20261126001534",
+      "name": "fintech-circle-b8-G1-2026-12-09-company.gif",
+      "ext": "gif",
+      "label": "Download GIF",
+      "bytes": 469822
+     }
+    ],
+    "tall": false,
+    "title": "Resource giveaway: The Fintech Board Checklist (8 sub-sectors)",
+    "download": {
+     "href": "media/batch-8/G1/fintech-circle-b8-G1-2026-12-09-company.mp4?v=20261126001534",
+     "name": "fintech-circle-b8-G1-2026-12-09-company.mp4",
+     "ext": "mp4",
+     "label": "Download MP4",
+     "bytes": 377347
+    }
+   },
+   "sample": {
+    "id": "ID11",
+    "creator": "Ipsita Dhar",
+    "what": "Animated PDF lead-magnet flip-through: software window, thumbnail rail, the real guide's pages turning (lavender window, purple accents)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample ID11 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-011 · Board checklists by sub-sector. Paytech: fraud and financial controls; operational resilience and incident response; regulatory perimeter and partner dependencies; revenue concentration and platform risk. Lending: underwriting discipline; risk appetite; portfolio monitoring and early warning signs; funding model and liquidity; stress testing across cycles. Embedded finance: accountability in multi-party ecosystems; the customer understands the journey; hand-offs between legal entities; data sharing and consent; resilience across dependencies. Digital assets: regulatory perimeter and jurisdiction (e.g. MiCA); custody and safeguarding of client assets; market integrity and partners; operational resilience; conduct risk",
+    "WS-027 · Sub-sector board checklists. Wealthtech: conduct risk and suitability; market cycle sensitivity; clear customer communication and disclosures; governance of product design (UK Consumer Duty). Regtech: deep risk and compliance expertise; model risk and explainability; data governance and privacy; liability across the value chain. Insurtech: underwriting governance; claims experience and customer outcomes; reputation risk; partner dependencies; fraud risk. Capital markets: long sales cycles; client concentration; resilience; implementation risk at go-live. Digital assets: regulatory perimeter and jurisdiction (MiCA); custody and safeguarding of client assets; market integrity; operational resilience",
+    "WS-010 · Four positions in the regulated value chain: front-end apps and distribution; product manufacturer (credit, loans, insurance, investment products); infrastructure enablement (processing, APIs, compliance tooling); data and identity layer (customer verification, transaction monitoring)",
+    "WS-012 · Metrics. Consumer fintech: CAC and payback period; lifetime value and retention; active use and churn timing; revenue diversification. B2B fintech: ARR; net revenue retention; contract length; renewal rates; top-client concentration; success of implementations and pilots. Why B2B is attractive: recurring revenue, large contracts, higher switching costs, lower CAC relative to lifetime value, forward revenue visibility. Revenue quality: margins, churn, dependence on unsustainable incentives"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "GIVEAWAY: the guide is built (outputs/content/batch-8/G1/resource/index.html) but NOT hosted: deploy it at https://webinar.fintechcircle.com/board-checklist/ through lp_deploy.sh (plan card + go) before this post runs",
+    "Delivery default: link in the first comment, no keyword ask (R9). A comment-to-get version needs the owner to lift R9 for this post",
+    "Gives Module 3 checklists away free: owner to approve releasing curriculum content",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-S1",
+   "id": "S1",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-16",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "4 board roles compared: CXO, advisor, NED, chair",
+   "format": "Image",
+   "cta": "board-programme",
+   "text": "Fractional CXO, board advisor, NED, chair.\n4 roles that look alike and carry very different duties ↓\n\nThey are often discussed as one \"board career\". They are not the same job:\n\n• Fractional CXO: a part-time executive, responsible for delivery, with executive authority\n• Board advisor: non-executive and not a director. Influence only, no direct management oversight, no formal fiduciary duty. Can be paid a fee plus equity or options\n• NED: a director listed at Companies House, as liable as an executive director, answerable to the FCA and PRA in a regulated firm, with formal oversight\n• Chair: leads the board and is responsible for its effectiveness\n\nThe difference that matters most is liability. Know which one you are being offered before you say yes.\n\nThis is part of Module 3 of the Board Programme. Details are in the first comment.\n\n#NonExecutiveDirector #BoardDirectors #PortfolioCareer",
+   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=portfolio-career-image-b8S1",
+   "media": {
+    "type": "image",
+    "files": [
+     "media/batch-8/S1/image.jpg?v=20261126001534"
+    ],
+    "title": "4 board roles compared: CXO, advisor, NED, chair",
+    "tall": false,
+    "download": {
+     "ext": "png",
+     "pages": 1,
+     "href": "media/batch-8/S1/fintech-circle-b8-S1-2026-12-16-company.png?v=20261126001534",
+     "name": "fintech-circle-b8-S1-2026-12-16-company.png",
+     "bytes": 118341,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "AV20",
+    "creator": "Alex Vacca",
+    "what": "True data table: frozen factor column, four role columns, one highlighted row (white, ink, orange highlight)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AV20 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-003 · Four roles: fractional CXO (part-time executive, responsible for delivery, executive authority); board advisor (non-executive, not a director, no direct management oversight, no formal fiduciary duty, influence only, can be paid a fee plus equity or options); NED (a director listed at Companies House, as liable as an executive director, answerable to FCA and PRA in regulated firms, formal oversight); chair (leads the board, responsible for its effectiveness)",
+    "BL-701 (no facts.md row)",
+    "WS-005 · Advisors must avoid becoming a shadow director through the advice they give"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Pay row: advisor and NED from BL-701; CXO and chair pay are not in the module and are marked so on the image",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-S2",
+   "id": "S2",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-01",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "4 questions every NED should ask about AI",
+   "format": "Image",
+   "cta": "webinar",
+   "text": "4 questions every NED should be asking about AI ↓\n\nA board does not need to understand how a model works. It does need answers to these four:\n\n1. Where are we using AI?\n2. What is the AI governance structure?\n3. What would a bad AI incident look like?\n4. What are the performance measures for our AI?\n\nAI is a board issue on two fronts: the business model, because AI-native competitors can be faster, better and cheaper, and governance, because shadow AI needs rules and an ethical approach.\n\nAI governance literacy is step 6 of the roadmap we teach in the Board Webinar on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#AIGovernance #NonExecutiveDirector #BoardDirectors",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=ai-governance-image-b8S2",
+   "media": {
+    "type": "image",
+    "files": [
+     "media/batch-8/S2/image.jpg?v=20261126001534"
+    ],
+    "title": "4 questions every NED should ask about AI",
+    "tall": false,
+    "download": {
+     "ext": "png",
+     "pages": 1,
+     "href": "media/batch-8/S2/fintech-circle-b8-S2-2026-12-01-company.png?v=20261126001534",
+     "name": "fintech-circle-b8-S2-2026-12-01-company.png",
+     "bytes": 119323,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "AB44",
+    "creator": "Austin Belcak",
+    "what": "Tall numbered list with highlight boxes for scan rhythm, re-cut to 4:5 (peach paper, black boxes, burnt orange numerals)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AB44 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-008 · Four questions for NEDs on AI: Where are we using AI? What is the AI governance structure? What would a bad AI incident look like? What are the performance measures for our AI?",
+    "WS-028 · Why AI is a board issue: business model (AI-native competitors can be faster, better and cheaper than firms with 10 years of history) and AI governance (avoid shadow AI, have rules, an ethical approach)",
+    "CO-025 · Step 6, AI Governance Literacy for Board Directors: ML versus generative AI risk, board oversight, engaging on technology strategy",
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-S5",
+   "id": "S5",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-10",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "The fintech map: consumer or business, balance sheet or capital light",
+   "format": "Image",
+   "cta": "webinar",
+   "text": "Consumer or business. Balance sheet or capital light.\nThe fintech map every board candidate should carry ↓\n\nTwo questions place almost any fintech:\n\n• Does it serve consumers or businesses?\n• Does it hold risk on its balance sheet, or run capital light, off balance sheet?\n\nBalance sheet models on the consumer side include consumer lending and deposit taking: neobanks, buy now pay later, digital mortgages. Underneath every quadrant sits the infrastructure layer: processing, APIs, compliance tooling, data and identity.\n\nWhere a company sits on this map tells a director what kind of risk the board will spend its time on.\n\nPositioning in the fintech NED landscape is step 3 of the roadmap we teach in the Board Webinar today, 12:00 London. Registration is in the first comment.\n\n#Fintech #BoardDirectors #NonExecutiveDirector",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=fintech-sector-image-b8S5",
+   "media": {
+    "type": "image",
+    "files": [
+     "media/batch-8/S5/image.jpg?v=20261126001534"
+    ],
+    "title": "The fintech map: consumer or business, balance sheet or capital light",
+    "tall": false,
+    "download": {
+     "ext": "png",
+     "pages": 1,
+     "href": "media/batch-8/S5/fintech-circle-b8-S5-2026-12-10-company.png?v=20261126001534",
+     "name": "fintech-circle-b8-S5-2026-12-10-company.png",
+     "bytes": 140370,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "AV35",
+    "creator": "Alex Vacca",
+    "what": "True 2x2 quadrant matrix with labelled axes, an origin node and the infrastructure layer as a base band (sage paper, ink, one orange node)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AV35 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "WS-025 · The fintech map: consumer or business, balance sheet or capital light (off balance sheet), with an infrastructure layer underneath. Consumer balance sheet: consumer lending, deposit taking (neobanks, buy now pay later, digital mortgages, crypto custody). Consumer capital light: data aggregation, advice, comparison (robo advisers, budgeting tools, digital wealth). Business balance sheet: SME and business lending, trade finance (invoice financing, revenue-based financing, embedded lending). Business capital light: SaaS tools and B2B payments (expense management, payroll, treasury, regtech). Infrastructure: payment rails, banking as a service, APIs, KYC and onboarding, core banking SaaS. Each box has been targeted by fintechs",
+    "WS-010 · Four positions in the regulated value chain: front-end apps and distribution; product manufacturer (credit, loans, insurance, investment products); infrastructure enablement (processing, APIs, compliance tooling); data and identity layer (customer verification, transaction monitoring)",
+    "CO-022 · Step 3, Positioning in the Fintech NED Landscape: where demand sits in 2027, how founders and VCs judge NED credibility, how to pitch headhunters and investment committees",
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "Says 'today': runs only on 10 December, before 12:00 London",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+   ]
+  },
+  {
+   "key": "b8-S7",
+   "id": "S7",
+   "batch": "8",
+   "profile": "company",
+   "platform": "linkedin",
+   "date": "2026-12-04",
+   "time": "09:00",
+   "status": "ready",
+   "idea": "Board Webinar announcement: 10 December, 12:00 London",
+   "format": "Image",
+   "cta": "webinar",
+   "text": "Our next Board Webinar is on 10 December at 12:00 London.\nFor senior leaders with 15 to 30+ years in financial services ↓\n\nIt is designed for the UK portfolio finance leader: senior professionals from banking, insurance or top-tier audit who want a fintech board seat.\n\nWe cover the roadmap step by step:\n• The real role of the board, and fiduciary duties\n• Portfolio career architecture\n• Positioning in the fintech NED landscape\n• Fundraising and governance literacy\n• Regulatory and reputational protection\n• AI governance literacy for directors\n\nThursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=webinar-image-b8S7",
+   "media": {
+    "type": "image",
+    "files": [
+     "media/batch-8/S7/image.jpg?v=20261126001534"
+    ],
+    "title": "Board Webinar announcement: 10 December, 12:00 London",
+    "tall": false,
+    "download": {
+     "ext": "png",
+     "pages": 1,
+     "href": "media/batch-8/S7/fintech-circle-b8-S7-2026-12-04-company.png?v=20261126001534",
+     "name": "fintech-circle-b8-S7-2026-12-04-company.png",
+     "bytes": 112261,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "AB14",
+    "creator": "Austin Belcak",
+    "what": "Webinar promo hero, executed as FINTECH Circle's own creative (R19: black, orange kicker, white logo, teal date line, URL kicker)"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample AB14 for the company page (speaks as 'we', R15, R19). Every claim from facts.md.",
+   "sources": [
+    "CO-801 · FINTECH Circle Board Webinar broadcast on Thursday 10 December 2026 at 12:00 London (WebinarGeek webinar 575538, broadcast 7141685)",
+    "CO-018 · The briefing is hosted by Susanne Chishti",
+    "CO-019 · The briefing is \"designed for the UK Portfolio Finance Leader\": senior professionals with 15 to 30+ years of institutional experience in banking, insurance or top-tier audit",
+    "CO-020 · Roadmap step 1, Understanding the Real Role of the Board: distinguishing management from governance, and fiduciary duties",
+    "CO-021 · Step 2, Portfolio Career Architecture: sequencing mandates, managing conflicts, building a portfolio career",
+    "CO-022 · Step 3, Positioning in the Fintech NED Landscape: where demand sits in 2027, how founders and VCs judge NED credibility, how to pitch headhunters and investment committees",
+    "CO-023 · Step 4, Fundraising and Governance Literacy: fundraising readiness and unit economics",
+    "CO-024 · Step 5, Regulatory and Reputational Protection: SMCR, FCA and PRA expectations, D&O insurance, fiduciary exposure",
+    "CO-025 · Step 6, AI Governance Literacy for Board Directors: ML versus generative AI risk, board oversight, engaging on technology strategy"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
+   ],
+   "numbers_for_signoff": [
+    "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
+    "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
    ]
   }
  ]
