@@ -2679,7 +2679,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "8 fintech sub-sectors. 8 board checklists.\nWhat a director watches in each, in one free guide ↓\n\nA director joining a paytech board needs different questions from one joining a lender or a wealthtech. So we put the sub-sector checklists we teach in Module 3 of the Board Programme into one guide:\n\n• Paytech: fraud and financial controls, operational resilience, partner dependencies, platform risk\n• Lending: underwriting discipline, risk appetite, funding model and liquidity, stress testing\n• Embedded finance: accountability across multi-party ecosystems, consent, hand-offs between entities\n• Digital assets: regulatory perimeter (e.g. MiCA), custody and safeguarding, market integrity\n• Wealthtech: conduct risk and suitability, disclosures, product governance under UK Consumer Duty\n• Regtech: model risk and explainability, data governance, liability across the value chain\n• Insurtech: underwriting governance, claims outcomes, fraud risk\n• Capital markets: long sales cycles, client concentration, implementation risk at go-live\n\nThe guide is free, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #CorporateGovernance",
-   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
    "media": {
     "type": "video",
     "files": [
@@ -2728,13 +2728,25 @@ window.STUDIO = {
     "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
    ],
    "numbers_for_signoff": [
-    "GIVEAWAY: the guide is built (outputs/content/batch-8/G1/resource/index.html) but NOT hosted: deploy it at https://webinar.fintechcircle.com/board-checklist/ through lp_deploy.sh (plan card + go) before this post runs",
+    "GIVEAWAY: the guide is hosted with the studio on GitHub Pages at https://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/ (operator, 2026-11-26); a self-contained HTML copy is the studio download",
     "Delivery default: link in the first comment, no keyword ask (R9). A comment-to-get version needs the owner to lift R9 for this post",
     "Gives Module 3 checklists away free: owner to approve releasing curriculum content",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
     "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
     "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
-   ]
+   ],
+   "resource": {
+    "name": "The Fintech Board Checklist",
+    "pages": 10,
+    "url": "https://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/",
+    "preview": "resources/board-checklist/index.html?v=20261126001534",
+    "files": [
+     {
+      "label": "HTML file",
+      "href": "resources/board-checklist/The%20Fintech%20Board%20Checklist.html?v=20261126001534"
+     }
+    ]
+   }
   },
   {
    "key": "b8-S1",
