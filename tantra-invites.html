@@ -1,0 +1,477 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tantra Invite Studio</title>
+<meta name="robots" content="noindex, nofollow">
+<style>
+:root{
+  --brand:#0b57d0;--page:#f4f2ee;--ink:#1d1d1f;--muted:#6b6b6b;--s:.85;--pw:417px;--ph:876px;
+  --gc:#039be5;--hl:#fff3b0;
+  font-family:-apple-system,BlinkMacSystemFont,"SF Pro Text","Helvetica Neue",Helvetica,"Segoe UI",Roboto,Arial,sans-serif;
+}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--page);color:var(--ink);-webkit-font-smoothing:antialiased}
+button{font:inherit}
+a{color:#6F46B7}
+
+/* top bar (matches the Content Studio) */
+.topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:10px 20px;background:#fff;border-bottom:1px solid #e3e1dc;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:12px}
+.brand-mark{display:inline-flex;align-items:center;justify-content:center;width:34px;height:34px;border-radius:8px;background:var(--gc);color:#fff;font-weight:800;font-size:15px;flex:0 0 auto}
+.brand-title{font-weight:700;font-size:15px}
+.brand-sub{font-size:12px;color:var(--muted)}
+.controls{display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.seg,.seg2{display:inline-flex;border:1px solid #d6d3cc;border-radius:999px;overflow:hidden;background:#fff}
+.seg button,.seg2 button{border:0;background:transparent;padding:6px 12px;font-size:12.5px;color:#333;cursor:pointer}
+.seg button.on,.seg2 button.on{background:var(--ink);color:#fff}
+.btn{border:1px solid #141414;background:#141414;color:#fff;border-radius:999px;padding:6px 14px;font-size:12.5px;cursor:pointer}
+.btn.ghost{background:#fff;color:#141414;border-color:#cfccc5}
+.btn.ghost.on{background:#141414;color:#fff}
+.btn:hover{opacity:.88}
+.tally{font-size:12px;color:#444;background:#f1efea;border-radius:999px;padding:6px 12px;white-space:nowrap}
+.tally b{color:#141414}
+.syncb{font-size:11.5px;font-weight:700;border-radius:999px;padding:5px 10px;background:#fff1dc;color:#a15c00}
+
+/* layout */
+.layout{display:grid;grid-template-columns:230px 1fr;min-height:calc(100vh - 56px)}
+.sidenav{position:sticky;top:56px;align-self:start;height:calc(100vh - 56px);overflow:auto;padding:18px 12px 40px;border-right:1px solid #e3e1dc;background:#fbfaf8}
+.sidenav h4{margin:14px 8px 6px;font-size:11px;letter-spacing:.6px;text-transform:uppercase;color:var(--muted)}
+.sidenav a{display:flex;justify-content:space-between;align-items:center;gap:8px;padding:6px 8px;border-radius:6px;font-size:12.5px;line-height:1.3;color:#222;text-decoration:none}
+.sidenav a:hover{background:#efece6}
+.sidenav a small{display:block;color:#6b6b6b;font-size:11px}
+.dots{display:inline-flex;gap:3px;flex:0 0 auto}
+.dots i{width:7px;height:7px;border-radius:50%;background:#d6d3cc}
+.dots i.on{background:#00A85A}
+main{padding:18px 0 60px;min-width:0}
+@media (max-width:860px){.layout{grid-template-columns:1fr}.sidenav{display:none}}
+
+/* findings panel */
+.panel{margin:0 26px 8px;background:#fff;border:1px solid #e6e3dd;border-radius:14px;padding:16px 18px}
+.panel h2{margin:0 0 6px;font-size:18px}
+.panel p{margin:0 0 8px;font-size:13.5px;line-height:1.5}
+.panel ul,.panel ol{margin:0 0 8px;padding-left:20px;font-size:13.5px;line-height:1.5}
+.panel li{margin-bottom:4px}
+.kpis{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px;margin:12px 0}
+.kpi{background:#f7f5f1;border-radius:10px;padding:10px 12px}
+.kpi b{display:block;font-size:20px}
+.kpi span{font-size:12px;color:var(--muted)}
+.panel details{margin-top:8px}
+.panel summary{cursor:pointer;font-weight:700;font-size:13.5px;color:#6F46B7}
+.tw{overflow-x:auto;margin:10px 0}
+table{border-collapse:collapse;width:100%;min-width:640px;font-size:13px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid #eeebe5;vertical-align:top}
+th{font-size:11px;text-transform:uppercase;letter-spacing:.04em;color:var(--muted)}
+td.n{white-space:nowrap;font-variant-numeric:tabular-nums}
+
+/* campaign rows */
+.campaign{padding:14px 0 6px}
+.campaign-head{padding:0 26px 6px}
+.campaign-head h2{margin:0;font-size:20px;letter-spacing:-.2px}
+.campaign-head p{margin:4px 0 0;color:var(--muted);font-size:13.5px;max-width:1100px}
+.rail{display:flex;gap:26px;overflow-x:auto;padding:14px 26px 22px;align-items:flex-start}
+.rail::-webkit-scrollbar{height:10px}
+.rail::-webkit-scrollbar-thumb{background:#d4d1ca;border-radius:6px}
+body.fit3 .rail{flex-wrap:wrap;overflow-x:visible}
+
+/* card */
+.pcard{width:calc(var(--pw) * var(--s));flex:0 0 auto}
+.pcard.hide{display:none}
+.chead{display:flex;flex-direction:column;gap:6px;margin-bottom:10px;min-height:92px}
+.crow{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.pid{font-weight:800;font-size:14px}
+.when{font-size:12.5px;color:var(--muted)}
+.badge{font-size:10.5px;font-weight:800;letter-spacing:.5px;text-transform:uppercase;border-radius:6px;padding:3px 7px}
+.b-ok{background:#d7f5ec;color:#0b5e4a}.b-warn{background:#fff1dc;color:#a15c00}.b-bad{background:#fde3e1;color:#b42318}.b-fmt{background:#ecebfb;color:#3f32a8}
+.cidea{font-size:12.5px;color:#444;line-height:1.4}
+
+/* iPhone frame (same geometry as the Content Studio) */
+.phone-wrap{width:calc(var(--pw) * var(--s));height:calc(var(--ph) * var(--s));position:relative}
+.phone{position:absolute;left:0;top:0;width:var(--pw);height:var(--ph);transform:scale(var(--s));transform-origin:top left;background:#0b0b0c;border-radius:64px;padding:12px;box-shadow:0 18px 40px rgba(0,0,0,.22),0 2px 6px rgba(0,0,0,.18)}
+.phone::before{content:"";position:absolute;inset:3px;border-radius:61px;border:1.5px solid rgba(255,255,255,.14);pointer-events:none}
+.screen{position:relative;width:393px;height:852px;background:#fff;border-radius:52px;overflow:hidden;display:flex;flex-direction:column;color:#1f1f1f}
+.island{position:absolute;top:23px;left:50%;transform:translateX(-50%);width:126px;height:37px;border-radius:20px;background:#000;z-index:5}
+.home{position:absolute;bottom:8px;left:50%;transform:translateX(-50%);width:139px;height:5px;border-radius:3px;background:#000;z-index:5}
+.sb{display:flex;justify-content:space-between;align-items:center;padding:18px 32px 0 44px;height:54px;font-weight:600;font-size:16px;flex:0 0 auto}
+.sb-icons{display:flex;gap:6px;align-items:center}
+
+/* Google Calendar event view */
+.gc-top{display:flex;justify-content:space-between;align-items:center;padding:8px 18px 4px;color:#444;flex:0 0 auto}
+.gc-top .r{display:flex;gap:22px}
+.gc-body{flex:1;overflow-y:auto;padding:6px 0 90px}
+.gc-title{display:flex;gap:16px;padding:8px 20px 12px}
+.gc-sq{width:16px;height:16px;border-radius:4px;background:var(--gc);margin-top:6px;flex:0 0 auto}
+.gc-title h3{margin:0;font-size:22px;line-height:1.25;font-weight:400;color:#1f1f1f}
+.gc-title .d{font-size:14px;color:#5f6368;margin-top:6px}
+.gc-row{display:flex;gap:18px;padding:12px 20px;font-size:14.5px;color:#3c4043;align-items:flex-start}
+.gc-row svg{flex:0 0 auto;color:#5f6368;margin-top:1px}
+.gc-desc{white-space:pre-wrap;line-height:1.45;font-size:14px;color:#3c4043;word-wrap:break-word;min-width:0}
+.added{background:var(--hl);border-radius:3px}
+body.nohl .added{background:transparent}
+.caps{background:#fde3e1;border-radius:3px}
+body.nohl .caps{background:transparent}
+.gc-rsvp{position:absolute;left:0;right:0;bottom:0;background:#fff;border-top:1px solid #e8eaed;padding:12px 18px 30px;display:flex;align-items:center;gap:10px;font-size:14px;color:#3c4043}
+.gc-rsvp span{flex:1}
+.chip{border:1px solid #dadce0;border-radius:18px;padding:6px 14px;font-size:14px;color:#3c4043;background:#fff}
+
+/* review box */
+.rev{margin-top:12px;background:#fff;border:1px solid #e6e3dd;border-radius:12px;padding:12px 12px 10px;font-size:12.5px}
+.appr{display:flex;gap:10px;flex-wrap:wrap}
+label.ck{display:inline-flex;align-items:center;gap:7px;font-weight:600;cursor:pointer;user-select:none;padding:6px 10px;border-radius:8px;border:1px solid #e3e1dc}
+label.ck input{width:16px;height:16px;accent-color:#00A85A}
+label.ck.on{background:#E1F8EC;border-color:#9fe2bd;color:#0b6e4f}
+label.ck span small{display:block;font-weight:500;font-size:11px;color:#0b6e4f;margin-top:2px}
+.rev textarea,.rev input[data-name]{width:100%;margin-top:8px;border:1px solid #d6d3cc;border-radius:8px;padding:8px 10px;font:inherit;font-size:12.5px}
+.rev textarea{min-height:62px;resize:vertical}
+.feed{margin-top:10px;display:flex;flex-direction:column;gap:8px}
+.fbi{display:flex;gap:8px}
+.fav{width:24px;height:24px;border-radius:50%;background:#ecebfb;color:#3f32a8;font-weight:800;font-size:11px;display:inline-flex;align-items:center;justify-content:center;flex:0 0 auto}
+.fbh{display:flex;gap:6px;align-items:baseline;flex-wrap:wrap}.fbh span{font-size:11px;color:#6b6b6b}
+.fbt{line-height:1.4;margin-top:1px}
+.fbe{color:#6b6b6b}
+.fbrow{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-top:6px}
+.saved{font-size:11.5px;color:#6b6b6b}
+.syncb.ok{background:#E1F8EC;color:#0b6e4f}
+.brand-links{font-size:12.5px;margin-top:2px}.brand-links a{color:#6F46B7;font-weight:600;text-decoration:none}
+.info{margin-top:10px;font-size:12.5px;background:#fff;border:1px solid #e6e3dd;border-radius:12px;padding:10px 12px}
+.info summary{cursor:pointer;font-weight:700}
+.info dl{margin:8px 0 0}
+.info dt{font-weight:700;margin-top:8px}
+.info dd{margin:2px 0 0;color:#333;line-height:1.45}
+.toast{position:fixed;bottom:20px;left:50%;transform:translateX(-50%);background:#1d1d1f;color:#fff;padding:8px 16px;border-radius:999px;font-size:13px;opacity:0;transition:opacity .2s;pointer-events:none;z-index:50}
+.toast.on{opacity:1}
+</style>
+</head>
+<body class="fit3">
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">31</span>
+    <div>
+      <div class="brand-title">FINTECH Circle Invite Studio · Tantra AI personalisation test</div>
+      <div class="brand-sub">As it appears in Google Calendar on iPhone · 8 test runs, 26 Nov 2026 · nothing was sent</div>
+      <div class="brand-links"><a href="index.html">Review posts</a> · <a href="ideas/index.html">Ideas</a> · <a href="examples.html">Format gallery</a> · <a href="guide.html">How to make content</a></div>
+    </div>
+  </div>
+  <div class="controls">
+    <div class="tally" id="tally"></div>
+    <span class="syncb" id="sync">Connecting…</span>
+    <div class="seg2" id="filter">
+      <button data-f="all" class="on">All</button>
+      <button data-f="todo">Needs review</button>
+      <button data-f="approved">Approved</button>
+    </div>
+    <button class="btn ghost on" id="hl">Highlight AI text</button>
+    <button class="btn ghost on" id="fit3">3 per row</button>
+    <div class="seg" id="scale">
+      <button data-v="1">100%</button><button data-v="0.85" class="on">85%</button><button data-v="0.7">70%</button>
+    </div>
+    <button class="btn" id="copyfb">Copy feedback</button>
+  </div>
+</header>
+
+<div class="layout">
+  <nav class="sidenav" id="sidenav"></nav>
+  <main id="main">
+    <section class="panel" id="findings">
+      <h2>Summary</h2>
+      <p><strong>The prompt writes accurate, on-brand sentences, but the current setup can't support 1,000 invites a day.</strong> Tantra uses Claude through the FINTECH Circle Claude plan (model <code>claude-sonnet-4-5</code>). When the plan's usage limit is reached, Tantra sends the plain template without warning.</p>
+      <div class="kpis">
+        <div class="kpi"><b>6 of 8</b><span>got a personalised sentence</span></div>
+        <div class="kpi"><b>2 of 8</b><span>changed headings to CAPITALS</span></div>
+        <div class="kpi"><b>14,221</b><span>average input tokens per invite</span></div>
+        <div class="kpi"><b>944</b><span>average output tokens per invite</span></div>
+        <div class="kpi"><b>27.8 s</b><span>average time per invite</span></div>
+        <div class="kpi"><b>None</b><span>default AI provider set in Tantra</span></div>
+      </div>
+      <details>
+        <summary>Issues found and recommended changes</summary>
+        <ul style="margin-top:8px">
+          <li><strong>Capitals:</strong> runs 3 and 5 changed "What we'll cover", "Designed for" and "The FINTECH Circle Team" to all capitals. These are shown in red on the phones.</li>
+          <li><strong>Barclays not personalised:</strong> both templates came back with only the greeting, yet each run still used about 14,500 tokens. The crawler probably fetched cookie, legal or navigation text, so the prompt correctly left the template unchanged.</li>
+          <li><strong>The prompt was written for V6:</strong> its "must stay exactly" list quotes V6 wording, so those safeguards don't cover the Personalised Template.</li>
+          <li><strong>Name used twice:</strong> the prompt says to use the name only in the greeting, but the Personalised Template's closing line also uses it ("We look forward to seeing you there, James.").</li>
+          <li><strong>Slow:</strong> at about 28 seconds each, 1,000 invites take about 7.7 hours if Tantra runs them one at a time.</li>
+        </ul>
+        <ol>
+          <li>Switch on a default provider in Tantra (Connectors, then LLM Providers).</li>
+          <li>Move bulk sending to an OpenRouter API key with a monthly spend limit and a low-balance alert. Keep the Claude plan for writing and testing prompts.</li>
+          <li>Cap the website excerpt, or check the "Use external crawler" setting. This saves the most money.</li>
+          <li>Rerun these 8 domains on Haiku 5.5 and compare the results with this page.</li>
+          <li>Prompt fixes (not yet saved in Tantra): require every unchanged line to be copied exactly, including capitals; make the "must stay" list neutral to the template; allow the name wherever the template already uses it.</li>
+        </ol>
+      </details>
+      <details>
+        <summary>Cost for 1,000 invites a day / 5,000 a week (using the measured tokens)</summary>
+        <div class="tw"><table>
+          <thead><tr><th>Setup</th><th>Per invite</th><th>Per day</th><th>Per week</th></tr></thead>
+          <tbody>
+            <tr><td>Claude plan sign-in (current)</td><td class="n">plan usage</td><td class="n">~14.2M input tokens</td><td class="n">~71M input tokens</td></tr>
+            <tr><td>API key · Sonnet 4.5 (current model)</td><td class="n">~$0.057</td><td class="n">~$57</td><td class="n">~$284</td></tr>
+            <tr><td>API key · Sonnet 5.5</td><td class="n">~$0.038</td><td class="n">~$38</td><td class="n">~$189</td></tr>
+            <tr><td>API key · Haiku 5.5</td><td class="n">~$0.0019</td><td class="n">~$1.90</td><td class="n">~$9.50</td></tr>
+            <tr><td>Sonnet 5.5 · excerpt capped ~3k tokens (estimate)</td><td class="n">~$0.018</td><td class="n">~$18</td><td class="n">~$92</td></tr>
+            <tr><td>Haiku 5.5 · excerpt capped ~3k tokens (estimate)</td><td class="n">~$0.0009</td><td class="n">~$0.90</td><td class="n">~$4.60</td></tr>
+          </tbody>
+        </table></div>
+        <p style="font-size:12.5px;color:#6b6b6b">These use Anthropic list prices. OpenRouter adds about 5% when you buy credit. Anthropic doesn't publish Claude plan limits in tokens. These 8 tests used about 114k input and 7.6k output tokens of the plan.</p>
+      </details>
+      <p style="font-size:12.5px;color:#6b6b6b;margin-top:10px">How to read the phones: <span class="added">yellow</span> is the sentence Claude added, and <span class="caps">red</span> is text Claude changed that it shouldn't have. Contact names are placeholders. The webinar date and time are not part of the test, so they appear as placeholders. The rest of each invite is rebuilt from the test output: the template text plus the lines that differed in each run.</p>
+    </section>
+    <div id="rows"></div>
+  </main>
+</div>
+<div class="toast" id="toast">Saved</div>
+
+<script>
+(function(){
+const KEY="tantra-invite-review-v1";
+const ROLES=[{role:"owner",label:"Owner"},{role:"team",label:"Team"}];
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+
+/* ---------- templates (text as returned by Claude for the unpersonalised Barclays runs) ---------- */
+const P_TPL=(o)=>[
+`Hi ${o.first},`,
+`We think this session is particularly relevant to where you are in your career, which is why we are reaching out directly.`,
+o.add?`[[A]]${o.add}[[/A]]`:null,
+`Board opportunities in UK fintech have become significantly more competitive. Senior executive experience alone no longer opens the door. SMCR accountability, AI governance obligations, and investor-driven scrutiny have raised the bar on what boards require from non-executives.`,
+`This live masterclass hosted by FINTECH Circle, gives you the framework and insider perspective from experienced Chairs, NEDs, and senior UK headhunters to help you navigate that shift with confidence.`,
+o.caps?`[[C]]WHAT WE'LL COVER[[/C]]`:`What we'll cover`,
+`- What "board-ready" actually means in regulated fintech and the six-step framework to build toward it
+- How headhunters and nominating committees shortlist NED candidates from the inside
+- SMCR exposure, fiduciary duties, and how to conduct real due diligence before accepting a role
+- How to build credible AI governance positioning without a technical background
+- Red flags, when to decline a role, and how to protect yourself from regulatory and reputational risk
+- Live Q&A - your specific questions answered directly`,
+o.caps?`[[C]]DESIGNED FOR[[/C]]`:`Designed for`,
+`NEDs, CFOs, CROs, COOs, Fractional Executives, and senior leaders with 15+ years of experience building or expanding a board portfolio career.`,
+`Reply YES or MAYBE if you're interested and we'll send you a reminder as the date approaches.`,
+`If this isn't relevant to you at this stage, simply reply NO and we will not send further invitations.`,
+`We look forward to seeing you there, ${o.first}.`,
+`Warm regards,`,
+o.caps?`[[C]]THE FINTECH CIRCLE TEAM[[/C]]`:`The FINTECH Circle Team`
+].filter(x=>x!==null).join("\n\n");
+
+const V6_TPL=(o)=>[
+`Hi ${o.first},`,
+`We invited you to an earlier session in this series. If you missed it, we are running it again, live, with a Q&A.`,
+o.add?`[[A]]${o.add}[[/A]]`:null,
+`Two senior leaders with the same track record. One is shortlisted for a fintech board seat and the other never hears back. The difference is rarely credentials. It is knowing how searches really run: who controls the shortlist, and how many roles are filled before they are ever advertised.`,
+`In this free live masterclass, Susanne Chishti, Chair of FINTECH Circle and NED at CAB Payments PLC, shows you the process from the inside:`,
+`- What "board-ready" means in regulated fintech, and the 6-step framework to get there`,
+`- How headhunters and nomination committees build the NED shortlist`,
+`- SMCR exposure and the due diligence to do before you accept a seat`,
+`- How to show credible AI-governance oversight without a technical background`,
+`- The route from advisor to NED to committee chair`,
+`Built for NEDs, Chairs, CFOs, CROs, COOs, fractional executives and senior leaders with 15+ years of experience. Live Q&A included.`,
+`Reply Yes or Maybe on this invite and you will be registered and sent your join link and a reminder. Reply No and we will not contact you about this session.`,
+`FINTECH Circle`
+].filter(x=>x!==null).join("\n\n");
+
+const CAMPAIGNS=[
+ {id:"P",name:"Personalised Template",title:f=>`${f}, The Insider Roadmap to UK Fintech Board Roles in 2026`,tpl:P_TPL,
+  note:"Event title is {{firstName}}, The Insider Roadmap to UK Fintech Board Roles in 2026. The calendar prompt's \"must stay exactly\" list quotes V6 wording, so it doesn't fully match this template."},
+ {id:"V6",name:"V6 - Board Seats (AI test copy)",title:()=>`Missed It? The Insider Roadmap to UK Fintech Board Seats`,tpl:V6_TPL,
+  note:"Re-invite copy for people who missed an earlier session. Tantra's template list cut the title off at \"…Fintech Board S\", so \"Seats\" is assumed."}
+];
+
+const RUNS=[
+ {n:1,c:"P",domain:"barclays.com",sector:"Bank",name:"James Carter",add:null,caps:false,tin:14744,tout:848,ms:19308},
+ {n:2,c:"P",domain:"schroders.com",sector:"Asset manager",name:"Priya Shah",add:"For senior leaders at asset and wealth managers, fintech board roles increasingly require experience navigating the intersection of regulated financial services and technology governance.",caps:false,tin:14263,tout:1153,ms:37365},
+ {n:3,c:"P",domain:"revolut.com",sector:"Fintech",name:"Daniel Novak",add:"For senior leaders at a firm offering digital banking, payments and investment services under UK regulation, the shift in board expectations around fintech governance and accountability is especially pertinent.",caps:true,tin:10666,tout:1030,ms:32507},
+ {n:4,c:"P",domain:"aviva.com",sector:"Insurer",name:"Sarah Mitchell",add:"For senior leaders at firms spanning insurance, wealth and retirement, board roles in fintech increasingly require fluency in the governance challenges that cut across digital transformation and regulatory accountability.",caps:false,tin:18546,tout:872,ms:26367},
+ {n:5,c:"P",domain:"kpmg.com",sector:"Consultancy",name:"Oliver Grant",add:"For professionals advising financial services clients on risk, regulation and governance, understanding the board landscape in regulated fintech is increasingly relevant to the conversations you are having with leadership teams.",caps:true,tin:16420,tout:1066,ms:33069},
+ {n:6,c:"V6",domain:"barclays.com",sector:"Bank",name:"James Carter",add:null,caps:false,tin:14444,tout:715,ms:15584},
+ {n:7,c:"V6",domain:"schroders.com",sector:"Asset manager",name:"Priya Shah",add:"Asset and wealth managers are increasingly working with fintech partners and evaluating governance across both traditional and digital platforms, making board expertise in regulated fintech directly relevant.",caps:false,tin:14161,tout:918,ms:30207},
+ {n:8,c:"V6",domain:"revolut.com",sector:"Fintech",name:"Daniel Novak",add:"For leaders in digital banking and payments, understanding how fintech board appointments work is becoming a key part of career planning.",caps:false,tin:10520,tout:950,ms:27678}
+];
+const key=r=>"tantra-run-"+r.n;
+
+/* ---------- shared review log (same Apps Script sheet and event format as the Content Studio) ----------
+   One append-only event per approval tick or feedback note: {id,t,post,kind:"approve"|"comment",name,role,value,text}.
+   Events also stay in this browser and are re-sent until the sheet has them. */
+const SYNC="https://script.google.com/macros/s/AKfycbyyccQiZpUclwfg22QG-sGXwNNXCdNGNaZxjxbhJV_7VcYIJh5rP0yrryAb0Xm9tTZFeg/exec";
+const NAMEKEY="fintech-circle-review-name";
+const LSget=(k,d)=>{try{return JSON.parse(localStorage.getItem(k)||d)}catch(e){return JSON.parse(d)}};
+const LSset=(k,v)=>{try{localStorage.setItem(k,typeof v==="string"?v:JSON.stringify(v))}catch(e){}};
+let EV=LSget(KEY,"[]"); if(!Array.isArray(EV)) EV=[];
+let REMOTE=new Set(LSget(KEY+"-remote","[]")), syncState="connecting", retryT=null, backoff=2000;
+const uid=()=>Date.now().toString(36)+Math.random().toString(36).slice(2,8);
+const isMine=p=>String(p).indexOf("tantra-run-")===0;
+function merge(list){const have=new Set(EV.map(e=>e.id));let n=0;(list||[]).forEach(e=>{if(e&&e.id&&isMine(e.post)&&!have.has(e.id)){EV.push(e);have.add(e.id);n++;}});EV.sort((a,b)=>String(a.t).localeCompare(String(b.t)));return n;}
+const comments=p=>EV.filter(e=>e.post===p&&e.kind==="comment");
+function appr(p,role){const l=EV.filter(e=>e.post===p&&e.kind==="approve"&&e.role===role);return l.length?l[l.length-1]:null;}
+const approved=k=>ROLES.every(r=>{const a=appr(k,r.role);return !!(a&&(a.value===true||a.value==="true"));});
+const pending=()=>EV.filter(e=>!REMOTE.has(e.id));
+const fmtT=t=>new Date(t).toLocaleString("en-GB",{day:"numeric",month:"short",hour:"2-digit",minute:"2-digit"});
+function push(e){fetch(SYNC,{method:"POST",mode:"no-cors",keepalive:true,headers:{"Content-Type":"text/plain;charset=utf-8"},body:JSON.stringify(e)}).catch(()=>{syncState="offline";syncBadge();});}
+function add(e){e.id=uid();e.t=new Date().toISOString();EV.push(e);LSset(KEY,EV);push(e);syncBadge();schedule(2500);refresh();}
+function schedule(ms){clearTimeout(retryT);retryT=setTimeout(pull,ms);}
+async function pull(){
+  try{
+    const r=await fetch(SYNC+"?t="+Date.now()); const remote=await r.json();
+    REMOTE=new Set(remote.filter(x=>isMine(x.post)).map(x=>x.id)); LSset(KEY+"-remote",[...REMOTE]);
+    const n=merge(remote); LSset(KEY,EV); syncState="live";
+    pending().forEach(push);
+    if(n){refresh();toast(n+" new review item"+(n===1?"":"s"));}
+  }catch(err){syncState="offline";}
+  syncBadge();
+  if(pending().length){schedule(backoff);backoff=Math.min(backoff*1.6,30000);}else{backoff=2000;schedule(45000);}
+}
+function syncBadge(){
+  const el=document.getElementById("sync"),k=pending().length;
+  const m=syncState==="offline"?[`Offline · ${k} waiting, retrying`,"warn"]:syncState==="connecting"?["Connecting…",""]:k?[`Saving ${k}…`,"warn"]:["✓ All saved to shared sheet","ok"];
+  el.textContent=m[0]; el.className="syncb "+m[1];
+}
+window.addEventListener("pagehide",()=>{pending().forEach(e=>{try{navigator.sendBeacon(SYNC,new Blob([JSON.stringify(e)],{type:"text/plain;charset=utf-8"}))}catch(x){}});});
+
+/* ---------- icons ---------- */
+const I={
+ sig:'<svg width="18" height="12" viewBox="0 0 18 12" fill="currentColor"><rect x="0" y="8" width="3" height="4" rx=".8"/><rect x="5" y="5.5" width="3" height="6.5" rx=".8"/><rect x="10" y="3" width="3" height="9" rx=".8"/><rect x="15" y="0" width="3" height="12" rx=".8"/></svg>',
+ wifi:'<svg width="17" height="12" viewBox="0 0 17 12" fill="currentColor"><path d="M8.5 11.6a1.7 1.7 0 1 1 0-3.4 1.7 1.7 0 0 1 0 3.4zM3.9 7.2a6.5 6.5 0 0 1 9.2 0l-1.4 1.4a4.5 4.5 0 0 0-6.4 0zM1 4.2a10.6 10.6 0 0 1 15 0l-1.4 1.4a8.6 8.6 0 0 0-12.2 0z"/></svg>',
+ bat:'<svg width="28" height="13" viewBox="0 0 28 13"><rect x=".6" y=".6" width="24" height="11.8" rx="3.4" fill="none" stroke="currentColor" stroke-opacity=".35" stroke-width="1.2"/><rect x="2.2" y="2.2" width="20.8" height="8.6" rx="2" fill="currentColor"/></svg>',
+ x:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M6 6l12 12M18 6L6 18"/></svg>',
+ pen:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M4 20h4L19 9l-4-4L4 16z"/></svg>',
+ more:'<svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="5" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="12" cy="19" r="2"/></svg>',
+ vid:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="6" width="12" height="12" rx="2"/><path d="M15 10l6-3v10l-6-3z"/></svg>',
+ ppl:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.8-3.6 3.4-5.5 6.5-5.5s5.7 1.9 6.5 5.5"/><circle cx="17" cy="9" r="2.6"/><path d="M17 14.5c2.3.2 3.9 1.8 4.5 4.5"/></svg>',
+ bell:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 17V11a6 6 0 0 1 12 0v6l2 2H4z"/><path d="M10 21h4"/></svg>',
+ txt:'<svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><path d="M4 6h16M4 11h16M4 16h10"/></svg>'
+};
+
+function descHtml(text){
+  return esc(text).replace(/\[\[A\]\]([\s\S]*?)\[\[\/A\]\]/g,'<span class="added">$1</span>').replace(/\[\[C\]\]([\s\S]*?)\[\[\/C\]\]/g,'<span class="caps" title="Changed to capitals by Claude">$1</span>');
+}
+function phone(r,c){
+  const first=r.name.split(" ")[0];
+  const desc=c.tpl({first,add:r.add,caps:r.caps});
+  return `<div class="phone-wrap"><div class="phone"><div class="screen">
+    <div class="sb"><span>9:41</span><span class="sb-icons">${I.sig}${I.wifi}${I.bat}</span></div>
+    <div class="gc-top"><span>${I.x}</span><span class="r">${I.pen}${I.more}</span></div>
+    <div class="gc-body">
+      <div class="gc-title"><span class="gc-sq"></span><div><h3>${esc(c.title(first))}</h3><div class="d">[Webinar date] · [start time – end time]</div></div></div>
+      <div class="gc-row">${I.vid}<span style="color:#1a73e8">Join link from the campaign</span></div>
+      <div class="gc-row">${I.ppl}<span>Organiser: FINTECH Circle<br><span style="color:#5f6368;font-size:13px">${esc(first.toLowerCase())}@${esc(r.domain)} · test contact</span></span></div>
+      <div class="gc-row">${I.bell}<span>30 minutes before</span></div>
+      <div class="gc-row">${I.txt}<div class="gc-desc">${descHtml(desc)}</div></div>
+    </div>
+    <div class="gc-rsvp"><span>Going?</span><span class="chip">Yes</span><span class="chip">No</span><span class="chip">Maybe</span></div>
+    <div class="home"></div>
+  </div><div class="island"></div></div></div>`;
+}
+function badges(r){
+  let b=`<span class="badge b-fmt">${esc(r.sector)}</span>`;
+  b+= r.add?`<span class="badge b-ok">Personalised</span>`:`<span class="badge b-warn">Not personalised</span>`;
+  if(r.caps) b+=`<span class="badge b-bad">Headings in caps</span>`;
+  return b;
+}
+const DRAFTS={};
+function revHtml(k){
+  const cs=comments(k), me=localStorage.getItem(NAMEKEY)||"";
+  return `<div class="appr">${ROLES.map(x=>{const a=appr(k,x.role),on=!!(a&&(a.value===true||a.value==="true"));
+      return `<label class="ck${on?" on":""}"><input type="checkbox" data-k="${k}" data-role="${x.role}"${on?" checked":""}><span>${x.label} approves${a?`<small>${esc(a.name||"")}${a.name?" · ":""}${esc(fmtT(a.t))}</small>`:""}</span></label>`;}).join("")}</div>
+    <div class="feed">${cs.length?cs.map(c=>`<div class="fbi"><span class="fav">${esc((c.name||"?").trim().slice(0,1).toUpperCase())}</span><div><div class="fbh"><b>${esc(c.name||"Reviewer")}</b><span>${esc(fmtT(c.t))}${REMOTE.has(c.id)?"":" · saving"}</span></div><div class="fbt">${esc(c.text).replace(/\n/g,"<br>")}</div></div></div>`).join(""):`<div class="fbe">No feedback yet.</div>`}</div>
+    <input data-name placeholder="Your name" value="${esc(me)}">
+    <textarea data-fb="${k}" placeholder="Feedback on this invite: wording, accuracy, tone…">${esc(DRAFTS[k]||"")}</textarea>
+    <div class="fbrow"><span class="saved">${cs.length} ${cs.length===1?"note":"notes"}</span><button class="btn" data-addfb="${k}">Add feedback</button></div>`;
+}
+function refresh(){
+  document.querySelectorAll(".rev[data-rev]").forEach(el=>{if(!el.contains(document.activeElement)||document.activeElement.type==="checkbox"||document.activeElement.tagName==="BUTTON") el.innerHTML=revHtml(el.dataset.rev);});
+  nav(); tally(); applyFilter();
+}
+function card(r){
+  const c=CAMPAIGNS.find(x=>x.id===r.c), k=key(r);
+  return `<article class="pcard" id="${k}" data-k="${k}">
+    <header class="chead">
+      <div class="crow"><span class="pid">Run ${r.n} · ${esc(r.domain)}</span><span class="when">${(r.ms/1000).toFixed(1)} s</span></div>
+      <div class="crow">${badges(r)}</div>
+      <div class="cidea">${r.add?"Claude added one sentence about the firm's sector.":"Website excerpt didn't clearly describe the firm, so Claude added nothing beyond the greeting."}${r.caps?" It also changed two headings and the sign-off to capitals.":""}</div>
+    </header>
+    ${phone(r,c)}
+    <section class="rev" data-rev="${k}">${revHtml(k)}</section>
+    <details class="info"><summary>Test details</summary><dl>
+      <dt>Template</dt><dd>${esc(c.name)}</dd>
+      <dt>Test contact</dt><dd>${esc(r.name)} (placeholder) · ${esc(r.domain)}</dd>
+      <dt>Model</dt><dd>claude-sonnet-4-5 via the FINTECH Circle Claude plan</dd>
+      <dt>Tokens</dt><dd>${r.tin.toLocaleString("en-GB")} in / ${r.tout.toLocaleString("en-GB")} out</dd>
+      <dt>Est. cost on an API key</dt><dd>Sonnet 4.5 $${(r.tin*3e-6+r.tout*15e-6).toFixed(3)} · Sonnet 5.5 $${(r.tin*2e-6+r.tout*10e-6).toFixed(3)} · Haiku 5.5 $${(r.tin*1e-7+r.tout*5e-7).toFixed(4)}</dd>
+      <dt>Time</dt><dd>${(r.ms/1000).toFixed(1)} seconds</dd>
+      <dt>Sentence added</dt><dd>${r.add?esc(r.add):"None"}</dd>
+    </dl></details>
+  </article>`;
+}
+function render(){
+  document.getElementById("rows").innerHTML=CAMPAIGNS.map(c=>`<section class="campaign">
+    <div class="campaign-head"><h2>${esc(c.name)}</h2><p>${esc(c.note)}</p></div>
+    <div class="rail">${RUNS.filter(r=>r.c===c.id).map(card).join("")}</div></section>`).join("");
+}
+function nav(){
+  document.getElementById("sidenav").innerHTML=CAMPAIGNS.map(c=>`<h4>${esc(c.name)}</h4>`+RUNS.filter(r=>r.c===c.id).map(r=>{const k=key(r);
+    return `<a href="#${k}"><span>Run ${r.n} · ${esc(r.domain)}<small>${r.add?"Personalised":"Not personalised"}${r.caps?" · caps":""}${comments(k).length?" · "+comments(k).length+" note"+(comments(k).length===1?"":"s"):""}</small></span><span class="dots">${ROLES.map(x=>{const a=appr(k,x.role);return `<i class="${a&&(a.value===true||a.value==="true")?"on":""}" title="${x.label}"></i>`}).join("")}</span></a>`}).join("")).join("");
+}
+function tally(){
+  const n=RUNS.filter(r=>approved(key(r))).length;
+  document.getElementById("tally").innerHTML=`<b>${n}</b> of ${RUNS.length} approved`;
+}
+let FILTER="all";
+function applyFilter(){
+  document.querySelectorAll(".pcard").forEach(el=>{const a=approved(el.dataset.k);
+    el.classList.toggle("hide",FILTER==="approved"?!a:FILTER==="todo"?a:false);});
+}
+function toast(m){const t=document.getElementById("toast");t.textContent=m;t.classList.add("on");clearTimeout(toast._t);toast._t=setTimeout(()=>t.classList.remove("on"),1200);}
+
+render();nav();tally();syncBadge();pull();
+
+const myName=()=>{const v=(document.activeElement&&document.activeElement.closest(".rev")?document.activeElement.closest(".rev").querySelector("[data-name]").value:"")||localStorage.getItem(NAMEKEY)||"";return v.trim();};
+document.addEventListener("change",e=>{
+  const el=e.target; if(!el.dataset.role) return;
+  const card=el.closest(".rev"), nm=(card.querySelector("[data-name]").value||"").trim()||localStorage.getItem(NAMEKEY)||"";
+  if(nm) LSset(NAMEKEY,nm);
+  const role=ROLES.find(r=>r.role===el.dataset.role);
+  add({post:el.dataset.k,kind:"approve",role:role.role,value:el.checked,name:nm||role.label});
+  toast("Saved");
+});
+document.addEventListener("input",e=>{
+  const el=e.target;
+  if(el.dataset.fb) DRAFTS[el.dataset.fb]=el.value;
+  if(el.matches&&el.matches("[data-name]")){LSset(NAMEKEY,el.value.trim());document.querySelectorAll("[data-name]").forEach(x=>{if(x!==el)x.value=el.value;});}
+});
+document.addEventListener("click",e=>{
+  const b=e.target.closest("[data-addfb]"); if(!b) return;
+  const k=b.dataset.addfb, box=b.closest(".rev"), ta=box.querySelector("[data-fb]"), text=ta.value.trim();
+  const nm=(box.querySelector("[data-name]").value||"").trim();
+  if(!nm){box.querySelector("[data-name]").focus();toast("Add your name first");return;}
+  if(!text){ta.focus();return;}
+  LSset(NAMEKEY,nm); delete DRAFTS[k]; b.blur();
+  add({post:k,kind:"comment",name:nm,text});
+  toast("Feedback added");
+});
+document.getElementById("filter").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return; FILTER=b.dataset.f;
+  [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b)); applyFilter();
+});
+document.getElementById("scale").addEventListener("click",e=>{
+  const b=e.target.closest("button"); if(!b) return;
+  document.documentElement.style.setProperty("--s",b.dataset.v);
+  [...e.currentTarget.children].forEach(x=>x.classList.toggle("on",x===b));
+  document.body.classList.remove("fit3"); document.getElementById("fit3").classList.remove("on");
+});
+document.getElementById("fit3").addEventListener("click",e=>{
+  const on=document.body.classList.toggle("fit3"); e.currentTarget.classList.toggle("on",on);
+});
+document.getElementById("hl").addEventListener("click",e=>{
+  const off=document.body.classList.toggle("nohl"); e.currentTarget.classList.toggle("on",!off);
+});
+document.getElementById("copyfb").addEventListener("click",async()=>{
+  const lines=["Tantra AI personalisation test: review feedback",""];
+  RUNS.forEach(r=>{const k=key(r),c=CAMPAIGNS.find(x=>x.id===r.c);
+    const on=role=>{const a=appr(k,role);return a&&(a.value===true||a.value==="true")?"✓":"–";};
+    lines.push(`Run ${r.n} · ${c.name} · ${r.domain}: Owner ${on("owner")} · Team ${on("team")}`);
+    comments(k).forEach(cm=>lines.push(`  ${cm.name}: ${cm.text.replace(/\n/g," ")}`));});
+  const txt=lines.join("\n");
+  try{await navigator.clipboard.writeText(txt);toast("Feedback copied");}catch(e){prompt("Copy the feedback:",txt);}
+});
+})();
+</script>
+</body>
+</html>
