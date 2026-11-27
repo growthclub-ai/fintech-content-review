@@ -139,7 +139,7 @@
     const top = `<div class="li-top">${avatar(me(), 32)}<div class="li-search">${I.search}<span>Search</span></div><span class="li-ic">${I.msg}</span></div>`;
     const tabs = `<div class="li-tabs"><div class="li-tab on">${I.home}<span>Home</span></div><div class="li-tab">${I.net}<span>My Network</span></div><div class="li-tab">${I.post}<span>Post</span></div><div class="li-tab">${I.bell}<span>Notifications</span></div><div class="li-tab">${I.jobs}<span>Jobs</span></div></div>`;
     const post = `<article class="li-post">
-      <div class="li-head">${avatar(pr, 48)}<div class="li-who"><div class="li-name">${esc(pr.name)}${isCo ? "" : ' <span class="li-deg">· 1st</span>'}</div><div class="li-sub">${esc(isCo ? pr.followers_line || pr.headline || "" : pr.headline || "")}</div><div class="li-sub">Now · ${I.globe}</div></div><span class="li-ic">${I.more}</span><span class="li-ic">${I.x}</span></div>
+      <div class="li-head">${avatar(pr, 48)}<div class="li-who"><div class="li-name">${esc(pr.name)}${isCo ? "" : ' <span class="li-deg">· 1st</span>'}</div><div class="li-sub">${esc(isCo ? pr.followers_line || pr.headline || "" : pr.headline || "")}</div>${isCo && pr.website ? '<div class="li-web">Visit website</div>' : ""}<div class="li-sub">Now · ${I.globe}</div></div><span class="li-ic">${I.more}</span><span class="li-ic">${I.x}</span></div>
       ${postText(p)}${mediaHtml(p)}
       ${statsHtml(p)}<div class="li-actions"><span>${I.like}Like</span><span>${I.comment}Comment</span><span>${I.repost}Repost</span><span>${I.send}Send</span></div>
       ${commentHtml(p, pr)}
@@ -239,7 +239,7 @@
   function revHtml(id) {
     const r = rv(id), cs = comments(id), myName = LS.getItem(NAMEKEY) || "";
     const who = (x) => (x ? `<small>${esc(x.name || "")}${x.name ? " · " : ""}${esc(fmtT(x.t))} ${mark(x)}</small>` : "");
-    return `<div class="appr">${ROLES.map((ro) => { const a = r.by[ro.role]; return `<label class="ck${a.on ? " on" : ""}"><input type="checkbox" data-appr="${esc(ro.role)}" ${a.on ? "checked" : ""}><span>${esc(ro.label)}${a.ev ? who(a.ev) : ""}</span></label>`; }).join("")}</div>
+    return `<div class="appr">${ROLES.map((ro) => { const a = r.by[ro.role]; return `<label class="ck${a.on ? " on" : ""}"><input type="checkbox" data-appr="${esc(ro.role)}" ${a.on ? "checked" : ""}><span>${esc(ro.approve || ro.label)}${a.ev ? who(a.ev) : ""}</span></label>`; }).join("")}</div>
       <div class="feed">${cs.length ? cs.map((c) => `<div class="fbi"><span class="fav">${esc((c.name || "?").trim().slice(0, 1).toUpperCase())}</span><div><div class="fbh"><b>${esc(c.name || "Reviewer")}</b><span>${esc(fmtT(c.t))} ${mark(c)}</span></div><div class="fbt">${esc(c.text).replace(/\n/g, "<br>")}</div></div></div>`).join("") : `<div class="fbe">No feedback yet.</div>`}</div>
       <div class="fbin"><input data-name placeholder="Your name" value="${esc(myName)}"><textarea data-fb placeholder="Add feedback on copy, design or timing...">${esc(drafts[id] || "")}</textarea><div class="fbrow"><span class="saved">${cs.length} ${cs.length === 1 ? "note" : "notes"}</span><button class="btn" data-addfb>Add feedback</button></div></div>`;
   }
@@ -296,7 +296,7 @@
   function tally() {
     const L = S.posts.filter(inActive), n = L.length;
     const parts = ROLES.map((ro) => `${esc(ro.label)} <b>${L.filter((p) => rv(p.key).by[ro.role].on).length}/${n}</b>`);
-    parts.push(`All <b>${L.filter((p) => rv(p.key).all).length}</b>`);
+    parts.push(`Both <b>${L.filter((p) => rv(p.key).all).length}</b>`);
     const el = document.getElementById("tally"); if (el) el.innerHTML = parts.join(" · ");
   }
 

@@ -5,11 +5,13 @@ window.STUDIO = {
  "reviewers": [
   {
    "role": "owner",
-   "label": "Susanne"
+   "label": "Susanne",
+   "approve": "Approved by Susanne"
   },
   {
    "role": "team",
-   "label": "Team"
+   "label": "Team",
+   "approve": "Approved by FINTECH Circle team"
   }
  ],
  "mentions": [],
@@ -67,8 +69,11 @@ window.STUDIO = {
    "headline": "Where fintech boards, builders and backers meet",
    "time": "09:00",
    "tz": "Europe/London",
-   "avatar_ok": false,
-   "tz_label": "UK"
+   "avatar_ok": true,
+   "tz_label": "UK",
+   "avatar": "media/avatars/company.jpg?v=20261127140000",
+   "followers_line": "25,802 followers",
+   "website": "https://fintechcircle.com"
   }
  ],
  "posts": [

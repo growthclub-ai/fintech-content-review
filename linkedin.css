@@ -65,3 +65,6 @@
 .li-body li{margin-bottom:6px}
 
 .mention{color:#0a66c2;font-weight:600}
+
+/* company page header, as LinkedIn iOS shows it (operator screenshot 2026-11-27) */
+.li-web{color:#0a66c2;font-weight:700;font-size:12px;line-height:16px}
