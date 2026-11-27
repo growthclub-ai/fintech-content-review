@@ -5,7 +5,7 @@ window.STUDIO = {
  "reviewers": [
   {
    "role": "owner",
-   "label": "Owner"
+   "label": "Susanne"
   },
   {
    "role": "team",
@@ -989,9 +989,9 @@ window.STUDIO = {
    ],
    "numbers_for_signoff": [
     "GIVEAWAY: same guide as the company page's G1 (9 Dec), hosted at https://webinar.fintechcircle.com/board-checklist/; this is Susanne's own share of it",
-    "Slot: Monday 28 December (holiday week); batch 5 had no free weekday before 29 December except 24 December. Move if the owner prefers",
+    "Slot: Monday 28 December (holiday week); batch 5 had no free weekday before 29 December except 24 December. Move if Susanne prefers",
     "Delivery default: link in the first comment, no keyword ask (R9)",
-    "Added 2026-11-27 without an idea pitch (operator asked for the giveaway on both profiles): the owner's idea approval (R13) is owed",
+    "Added 2026-11-27 without an idea pitch (operator asked for the giveaway on both profiles): Susanne's idea approval (R13) is owed",
     "No board webinar is scheduled after 10 December: CTA set to the Board Programme; switch to the webinar when the next broadcast is announced"
    ],
    "resource": {
@@ -2476,8 +2476,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2543,8 +2543,8 @@ window.STUDIO = {
    ],
    "numbers_for_signoff": [
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2610,8 +2610,8 @@ window.STUDIO = {
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "The six steps are the 20 November landing page's roadmap (CO-020 to CO-025); confirm the 10 December session keeps them",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2672,8 +2672,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2731,8 +2731,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Programme parts are own-marketing (CO-015); no prices or dates shown (CO-027)",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2798,12 +2798,12 @@ window.STUDIO = {
    ],
    "numbers_for_signoff": [
     "GIVEAWAY v2 (2026-11-27): hosted at https://webinar.fintechcircle.com/board-checklist/ on the landing-page Worker; a self-contained HTML copy is the studio download",
-    "Guide 'Ask', 'In the board pack' and 'Red flags' lines are FINTECH Circle editorial prompts built on Module 3's checks: owner to approve",
-    "Delivery default: link in the first comment, no keyword ask (R9). A comment-to-get version needs the owner to lift R9 for this post",
-    "Gives Module 3 checklists away free: owner to approve releasing curriculum content",
+    "Guide 'Ask', 'In the board pack' and 'Red flags' lines are FINTECH Circle editorial prompts built on Module 3's checks: Susanne to approve",
+    "Delivery default: link in the first comment, no keyword ask (R9). A comment-to-get version needs Susanne to lift R9 for this post",
+    "Gives Module 3 checklists away free: Susanne to approve releasing curriculum content",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ],
    "resource": {
     "name": "The Fintech Board Checklist",
@@ -2866,8 +2866,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Pay row: advisor and NED from BL-701; CXO and chair pay are not in the module and are marked so on the image",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2919,8 +2919,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -2973,8 +2973,8 @@ window.STUDIO = {
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "Says 'today': runs only on 10 December, before 12:00 London",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   },
   {
@@ -3031,8 +3031,8 @@ window.STUDIO = {
    "numbers_for_signoff": [
     "Webinar CTA: the 10 December broadcast (7141685) is verified, but its title and landing page are not: the post names only date and time; confirm the landing page shows 10 December before scheduling",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
-    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (owner rule 2026-11-25)",
-    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); the owner's own idea approval (R13) is still owed"
+    "Team comments not written: the operator has not supplied the FINTECH team's names and roles (Susanne's rule, 2026-11-25)",
+    "Built on the recommended pick after the operator said 'Just proceed' (2026-11-25); Susanne's own idea approval (R13) is still owed"
    ]
   }
  ]

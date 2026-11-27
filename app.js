@@ -8,7 +8,7 @@
   const LI_I = () => window.LI.I;
   const HASH = location.hash; /* read before anything rewrites it: a #r=... hash carries a shared review */
   const SLUG = (S.slug || "content").replace(/[^a-z0-9-]/gi, "");
-  const ROLES = (S.reviewers && S.reviewers.length ? S.reviewers : [{ role: "owner", label: "Owner" }, { role: "team", label: "Team" }]);
+  const ROLES = (S.reviewers && S.reviewers.length ? S.reviewers : [{ role: "owner", label: "Susanne" }, { role: "team", label: "Team" }]);
   document.title = S.title || "Content review";
 
   /* ---------- review state: an append-only event log {id,t,post,kind,name,role,value,text} ---------- */
