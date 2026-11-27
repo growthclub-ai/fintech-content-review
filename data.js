@@ -939,6 +939,75 @@ window.STUDIO = {
    ]
   },
   {
+   "key": "b5-G1",
+   "id": "G1",
+   "batch": "5",
+   "profile": "susanne",
+   "platform": "linkedin",
+   "date": "2026-12-28",
+   "time": "08:30",
+   "status": "ready",
+   "idea": "Resource giveaway: The Fintech Board Checklist, in Susanne's voice",
+   "format": "Image",
+   "cta": "board-programme",
+   "text": "The board checklists I teach in Module 3 of our Board Programme are now one free guide: 36 checks, 8 sub-sectors ↓\n\nA paytech board needs different questions from a lending board. So do wealthtech, regtech, insurtech, embedded finance, digital assets and capital markets.\n\nFor every check, the guide gives you:\n→ the questions to ask management\n→ the evidence to request in the board pack\n→ the red flags to watch for\n\nIt starts with the question I always ask first: where does the company sit in the regulated value chain? Then who owns it, the four board roles and what each makes you answer for, and the metrics that show the quality of the revenue, not just its growth.\n\nIt ends with a worksheet for your first board meeting and a scorecard that shows where the gaps are.\n\nFree, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #NonExecutiveDirector",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=giveaway-image-b5G1\n\nThe FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=giveaway-image-b5G1",
+   "media": {
+    "type": "image",
+    "files": [
+     "media/batch-5/G1/image.jpg?v=20261127120000"
+    ],
+    "title": "Resource giveaway: The Fintech Board Checklist, in Susanne's voice",
+    "tall": false,
+    "download": {
+     "ext": "png",
+     "pages": 1,
+     "href": "media/batch-5/G1/fintech-circle-b5-G1-2026-12-28-susanne.png?v=20261127120000",
+     "name": "fintech-circle-b5-G1-2026-12-28-susanne.png",
+     "bytes": 275704,
+     "w": 1080,
+     "h": 1350
+    }
+   },
+   "sample": {
+    "id": "ID14",
+    "creator": "Ipsita Dhar",
+    "what": "Free-guide list infographic: pill, big-number headline with one accented phrase, tracked tagline, two equal list panels holding all 36 checks with aligned numbering, outlined CTA bar; warm board-pack paper, ink, one burnt-sienna accent"
+   },
+   "copy_basis": "Built 2026-11-25 on taxonomy sample ID14 (Tantra workflow). Hook on the sample's own hook pattern; every claim from facts.md or a proposed row in facts-additions-b5.md.",
+   "sources": [
+    "CO-802 · The Fintech Board Checklist (FINTECH Circle free guide, v2 2026-11-27, https://webinar.fintechcircle.com/board-checklist/): 15 pages; 8 sub-sectors; 36 board checks (Module 3's sub-sector items, with insurtech and digital-assets resilience items merged), each with questions to ask and board-pack evidence; red flags per sub-sector; 4 board roles; a 10-question first-meeting worksheet and a red/amber/green scorecard",
+    "WS-011 · Board checklists by sub-sector. Paytech: fraud and financial controls; operational resilience and incident response; regulatory perimeter and partner dependencies; revenue concentration and platform risk. Lending: underwriting discipline; risk appetite; portfolio monitoring and early warning signs; funding model and liquidity; stress testing across cycles. Embedded finance: accountability in multi-party ecosystems; the customer understands the journey; hand-offs between legal entities; data sharing and consent; resilience across dependencies. Digital assets: regulatory perimeter and jurisdiction (e.g. MiCA); custody and safeguarding of client assets; market integrity and partners; operational resilience; conduct risk",
+    "WS-027 · Sub-sector board checklists. Wealthtech: conduct risk and suitability; market cycle sensitivity; clear customer communication and disclosures; governance of product design (UK Consumer Duty). Regtech: deep risk and compliance expertise; model risk and explainability; data governance and privacy; liability across the value chain. Insurtech: underwriting governance; claims experience and customer outcomes; reputation risk; partner dependencies; fraud risk. Capital markets: long sales cycles; client concentration; resilience; implementation risk at go-live. Digital assets: regulatory perimeter and jurisdiction (MiCA); custody and safeguarding of client assets; market integrity; operational resilience",
+    "WS-010 · Four positions in the regulated value chain: front-end apps and distribution; product manufacturer (credit, loans, insurance, investment products); infrastructure enablement (processing, APIs, compliance tooling); data and identity layer (customer verification, transaction monitoring)",
+    "WS-012 · Metrics. Consumer fintech: CAC and payback period; lifetime value and retention; active use and churn timing; revenue diversification. B2B fintech: ARR; net revenue retention; contract length; renewal rates; top-client concentration; success of implementations and pilots. Why B2B is attractive: recurring revenue, large contracts, higher switching costs, lower CAC relative to lifetime value, forward revenue visibility. Revenue quality: margins, churn, dependence on unsustainable incentives",
+    "WS-003 · Four roles: fractional CXO (part-time executive, responsible for delivery, executive authority); board advisor (non-executive, not a director, no direct management oversight, no formal fiduciary duty, influence only, can be paid a fee plus equity or options); NED (a director listed at Companies House, as liable as an executive director, answerable to FCA and PRA in regulated firms, formal oversight); chair (leads the board, responsible for its effectiveness)"
+   ],
+   "flags": [
+    "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles.",
+    "Rendered 2026-11-27 in Chrome from the build's own HTML (layout checked: nothing cut off, nothing under 26 px); not through render.py"
+   ],
+   "numbers_for_signoff": [
+    "GIVEAWAY: same guide as the company page's G1 (9 Dec), hosted at https://webinar.fintechcircle.com/board-checklist/; this is Susanne's own share of it",
+    "Slot: Monday 28 December (holiday week); batch 5 had no free weekday before 29 December except 24 December. Move if the owner prefers",
+    "Delivery default: link in the first comment, no keyword ask (R9)",
+    "Added 2026-11-27 without an idea pitch (operator asked for the giveaway on both profiles): the owner's idea approval (R13) is owed",
+    "No board webinar is scheduled after 10 December: CTA set to the Board Programme; switch to the webinar when the next broadcast is announced"
+   ],
+   "resource": {
+    "name": "The Fintech Board Checklist",
+    "pages": 15,
+    "url": "https://webinar.fintechcircle.com/board-checklist/",
+    "preview": "resources/board-checklist/index.html?v=20261127113000",
+    "files": [
+     {
+      "label": "HTML file",
+      "href": "resources/board-checklist/The%20Fintech%20Board%20Checklist.html?v=20261127113000"
+     }
+    ]
+   }
+  },
+  {
    "key": "b5-S1",
    "id": "S1",
    "batch": "5",
@@ -2678,8 +2747,8 @@ window.STUDIO = {
    "idea": "Resource giveaway: The Fintech Board Checklist (8 sub-sectors)",
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
-   "text": "8 fintech sub-sectors. 8 board checklists.\nWhat a director watches in each, in one free guide ↓\n\nA director joining a paytech board needs different questions from one joining a lender or a wealthtech. So we put the sub-sector checklists we teach in Module 3 of the Board Programme into one guide:\n\n• Paytech: fraud and financial controls, operational resilience, partner dependencies, platform risk\n• Lending: underwriting discipline, risk appetite, funding model and liquidity, stress testing\n• Embedded finance: accountability across multi-party ecosystems, consent, hand-offs between entities\n• Digital assets: regulatory perimeter (e.g. MiCA), custody and safeguarding, market integrity\n• Wealthtech: conduct risk and suitability, disclosures, product governance under UK Consumer Duty\n• Regtech: model risk and explainability, data governance, liability across the value chain\n• Insurtech: underwriting governance, claims outcomes, fraud risk\n• Capital markets: long sales cycles, client concentration, implementation risk at go-live\n\nThe guide is free, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #CorporateGovernance",
-   "first_comment": "The Fintech Board Checklist, free:\nhttps://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
+   "text": "8 fintech sub-sectors. 8 board checklists.\nWhat a director watches in each, in one free guide ↓\n\nA director joining a paytech board needs different questions from one joining a lender or a wealthtech. So we put the sub-sector checklists we teach in Module 3 of the Board Programme into one guide:\n\n• Paytech: fraud and financial controls, operational resilience, partner dependencies, platform risk\n• Lending: underwriting discipline, risk appetite, funding model and liquidity, stress testing\n• Embedded finance: accountability across multi-party ecosystems, consent, hand-offs between entities\n• Digital assets: regulatory perimeter (e.g. MiCA), custody and safeguarding, market integrity\n• Wealthtech: conduct risk and suitability, disclosures, product governance under UK Consumer Duty\n• Regtech: model risk and explainability, data governance, liability across the value chain\n• Insurtech: underwriting governance, claims outcomes, fraud risk\n• Capital markets: long sales cycles, client concentration, implementation risk at go-live\n\nFor every check: the questions to ask, the evidence to request in the board pack, and the red flags. Plus who owns the company, the metrics that matter, a first-meeting worksheet and a scorecard.\n\nThe guide is free, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #CorporateGovernance",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
    "media": {
     "type": "video",
     "files": [
@@ -2728,7 +2797,8 @@ window.STUDIO = {
     "Team comments with Susanne's replies (Tantra RULES 0c) are still to be written: waiting for the FINTECH team's names and roles."
    ],
    "numbers_for_signoff": [
-    "GIVEAWAY: the guide is hosted with the studio on GitHub Pages at https://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/ (operator, 2026-11-26); a self-contained HTML copy is the studio download",
+    "GIVEAWAY v2 (2026-11-27): hosted at https://webinar.fintechcircle.com/board-checklist/ on the landing-page Worker; a self-contained HTML copy is the studio download",
+    "Guide 'Ask', 'In the board pack' and 'Red flags' lines are FINTECH Circle editorial prompts built on Module 3's checks: owner to approve",
     "Delivery default: link in the first comment, no keyword ask (R9). A comment-to-get version needs the owner to lift R9 for this post",
     "Gives Module 3 checklists away free: owner to approve releasing curriculum content",
     "Logo is the live site header file (tokens.json), inverted to white on dark grounds; confirm a white version exists (R7)",
@@ -2737,13 +2807,13 @@ window.STUDIO = {
    ],
    "resource": {
     "name": "The Fintech Board Checklist",
-    "pages": 10,
-    "url": "https://growthclub-ai.github.io/fintech-content-review/resources/board-checklist/",
-    "preview": "resources/board-checklist/index.html?v=20261126001534",
+    "pages": 15,
+    "url": "https://webinar.fintechcircle.com/board-checklist/",
+    "preview": "resources/board-checklist/index.html?v=20261127113000",
     "files": [
      {
       "label": "HTML file",
-      "href": "resources/board-checklist/The%20Fintech%20Board%20Checklist.html?v=20261126001534"
+      "href": "resources/board-checklist/The%20Fintech%20Board%20Checklist.html?v=20261127113000"
      }
     ]
    }

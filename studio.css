@@ -201,3 +201,7 @@ details.info .vcopy{margin:4px 0 0;padding-left:18px}details.info .vcopy li{marg
 .li-stats{background:#fff;padding:8px 12px 6px}
 
 .brand-links{font-size:12.5px;margin-top:2px}.brand-links a{color:#6F46B7;font-weight:600;text-decoration:none}
+
+/* FINTECH Circle branding (operator, 2026-11-27) */
+.brand-logo{display:block;height:46px;width:auto;flex:0 0 auto;padding-right:14px;margin-right:2px;border-right:1px solid #E3E6E8}
+@media (max-width:600px){.brand-logo{height:36px}}
