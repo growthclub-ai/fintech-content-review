@@ -85,7 +85,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "Agentic AI is step 3, not step 1.\n\nA useful board question: which step is the firm really on? All 4 steps ↓\n\nThe AI module of our Board Programme uses a simple hierarchy for generative AI:\n\n1. AI tools and training. Enterprise tools for everyday work, such as summarising meetings or board papers and reviewing contracts. Usage increases with training.\n2. Simple process improvement. Map the key processes, look for pinch points and manual hand-offs, and let teams name their own pain points.\n3. Agentic AI. A model that pursues a goal over multiple steps.\n4. Re-engineer the organisation.\n\nWatch the four steps build.\n\nAI is one of the six areas of the next board webinar. Link in the first comment.\n\n#AIGovernance #BoardGovernance #Fintech",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=ai-governance-video-b4A1",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4a1",
    "media": {
     "type": "video",
     "files": [
@@ -148,7 +148,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "About £70,000 + £5,000 + £15,000.\n\nHere is one listed NED fee, from a board I sat on ↓\n\nIt was a FTSE 250 company, which is now a fintech unicorn.\n\n• Base NED fee: about £70,000\n• Committee membership: about £5,000\n• Chairing a committee: about £15,000 extra\n\nSo when someone asks whether a committee role should carry an extra fee, my answer is: 100 percent.\n\nA private fintech board works differently. Pay is negotiable, and the non-cash part of your compensation can be worth more than the cash. Always get tax advice.\n\nEvery board is different, so treat this as one example, not a benchmark.\n\nThe next board webinar covers board pay. Link in the first comment.\n\n#NonExecutiveDirector #PortfolioCareer #BoardGovernance",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=portfolio-career-video-b4A3",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4a3",
    "media": {
     "type": "video",
     "files": [
@@ -213,7 +213,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "5 stages. 1 funnel.\n\nThe numbers a board should be able to read ↓\n\n1. The right leads\n2. Awareness\n3. Selection\n4. Onboarding\n5. Grow existing customers and add new ones\n\nIn the Board Programme I teach unit economics as a governance tool, read as a funnel.\n\nA board does not run the funnel. It watches the high-level numbers at each stage, not the day-to-day.\n\nWatch the board pack fill in.\n\nReading the numbers is part of the next board webinar. Link in the first comment.\n\n#Fintech #UnitEconomics #BoardGovernance",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=fintech-sector-video-b4A5",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4a5",
    "media": {
     "type": "video",
     "files": [
@@ -276,7 +276,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "webinar",
    "text": "I sat on a listed board that was sold for £700 million…\n\nThis is what I saw first hand:\n\nI served on the board of SafeCharge, which was at that time an AIM-listed company. We sold it for £700 million.\n\nI could see first hand the role of three things:\n\n• Strong governance\n• Shareholder alignment\n• Executive oversight\n\nStrong governance is nose in, fingers out. Executives deliver the business plan. The board ensures integrity and long-term oversight.\n\nOn shareholder alignment, the chair's job includes leading the board in setting strategy, keeping relationships with stakeholders healthy, and implementing the investment strategy and the exit.\n\nExecutive oversight means the board has clear visibility of results, and judges the executive team on operational and financial performance.\n\nIf you are preparing for your first board seat, these are the three to understand first.\n\nSwipe through for the story.\n\nThe next board webinar covers how boards work in practice. Link in the first comment.\n\n#BoardGovernance #CorporateGovernance #NonExecutiveDirector",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=board-governance-carousel-b4C1",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4c1",
    "media": {
     "type": "carousel",
     "files": [
@@ -335,7 +335,7 @@ window.STUDIO = {
    "format": "Carousel, 8 pages",
    "cta": "webinar",
    "text": "6 duties sit with the Chair. 3 sit with the CEO.\n\nOne runs the board. The other runs the company. Here's who carries what ↓\n\nThe Chair:\n• Leads the board in setting strategy\n• Makes sure the board has clear visibility of results\n• Keeps relationships with stakeholders healthy\n• Implements the investment strategy and the exit\n• Judges the executive team on operational and financial performance\n• Is responsible for management change\n\nThe CEO:\n• Leads the executive in developing and delivering the business plan\n• Maintains operational and financial integrity\n• Works with the Chair to build a healthy relationship between the board and the executive\n\nOne line from the Board Programme sums it up: the chair runs the board, which allows the chief executive to run the company.\n\nSee each duty side by side in the carousel.\n\nThe roles around the board table are part of the next board webinar. Link in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #Leadership",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=board-governance-carousel-b4C2",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4c2",
    "media": {
     "type": "carousel",
     "files": [
@@ -389,7 +389,7 @@ window.STUDIO = {
    "format": "Carousel, 8 pages",
    "cta": "webinar",
    "text": "5 fintech sub-sectors. 5 different board checklists.\n\nThings every new NED should know about their sector before day one ↓\n\nA board seat at a wealthtech is not the same job as one at an insurtech. I teach a different checklist for each sub-sector.\n\n• Wealthtech: conduct risk and suitability, market cycle sensitivity, clear customer communication and disclosures, and product governance under the UK Consumer Duty.\n• Regtech: deep risk and compliance expertise, model risk and explainability, data governance and privacy, liability across the value chain.\n• Insurtech: underwriting governance, claims experience and customer outcomes, partner dependencies, fraud and reputation risk.\n• Capital markets: long sales cycles, client concentration, resilience, implementation risk at go-live.\n• Digital assets: the regulatory perimeter and jurisdiction (MiCA in the EU), custody and safeguarding of client assets, market integrity, operational resilience.\n\nKnow which list applies before you accept the seat.\n\nOne checklist per page in the carousel.\n\nSector knowledge is one of the six areas of the next board webinar. Link in the first comment.\n\n#Fintech #RiskManagement #NonExecutiveDirector",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=fintech-sector-carousel-b4C4",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4c4",
    "media": {
     "type": "carousel",
     "files": [
@@ -443,7 +443,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "webinar",
    "text": "Fintech is not one market.\n\nIt is four boxes and a layer underneath.\n\nWhen I teach the fintech landscape, I start with a simple grid: consumer or business, balance sheet or capital light.\n\n• Consumer, balance sheet: consumer lending and deposit taking. Neobanks, buy now pay later, digital mortgages, crypto custody.\n• Consumer, capital light: data aggregation, advice and comparison. Robo advisers, budgeting tools, digital wealth.\n• Business, balance sheet: SME and business lending, trade finance. Invoice financing, revenue-based financing, embedded lending.\n• Business, capital light: SaaS tools and B2B payments. Expense management, payroll, treasury, regtech.\n• Underneath, the infrastructure: payment rails, banking as a service, APIs, KYC and onboarding, core banking SaaS.\n\nEvery box has been targeted by fintechs.\n\nBefore you pitch yourself to a fintech board, know which box it sits in. In my view, a lender and a software company bring different questions to the board table.\n\nWe map the sector in the next board webinar. Link in the first comment.\n\n#Fintech #FinancialServices #BoardCareers",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=fintech-sector-image-b4S1",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4s1",
    "media": {
     "type": "image",
     "files": [
@@ -490,7 +490,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "5 things to know about board committees before your first board pack.\n\nCommittees add scrutiny. Here's how they work, on one page ↓\n\n1. Why committees exist\n• Better decisions\n• Increased assurance and reduced risk\n• A more productive board and executive\n\n2. How they work\n• They focus on work the board delegates to them\n• They add scrutiny\n• They make recommendations, and some delegated decisions\n\n3. The usual committees\n• Audit and risk, combined or separate\n• Remuneration\n• Nomination\n• Sometimes a special advisory group for technology or strategic decisions\n\n4. The senior independent director\nI describe the role as \"almost the vice chair\".\n\n5. Who sits at the table\n• An investor director has the same formal role and responsibilities as an independent director\n• Board meetings are board meetings, not investor updates\n• Observers observe, and must avoid becoming shadow directors\n\nCommittees are part of Module 1 of the FINTECH Circle Board Programme. Link in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #CorporateGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=board-governance-image-b4S2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b4s2",
    "media": {
     "type": "image",
     "files": [
@@ -539,7 +539,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "webinar",
    "text": "Less than 10% of all job specs are actually published.\n\nThat's what I tell aspiring board members. Most roles come through recommendations from people you know.\n\nSo the question is not where board roles are advertised. It is who knows you are looking.\n\nThat is why I tell aspiring board members to:\n• Be visible to headhunters, to chairs, to NEDs and to fintech founders\n• Be known to search partners, so you are on their long lists when they build them\n• Build relationships slowly and authentically\n\nAll of these things are not transactional. They are about relationships, and about trust.\n\nHow to get visible is part of the next board webinar. Link in the first comment.\n\n#BoardCareers #NonExecutiveDirector #Networking",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=portfolio-career-image-b4S5",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4s5",
    "media": {
     "type": "image",
     "files": [
@@ -591,7 +591,7 @@ window.STUDIO = {
    "format": "Text post",
    "cta": "webinar",
    "text": "A firm's 10-year track record is not a moat any more.\n\nAI-native competitors can be faster, better and cheaper.\n\nHere's why AI is a board issue, not an IT issue:\n\nAI changes the business model. A firm with 10 years of history can now find itself competing with a company built around AI from day one.\n\nAI also needs governance. No shadow AI, clear rules and an ethical approach.\n\nSo what should a board do?\n• Start from the business strategy, not an AI strategy. Ask how AI can help deliver the strategy you already have.\n• Expect AI to work best, often, as hundreds of small, iterative steps, not one big overhaul.\n• Automate before you reach for AI.\n• Make sure there are rules, so nobody is using AI in the shadows.\n\nAnd on the board itself, you won't have one AI expert any more. A level of understanding of AI is expected from all board members.\n\nThe board's job on AI is covered in the next board webinar. Link in the first comment.\n\n#AIGovernance #BoardGovernance #Fintech",
-   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b4&utm_content=ai-governance-text-b4S6",
+   "first_comment": "Register for the next board webinar:\nhttps://webinar.fintechcircle.com/go/b4s6",
    "media": {
     "type": "text",
     "ready": true
@@ -627,7 +627,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "6 questions. Answered before a board approves AI, not after.\n\nA framework for boards, published in the ABA Banking Journal on 13 October 2026, treats AI governance as a set of operational decisions made before anything is deployed ↓\n\n1. In what functional areas and workflows will AI be used?\n2. How are the boundaries for prohibited applications and systems defined?\n3. What are the human-in-the-loop requirements?\n4. How will risk be identified, documented, measured, monitored and mitigated?\n5. What controls govern data, vendors and model inputs?\n6. Who is accountable for AI decisions and outcomes?\n\nTwo details are worth a director's attention:\n• \"Human in the loop\" can mean different things to different people, so human review and escalation are specified at the level of each workflow.\n• Accountability is split. Technology maintains the infrastructure, risk and compliance define the controls, and business leaders own whether AI produces the intended outcomes.\n\nThe author, a technology executive at a software vendor to banks, says the list is not exhaustive. Treat it as a starting agenda, not a box to tick.\n\nMy own framing: boards ask \"how do we use AI?\" when they should ask \"how do we govern the intelligence we are deploying?\"\n\nHis closing line is the reason to do the work: \"Boards that trust the governance structure will approve the next use case.\"\n\nThe Board Programme covers AI governance for directors. Link in the first comment.\n\n#AIGovernance #BoardGovernance #RiskManagement",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=ai-governance-video-b5A1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5a1",
    "media": {
     "type": "video",
     "files": [
@@ -700,7 +700,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "AI governance is not one document. It is 3 layers.\n\nOnly the top one is the board's to approve ↓\n\nThe AI module of our Board Programme sets out a three-part structure:\n1. AI usage policy. Board approved. It defines the guidelines and principles for the responsible use of AI.\n2. AI steering committee. At executive management level. It oversees implementation, manages and approves use cases, and reports regularly to the board.\n3. AI use case register. A centralised inventory of every AI use case, its status and its potential impact.\n\nThe board's part is noses in: set intent, approve guard rails, demand visibility.\nAnd fingers out: boards do not select models, approve individual use cases or review prompts.\n\nVisibility has a shape too: quarterly reporting from the AI steering committee, clear metrics, and an annual report from internal audit.\n\nAs I said in our board webinar: \"you won't anymore have one AI expert on the board, but it's expected from all of our board members to be having a certain level of understanding on AI.\"\n\nThe Board Programme link is in the first comment.\n\n#AIGovernance #BoardGovernance #Fintech",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=ai-governance-video-b5A2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5a2",
    "media": {
     "type": "video",
     "files": [
@@ -764,7 +764,7 @@ window.STUDIO = {
    "format": "Carousel, 10 pages",
    "cta": "board-programme",
    "text": "Same person. Same experience. Two different jobs.\n\nExecutive mindset vs board mindset, side by side ↓\n\nAs an executive, you develop and deliver the business plan and maintain financial and operational integrity.\n\nAs a board member, in my words: \"We don't do the work anymore. We've got executives who deliver the business plan, and we as board members ensure integrity and long-term oversight.\"\n\nThree pairs from our Board Programme:\n• Deliver vs ensure. The executive team delivers the plan; the board ensures integrity and long-term oversight.\n• Run the company vs judge it. The chief executive leads the executive in delivering the plan; the chair judges the executive team on operational and financial performance.\n• Approve AI use cases vs set the intent. An executive AI steering committee manages and approves use cases; the board sets intent, approves guard rails and demands visibility.\n\nAnd one line for anyone moving into a NED role: you might work on the business three days a month, but you are equally liable and responsible as a non-executive director.\n\nKnowing the difference between an executive and a non-executive career matters. It is not a binary decision.\n\nThe Board Programme link is in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #Leadership",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-carousel-b5C1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5c1",
    "media": {
     "type": "carousel",
     "files": [
@@ -827,7 +827,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "The biggest risk to a fintech is not just running out of money.\n\nIt is running out of adult supervision ↓\n\nAfter years of helping fintechs raise capital, I concluded that capital alone was not enough for long-term survival.\n\nWhat I teach future fintech directors to watch for, in my own words from our Board Programme:\n• \"In the past it was really growth at all costs.\"\n• Rapid growth can hide latent losses if credit scoring technologies have not been implemented well.\n• It is not enough just to grow revenue. The quality of the revenue is key.\n• Ask whether a valuation is driven by fundamentals and real value, or by narrative. We have seen a repricing of companies that just had a good story but not enough fundamentals.\n\nFintech scale-ups have to act like grown-ups sooner, and that is where governance comes in, without killing innovation.\n\nI believe having a board is a clear competitive advantage for a private fintech and makes its success much more likely. It is why I moved from investing in fintechs to educating the people who govern them.\n\nThe Board Programme link is in the first comment.\n\n#Fintech #BoardGovernance #CorporateGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-carousel-b5C2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5c2",
    "media": {
     "type": "carousel",
     "files": [
@@ -890,7 +890,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "Before you say yes to a board seat, open 5 files.\n\nThe due diligence I teach before anyone joins a board ↓\n\nIn the UK, you might have SMCR exposure. Fiduciary and reputational risk come with the seat. So before you join, do due diligence on:\n1. The other board members\n2. The founders\n3. The financials\n4. The products and services\n5. The reputation\n\nThree prompts that make the files easier to read:\n• On a private, VC-backed board, founder influence is stronger and governance maturity varies with the stage and the investor mix.\n• On the financials, look at the quality of the revenue: margins, churn and dependence on unsustainable incentives.\n• On the products, the key question for board members is always: where does it sit in the regulated value chain?\n\nThen hold strong D&O insurance. It belongs in the UK accountability picture for NEDs, chairs and advisers.\n\nIn my words from our board webinar: \"the best thing, before you join a board, is to do proper due diligence on who the other board members are.\"\n\nThe Board Programme link is in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #RiskManagement",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-carousel-b5C3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5c3",
    "media": {
     "type": "carousel",
     "files": [
@@ -951,7 +951,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "The board checklists I teach in Module 3 of our Board Programme are now one free guide: 36 checks, 8 sub-sectors ↓\n\nA paytech board needs different questions from a lending board. So do wealthtech, regtech, insurtech, embedded finance, digital assets and capital markets.\n\nFor every check, the guide gives you:\n→ the questions to ask management\n→ the evidence to request in the board pack\n→ the red flags to watch for\n\nIt starts with the question I always ask first: where does the company sit in the regulated value chain? Then who owns it, the four board roles and what each makes you answer for, and the metrics that show the quality of the revenue, not just its growth.\n\nIt ends with a worksheet for your first board meeting and a scorecard that shows where the gaps are.\n\nFree, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #NonExecutiveDirector",
-   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=giveaway-image-b5G1\n\nThe FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=giveaway-image-b5G1",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/go/b5g1\n\nThe FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5g1-2",
    "media": {
     "type": "image",
     "files": [
@@ -1020,7 +1020,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "An independent director's job is part cuddle, part kick.\n\nAnd here are the 6 jobs behind it ↓\n\nThe role card in our Board Programme lists them like this:\n1. Gain respect, from everyone.\n2. Support the chair in achieving the shareholder value agenda.\n3. Help management achieve their plans.\n4. Cuddle and kick.\n5. Ensure appropriate corporate governance.\n6. Investor relations.\n\n\"Cuddle and kick\" is the shortest summary of the role: support and challenge, from the same seat.\n\nIt also explains why an investor director is not a different kind of board member. An investor director is a board member who happens to be an investor, with the same formal role and responsibilities as an independent director.\n\nAs I said in our board webinar, about choosing between advisory, fractional and board roles: each of those roles has got clear boundaries and expectations.\n\nThe Board Programme link is in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #CorporateGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-image-b5S1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5s1",
    "media": {
     "type": "image",
     "files": [
@@ -1071,7 +1071,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Machine learning and generative AI do not carry the same risk.\n\nSide by side, the way we teach it to board members ↓\n\nMachine learning:\n• Based on statistics, usually trained on your own data\n• Predicts, scores, classifies\n• Deterministic\n• Risks are bounded, narrow in scope and testable: data quality, model drift, third-party risk\n• Regulators are familiar and comfortable\n\nGenerative AI:\n• Based on large language models, pre-trained on public data\n• Generates text, code and summaries\n• Probabilistic: the same prompt will not produce identical output\n• Risks are harder to bound and fully predict: hallucination, bias, black box, inconsistency. You cannot test every scenario, and there are new attack surfaces for cyber\n• Regulators are not yet comfortable\n\nIn fintech, machine learning already sits behind credit scoring, transaction monitoring and KYC checks. Generative AI use cases are usually about language and synthesis, rather than automated decision making.\n\nSo the first question a NED asks is: where are we using AI, and is it machine learning, generative AI or agentic AI?\n\nAs I said in our board webinar, you need to be an expert in finance to be on a fintech board, and you need to keep improving your technology know-how to really add value.\n\nThe Board Programme link is in the first comment.\n\n#AIGovernance #BoardGovernance #Fintech",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=ai-governance-image-b5S2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5s2",
    "media": {
     "type": "image",
     "files": [
@@ -1123,7 +1123,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "The UK has no standalone AI regulation for financial services.\n\nThat does not mean there are no rules ↓\n\nIn the AI module of our Board Programme, the UK approach is described as pro-innovation and principles based. AI is a way of doing regulated business within existing rules: cautious, but not anti-innovation.\n\nWhat sits below the waterline.\n\nThe PRA looks at prudential risk:\n• Systemic model risk, with many organisations using the same models\n• AI is covered by operational resilience, outsourcing and third-party risk rules\n• AI needs to be embedded in the enterprise risk management framework, not put in a separate AI box\n\nThe FCA looks at customer outcomes:\n• AI must be used in a fair, transparent way and in customers' interest\n• Bias, discrimination and vulnerable customers are a concern\n\nAnd the line for every board: responsibility and accountability rest with humans.\n\nAs I say in my Module 3 lecture on the fintech NED landscape: even if you work for a technology company which is not regulated, the value chain in which you're operating will probably be regulated.\n\nThe Board Programme link is in the first comment.\n\n#AIGovernance #FinancialRegulation #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=ai-governance-image-b5S3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5s3",
    "media": {
     "type": "image",
     "files": [
@@ -1174,7 +1174,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Information, discussion or decision.\n\nA board agenda should be clear which one each item is for ↓\n\nOur Board Programme's module on becoming a board member calls this the agenda challenge. It starts with three questions:\n1. What are the 3 most important things to get right in the coming year?\n2. How, and when, should we decide upon them?\n3. Is there clarity over what is for information, what is for discussion and what is for decision?\n\nThe agenda sits inside a wider board process: agendas and decision making, board papers, board meetings and minutes, committees, board review and communications.\n\nMy shorthand for the board's role: \"nose in, fingers out.\"\n\nThe Board Programme link is in the first comment.\n\n#BoardGovernance #CorporateGovernance #NonExecutiveDirector",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-image-b5S4",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5s4",
    "media": {
     "type": "image",
     "files": [
@@ -1224,7 +1224,7 @@ window.STUDIO = {
    "format": "Text post",
    "cta": "board-programme",
    "text": "On a private, VC-backed fintech board, you might be the first experienced governance voice in the room.\n\nThat is a different job from a listed board ↓\n\nA public board has detailed disclosure, more independent members and committees, and disciplined communication to the market.\n\nA private, VC-backed board often looks different. What I teach about these boards:\n• Founder influence is stronger.\n• Governance maturity varies with the stage and the investor mix.\n• There are few independent NEDs.\n\nAs I put it in my lecture on the fintech NED landscape: \"it's a very different look and feel, and very different experience.\"\n\nIn my words, the job is \"building the governance muscle from a lower baseline.\"\n\nWhere the governance voice helps most:\n• Helping the founder position the company and prepare for fundraising conversations.\n• Taking pressure off founders who are stretched between sales and fundraising.\n• Helping a scale-up act like a grown-up sooner, without killing innovation.\n\n\"You might be one of the first more experienced governance voices leading the founder, the CEO, in the right direction.\"\n\nThat is a seat worth preparing for. No one builds alone.\n\nThe Board Programme link is in the first comment.\n\n#BoardGovernance #Fintech #NonExecutiveDirector",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b5&utm_content=board-governance-text-b5T1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b5t1",
    "media": {
     "type": "text",
     "ready": true
@@ -1263,7 +1263,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "One executive role, then a portfolio of board mandates.\n\nThe move is a sequence, not a jump. Here's how it usually runs ↓\n\nThe typical path:\n1. Board advisor or fractional C-level\n2. NED\n3. Sub-committee chair\n4. Chair\n\nThree things I tell people making the move:\n• Don't start all your roles at once. Sequence them, phasing roles in and out to keep an income mix.\n• Watch the calendar. An audit chair whose portfolio companies all share the same year end has very busy months before every sign-off.\n• Choose the role that is right for you, that you enjoy most and feel most comfortable with.\n\nWatch the portfolio build, one role at a time.\n\nMore on the Board Programme in the first comment.\n\n#PortfolioCareer #NonExecutiveDirector #BoardCareers",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-video-b6A1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6a1",
    "media": {
     "type": "video",
     "files": [
@@ -1330,7 +1330,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "6 areas a board-ready executive needs.\n\nFrom the role of the board to AI. The full map ↓\n\nThese are the six areas of the Board Programme:\n1. The role of the board: management versus governance, and fiduciary duties.\n2. Building a portfolio career: sequencing mandates and managing conflicts.\n3. Understanding the fintech sector: where demand sits, and how founders and VCs judge NED credibility.\n4. Fundraising and governance: fundraising readiness and unit economics.\n5. Reputational and regulatory risk: SMCR, FCA and PRA expectations, D&O insurance.\n6. AI: machine learning versus generative AI risk, and board oversight.\n\nOn the last one, my view is clear. You won't have one AI expert on the board any more. A level of understanding of AI is expected from every board member.\n\nWatch the six areas build.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #BoardGovernance #AIGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-video-b6A2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6a2",
    "media": {
     "type": "video",
     "files": [
@@ -1401,7 +1401,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "Start your board career before you leave your executive job.\n\nNot after. 6 steps, without the time pressure ↓\n\nMy advice to senior executives: start building a portfolio and NED career while you are still in a full-time job. You build knowledge, expertise and network without time pressure.\n\n1. Start now, not after you leave.\n2. Take the first rung: board advisor or fractional C-level, then NED, then sub-committee chair, then chair.\n3. Aim smaller first: a private fintech in your own sub-sector, not pre-IPO or listed.\n4. Give it six to twelve months, and use the first six to build relationships with NEDs, chairs, headhunters and fintech networks.\n5. Be visible to headhunters, chairs, NEDs and fintech founders, and be known to search partners so you are on their long lists.\n6. Sequence your roles. Do not start them all at once.\n\nNone of this is transactional. It is about relationships and trust, built slowly and authentically.\n\nIt is a strategy, not a by-product of seniority.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #NonExecutiveDirector #PortfolioCareer",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-carousel-b6C1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6c1",
    "media": {
     "type": "carousel",
     "files": [
@@ -1463,7 +1463,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "Being a strong leader is not enough to get a board seat.\n\n4 reasons strong executives never get one, and what closes each gap ↓\n\n1. Visibility\nMost executives are known as strong leaders, but remain invisible to chairs, to other CEOs and to headhunters.\n• Be visible to headhunters, chairs, NEDs and fintech founders\n• Be known to search partners, so you are on their long lists\n\n2. Access\nWithout it you never see the hidden opportunities, or who is hiring. In my view board seats are often filled through closed networks long before a role is advertised.\n• Build relationships slowly and authentically. They are about trust, not transactions\n\n3. The NED CV\nIt is not strong enough, or it does not exist yet. Your NED CV is fundamentally different from your executive CV.\n\n4. No board experience to talk about\nIn a smaller private fintech you might be one of the first experienced governance voices for the founder.\n\nIt is a strategy, not a by-product of seniority.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #NonExecutiveDirector #Leadership",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-carousel-b6C2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6c2",
    "media": {
     "type": "carousel",
     "files": [
@@ -1530,7 +1530,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "A founder is raising. What does the NED actually bring?\n\nHere is the board's map of a funding round, in 4 steps ↓\n\nWhat venture investors back: explosive growth, a 5 to 7 year horizon to exit, and at investment a company that can be a 10x. They would not invest in a fintech growing at 10% a year.\n\nThe 4 steps of a round, as taught in the Board Programme's fundraising module:\n1. Business readiness: the team, growth trends and unit economics, pipeline, product roadmap and AI impact, market and exit horizon.\n2. Investor readiness: teaser, business plan, financial model, pitch deck, data room.\n3. Investor proposition: valuation, raise amount, exit multiple, implied return.\n4. Investor outreach: thesis alignment, portfolio conflict, target return profile, value beyond money.\n\nWhat investors want now: higher ARR, pure recurring revenue rather than consulting revenue, deeper teams and a professionally prepared deal room.\n\nWhere the NED helps: positioning the company, preparing the fundraising conversations, and taking pressure off founders stretched between sales and fundraising.\n\nNo one builds alone.\n\nMore on the Board Programme in the first comment.\n\n#Fundraising #NonExecutiveDirector #Fintech",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-carousel-b6C3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6c3",
    "media": {
     "type": "carousel",
     "files": [
@@ -1593,7 +1593,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "The CV that won your last executive role will not win your first board mandate.\n\nI often see senior leaders make this mistake.\n\nAn executive CV shows a leader who develops and delivers the business plan, and keeps the business operationally and financially sound.\n\nA board reads for something else. In the Board Programme we teach the chair's and the board's role as:\n• Leading the board in determining strategy\n• Clear visibility of results\n• Judging the executive team on operational and financial performance\n\nMy shorthand for it is \"nose in, fingers out\". Executives deliver the business plan. Board members ensure integrity and long-term oversight.\n\nThat is why your NED CV is fundamentally different from your executive CV. The same career, told for a different job.\n\nIt is a strategy, not a by-product of seniority.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #NonExecutiveDirector #CorporateGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-image-b6S1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6s1",
    "media": {
     "type": "image",
     "files": [
@@ -1644,7 +1644,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Advisor, fractional, NED or chair.\n\n4 roles that look alike on a LinkedIn profile. They carry very different things ↓\n\n• Fractional CXO: a part-time executive, responsible for delivery, with executive authority. It is not a board-light role, it is a very different role.\n• Board advisor: non-executive but not a director. No direct management oversight, no formal fiduciary duty, influence only. Be careful not to become a shadow director through the advice you give.\n• NED: a director, listed at Companies House. You might work on the business three days a month, but you are equally liable and responsible. In regulated firms you are answerable to the FCA and PRA.\n• Chair: leads the board and is responsible for its effectiveness. The chair runs the board, so the chief executive can run the company.\n\nThe usual path runs from advisor or fractional C-level, to NED, to committee chair, to chair.\n\nEach of those roles has clear boundaries and expectations. Choose the one that is right for you and that you enjoy most.\n\nMore on the Board Programme in the first comment.\n\n#NonExecutiveDirector #BoardGovernance #PortfolioCareer",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-image-b6S2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6s2",
    "media": {
     "type": "image",
     "files": [
@@ -1698,7 +1698,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "A board seat is not one job.\n\nA VC-backed board, a PE-backed board and a public board ask very different things of you. The map ↓\n\n• VC-backed: founder influence is stronger, governance maturity varies with stage and investor mix, and there are few independent NEDs. The board asks whether the right product is being built and scaled. It is about building the governance muscle from a lower baseline.\n• PE-backed: later stage, majority stakes. The focus is EBITDA, execution and forecasting, with more structured governance and financial oversight.\n• Public: detailed disclosure, institutional investors and higher scrutiny, more independent members and committees, and disciplined communication to the market.\n\nVC and PE investors both seek an exit, on different timelines and with different priorities.\n\nHaving sat on both private and public boards, I'd put it simply: it's a very different look and feel, and a very different experience. Know which one you are joining before you say yes.\n\nMore on the Board Programme in the first comment.\n\n#BoardGovernance #NonExecutiveDirector #PrivateEquity",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-image-b6S3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6s3",
    "media": {
     "type": "image",
     "files": [
@@ -1752,7 +1752,7 @@ window.STUDIO = {
    "format": "Text post",
    "cta": "board-programme",
    "text": "Before we match a senior advisor with a fintech, we ask about 9 areas.\n\nCheck you have an answer for each. The list ↓\n\nAt FINTECH Circle we match fractional executives, board advisors and NEDs with fintech and financial services technology companies. Our matching questionnaire covers:\n\n1. Background: your current status and your most recent senior role.\n2. Fintech and growth experience: the stages you have supported, from pre-revenue to pre-IPO or a turnaround.\n3. Commercial value: your strongest areas, up to three, from fundraising readiness to selling into large financial institutions.\n4. Fundraising and investor experience.\n5. The role you want: advisor, fractional executive or NED, the function, and the time you can commit.\n6. Regulation and governance: FCA or PRA experience, committees, chair or SID roles.\n7. Fit and boundaries: your advisory style, the engagements you avoid, conflicts of interest.\n8. Practicalities: geography and availability.\n9. What success looks like for you in an advisory or fractional role.\n\nOn number 5, my advice in the Board Programme is simple: you need to choose the role which is right for you, which you enjoy most and feel most comfortable with.\n\nIt is a strategy, not a by-product of seniority.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #FractionalExecutive #Fintech",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-text-b6T1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6t1",
    "media": {
     "type": "text",
     "ready": true
@@ -1789,7 +1789,7 @@ window.STUDIO = {
    "format": "Video (MP4, with a GIF)",
    "cta": "board-programme",
    "text": "The best rehearsal for a first board seat isn't an interview.\n\nIt's a real board situation. 5 steps ↓\n\nThis is how a pop-up board works in our Board Programme:\n1. Read the detailed board papers.\n2. Prepare your questions.\n3. Meet the leadership team in a small group, on three agenda points.\n4. Add value in the room.\n5. Follow up with the CEO.\n\nWhy it matters: \"no previous board experience\" is one of the reasons strong executives never get a board seat. A pop-up board gives you real board work to talk about.\n\nIn my words from the board webinar: \"It's much better than any interview could ever be, because you are literally in a real board situation.\"\n\nNo one builds alone.\n\nMore on the Board Programme in the first comment.\n\n#BoardCareers #NonExecutiveDirector #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b6&utm_content=board-career-video-b6V1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b6v1",
    "media": {
     "type": "video",
     "files": [
@@ -1855,7 +1855,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "Seed to exit. 5 stops, and the board's job changes at each one.\n\nThe route a fintech board travels, stop by stop ↓\n\n1. Angel money first. The founder team raises from angels before a VC looks.\n2. VC, at around 1 million ARR. Minority stakes, few independent NEDs, and a board asking: are we building the right product, and scaling it?\n3. After the first round. There is budget for a board, and before Series A or B a board with gravitas helps attract investors.\n4. Private equity. Later stage, majority stakes, and a focus on EBITDA, execution and forecasting.\n5. The exit. IPO, trade sale or PE buyout, typically 3 to 7 years in, sometimes up to 10.\n\nOn a VC-backed board you might be one of the first more experienced governance voices. As I teach it in the Board Programme: \"it's really about building the governance muscle from a lower baseline.\"\n\nKnow which stop the company is at before you join its board. It tells you which board you are joining.\n\nFundraising from seed to exit is a module of the Board Programme. Link in the first comment.\n\n#Fintech #VentureCapital #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fundraising-video-b7A1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7a1",
    "media": {
     "type": "video",
     "files": [
@@ -1922,7 +1922,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "It's not enough just to grow revenue. The quality of the revenue is key.\n\n10 numbers a fintech board reads, and the 3 tests behind them ↓\n\nThat line is from my Module 3 lecture. Revenue quality comes down to margins, churn and any dependence on unsustainable incentives.\n\nFor a B2B fintech:\n• ARR\n• Net revenue retention\n• Contract length\n• Renewal rates\n• Top-client concentration\n• Success of implementations and pilots\n\nFor a consumer fintech, the numbers that guard against a growth illusion:\n• CAC and payback period\n• Lifetime value and retention\n• Active use and churn timing\n• Revenue diversification\n\nAnd from the fundraising side: investors want pure recurring revenue, not consulting revenue.\n\nA board does not run these numbers. It watches the high-level metrics, not the day-to-day.\n\nReading the numbers is part of the Board Programme. Link in the first comment.\n\n#Fintech #BoardGovernance #UnitEconomics",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fintech-sector-video-b7A2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7a2",
    "media": {
     "type": "video",
     "files": [
@@ -1988,7 +1988,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "A VC will not back a fintech growing 10% a year.\n\nIf you sit on a fintech board, you need to know what the investor is looking for. Here it is ↓\n\nIn the board webinar I put it plainly: venture investors fund explosive growth. In practice that means:\n\n• A 5 to 7 year horizon to exit and return money to their own investors\n• Returns of 3 to 5x, so at investment they want a company that can be a 10x (my rule of thumb, not a measured result)\n• What investors wanted in 2026: higher ARR, pure recurring revenue rather than consulting revenue, deeper teams and a professionally prepared deal room\n\nOur fundraising module adds what a VC will analyse: the management team, growth trends and unit economics, pipeline predictability, the product roadmap and AI impact, customer satisfaction, market size, the competitive landscape and the exit horizon.\n\nWhy should a NED know this? Because the NED helps the founder position the company and prepare for fundraising, and takes pressure off founders stretched between sales and fundraising.\n\nNo one builds alone.\n\nFundraising and governance literacy is one of the six areas of the Board Programme. Link in the first comment.\n\n#VentureCapital #Fintech #NonExecutiveDirector",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fundraising-carousel-b7C1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7c1",
    "media": {
     "type": "carousel",
     "files": [
@@ -2050,7 +2050,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "The Board Programme, part by part.\n\nThree months, six areas, and practice in a real board situation ↓\n\nI launched the FINTECH Circle Board Programme in 2026. This is what it is made of:\n\n• Three months of on-demand training, plus live faculty-led sessions\n• Six areas: the role of the board, building a portfolio career, understanding the fintech sector, fundraising and governance, reputational and regulatory risk, and AI\n• Pop-Up Boards with practising fintech CEOs: read the board papers, prepare your questions, meet the leadership team on three agenda points, add value, then follow up with the CEO\n• Board CV and interview coaching from specialist headhunters, because your NED CV is fundamentally different from your executive CV\n• Introductions to executive search firms\n\nOn the Pop-Up Boards, as I said in the board webinar: \"it's much better than any interview could ever be, because you are literally in a real board situation.\"\n\nThe Flagship tier is best for senior executives ready to pursue their first or next fintech board seat.\n\nNo one builds alone.\n\nDetails and applications are in the first comment.\n\n#BoardProgramme #NonExecutiveDirector #Fintech",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=programme-carousel-b7C2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7c2",
    "media": {
     "type": "carousel",
     "files": [
@@ -2115,7 +2115,7 @@ window.STUDIO = {
    "format": "Carousel, 8 pages",
    "cta": "board-programme",
    "text": "4 blanks to fill in before a fintech raises.\n\nOur fundraising module calls them the investor proposition. The blanks, and the work behind them ↓\n\nThe Board Programme's fundraising module sets out four steps to a funding round: business readiness, investor readiness, investor proposition and investor outreach.\n\nThe investor proposition comes down to four blanks:\n• The valuation\n• The raise amount\n• The exit multiple\n• The implied return\n\nThe module's test for it: a deal that works for both parties.\n\nBehind the proposition sits the investor-ready pack: a teaser or executive summary, the business plan, the financial model, the pitch deck and the data room. Pre-prepare it to speed up the process.\n\nThen outreach, filtered four ways: thesis alignment, portfolio conflict, target return profile, and value add beyond money.\n\nRelationships, not transactions.\n\nA board member can ask for every blank before the first investor meeting, not after it.\n\nThe full module is part of the Board Programme. Link in the first comment.\n\n#Fundraising #Fintech #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fundraising-carousel-b7C3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7c3",
    "media": {
     "type": "carousel",
     "files": [
@@ -2172,7 +2172,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "A fintech that is not regulated itself will probably still sit in a regulated value chain.\n\nSo the first question for a board member is where ↓\n\nWhen I teach the fintech landscape, I call this the key question for board members: where does the company sit in the regulated value chain?\n\nThere are four positions:\n• Front end: apps and distribution\n• Product manufacturer: new credit, loans, insurance or investment products\n• Infrastructure enablement: processing, APIs, compliance tooling\n• Data and identity: customer verification, transaction monitoring\n\nThe position shapes the oversight. In the UK, a NED's accountability covers the regulatory perimeter, oversight that reflects operational and compliance requirements, and D&O insurance.\n\nAsk the question before you accept the seat, not after.\n\nUnderstanding the fintech sector is one of the six areas of the Board Programme. Link in the first comment.\n\n#Fintech #Regulation #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fintech-sector-image-b7S1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7s1",
    "media": {
     "type": "image",
     "files": [
@@ -2222,7 +2222,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Equity puts you on the cap table. Options are a promise.\n\nWhat a board seat can pay you, beyond the cash ↓\n\nOn a private fintech board, pay is negotiable: a day rate, and a non-cash part that can be worth more than the cash.\n\nWhen the non-cash part is on the table, I think equity is always better than options:\n• Equity: you actually hold the shares. You are on the cap table.\n• Options: a promise to make you a shareholder in the future.\n• Founders often prefer to defer equity, so options vest over time.\n• A common rule of thumb: three years with a one-year cliff. The first third vests after year one, all of it after three.\n\nAdvisors can be paid a fee plus equity or options. As I said in my Module 3 lecture, if you held equity in the right company, \"you might have been better off than being a non-executive director who just got a fixed fee\".\n\nThis is my view, not financial advice. Always get tax advice before you sign.\n\nBoard pay and portfolio careers are part of the Board Programme. Link in the first comment.\n\n#NonExecutiveDirector #Equity #PortfolioCareer",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=portfolio-career-image-b7S2",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7s2",
    "media": {
     "type": "image",
     "files": [
@@ -2275,7 +2275,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Fundamentals or narrative: the question I teach board members to ask of any fintech valuation.\n\nWhy it matters more after the reset ↓\n\nIn my Module 3 lecture I put it this way: \"is the valuation driven by fundamentals and by real value, which of course we want as board members, or is it more driven by narrative\".\n\nIt matters because the market has changed:\n• In the past it was really growth at all costs\n• Valuation multiples have come down since the COVID boom\n• We've seen a repricing of companies who just had a good story but not enough fundamentals\n\nHow does a board tell the difference? It looks at the quality of the revenue:\n• Margins\n• Churn\n• Dependence on unsustainable incentives\n\nFintech scale-ups now have to act like grown-ups sooner, and that is where governance comes in, without killing innovation.\n\nValuation and revenue quality are part of the Board Programme. Link in the first comment.\n\n#Fintech #Valuation #BoardGovernance",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=fintech-sector-image-b7S3",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7s3",
    "media": {
     "type": "image",
     "files": [
@@ -2327,7 +2327,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Silicon Valley had the technology teams. New York had the financial experts. London has both, in one city.\n\nWhy that matters for a board career ↓\n\nI worked on financial technology in Silicon Valley about 30 years ago, before the word \"fintech\" existed. In my lectures I teach that London is central as the global fintech hub, because it has tech and finance talent in one place.\n\nFor experienced financial leaders, that creates demand for oversight. In my Module 3 lecture I named what fintech boards value:\n• Risk knowledge\n• Compliance\n• Audit\n• Technology knowledge and expertise\n• Sales expertise, including selling into financial institutions\n\nThat last one is easy to underrate. In capital markets fintech, landing the first large corporate customer is hard without introductions, and experienced board members can open doors.\n\nThe fintech market is a very strong opportunity for board members, and for developing a portfolio career.\n\nIt is a strategy, not a by-product of seniority.\n\nHow to position for it is part of the Board Programme. Link in the first comment.\n\n#Fintech #London #BoardCareers",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=portfolio-career-image-b7S4",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7s4",
    "media": {
     "type": "image",
     "files": [
@@ -2381,7 +2381,7 @@ window.STUDIO = {
    "format": "Text post",
    "cta": "board-programme",
    "text": "I spent years helping fintechs raise capital.\n\nThen I moved from investing in fintechs to educating the people who govern them. This is why ↓\n\nI worked in Silicon Valley on financial technology about 30 years ago, before the word \"fintech\" existed. I founded FINTECH Circle in 2014 and published The FINTECH Book in 2015.\n\nWhat I concluded, after years of helping fintechs raise capital:\n• Capital alone was not enough for long-term survival\n• The biggest risk is not just running out of money, but running out of adult supervision\n• Having a board is a clear competitive advantage for a private fintech, and makes its success much more likely\n\nThat last one is a belief, not a measured result. It is why my work now is the people in the boardroom, not only the capital in the bank.\n\nNo one builds alone.\n\nThe Board Programme is where that work now lives. Link in the first comment.\n\n#Fintech #BoardGovernance #Leadership",
-   "first_comment": "The FINTECH Circle Board Programme:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b7&utm_content=programme-text-b7T1",
+   "first_comment": "The FINTECH Circle Board Programme:\nhttps://webinar.fintechcircle.com/go/b7t1",
    "media": {
     "type": "text",
     "ready": true
@@ -2423,7 +2423,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "Advisor. NED. Committee chair. Chair.\nThe 4 steps of a portfolio career ↓\n\nMost portfolio careers follow the same path, and the duties change at every step:\n\n1. Board advisor or fractional CXO. An advisor is non-executive and not a director, with influence only and no formal fiduciary duty. A fractional CXO is a part-time executive with executive authority\n2. Non-executive director. Listed at Companies House, as liable as an executive director, and answerable to the FCA and PRA in a regulated firm\n3. Sub-committee chair. Leading audit and risk, remuneration or nomination\n4. Company chair. Leading the board and responsible for its effectiveness\n\nOne caution at step 1: an advisor must avoid becoming a shadow director through the advice given.\n\nWe cover portfolio career architecture in the Board Webinar on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#PortfolioCareer #NonExecutiveDirector #BoardDirectors",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=portfolio-career-video-b8A1",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8a1",
    "media": {
     "type": "video",
     "files": [
@@ -2493,7 +2493,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "board-programme",
    "text": "Noses in, fingers out.\nWhere a board's job on AI starts and stops ↓\n\nAI is a board issue for two reasons: AI-native competitors can be faster, better and cheaper, and AI needs governance to avoid shadow AI.\n\nWhat the board does:\n• Sets intent: use AI to enable growth, better customer service or more efficient operations, in an ethical and responsible way\n• Approves the guard rails: only enterprise tools, only trained staff, use cases approved by an AI steering group\n• Demands visibility on where AI is used and what a bad incident would look like\n\nWhat the board does not do: select models, approve individual use cases or review prompts. That is management's job.\n\nThis is taught in the AI governance module of the Board Programme. Details are in the first comment.\n\n#AIGovernance #BoardDirectors #CorporateGovernance",
-   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=ai-governance-video-b8A2",
+   "first_comment": "Board Programme details:\nhttps://webinar.fintechcircle.com/go/b8a2",
    "media": {
     "type": "video",
     "files": [
@@ -2560,7 +2560,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "webinar",
    "text": "6 steps from senior executive to a fintech board seat.\nWe teach all 6 on 10 December ↓\n\nSince 2014 we have worked with the people who build, back and govern fintech companies. The same six steps come up every time:\n\n1. Understand the real role of the board: management is not governance, and fiduciary duties come with the seat\n2. Portfolio career architecture: sequencing mandates and managing conflicts\n3. Positioning in the fintech NED landscape: where demand sits in 2027 and how founders and VCs judge NED credibility\n4. Fundraising and governance literacy: fundraising readiness and unit economics\n5. Regulatory and reputational protection: SMCR, FCA and PRA expectations, D&O insurance, fiduciary exposure\n6. AI governance literacy: ML versus generative AI risk, board oversight, engaging on technology strategy\n\nThe briefing is designed for senior professionals with 15 to 30+ years in banking, insurance or top-tier audit.\n\nThursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=webinar-carousel-b8C1",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8c1",
    "media": {
     "type": "carousel",
     "files": [
@@ -2627,7 +2627,7 @@ window.STUDIO = {
    "format": "Carousel, 8 pages",
    "cta": "webinar",
    "text": "Executives manage. Boards govern.\n6 places where the line moves ↓\n\nThe first board seat is hardest for people who have been very good executives. The habits that made them senior are the ones the board asks them to put down.\n\n• Running the company becomes overseeing it: the chair runs the board so the chief executive can run the company\n• Executive authority becomes formal oversight, with the same liability as an executive director\n• Choosing AI models becomes setting intent, approving guard rails and demanding visibility. Noses in, fingers out\n• Managing the team becomes judging it on operational and financial performance\n• Answering to the CEO becomes answering to the FCA and PRA as well, in a regulated firm\n• Hands-on advice carries a risk: an adviser must avoid becoming a shadow director\n\nUnderstanding the real role of the board is step 1 of the roadmap we teach on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #CorporateGovernance #Fintech",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=governance-carousel-b8C2",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8c2",
    "media": {
     "type": "carousel",
     "files": [
@@ -2689,7 +2689,7 @@ window.STUDIO = {
    "format": "Carousel, 9 pages",
    "cta": "board-programme",
    "text": "A board meeting you can rehearse before you sit on a board.\nHow our Pop-Up Boards work ↓\n\nAn interview tests what you say. A board tests what you do with the papers. So in the Board Programme, participants rehearse the seat with practising fintech CEOs:\n\n1. Read the detailed board papers\n2. Prepare questions in advance\n3. Meet the leadership team in a small group, on three agenda points\n4. Add value on each point\n5. Follow up with the CEO\n\nPop-Up Boards sit inside a three-month programme: on-demand training, live faculty-led sessions, board CV and interview coaching from specialist headhunters, and introductions to executive search firms.\n\nBoard Programme details are in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
-   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=programme-carousel-b8C6",
+   "first_comment": "Board Programme details:\nhttps://webinar.fintechcircle.com/go/b8c6",
    "media": {
     "type": "carousel",
     "files": [
@@ -2748,7 +2748,7 @@ window.STUDIO = {
    "format": "Animated image (GIF and MP4)",
    "cta": "webinar",
    "text": "8 fintech sub-sectors. 8 board checklists.\nWhat a director watches in each, in one free guide ↓\n\nA director joining a paytech board needs different questions from one joining a lender or a wealthtech. So we put the sub-sector checklists we teach in Module 3 of the Board Programme into one guide:\n\n• Paytech: fraud and financial controls, operational resilience, partner dependencies, platform risk\n• Lending: underwriting discipline, risk appetite, funding model and liquidity, stress testing\n• Embedded finance: accountability across multi-party ecosystems, consent, hand-offs between entities\n• Digital assets: regulatory perimeter (e.g. MiCA), custody and safeguarding, market integrity\n• Wealthtech: conduct risk and suitability, disclosures, product governance under UK Consumer Duty\n• Regtech: model risk and explainability, data governance, liability across the value chain\n• Insurtech: underwriting governance, claims outcomes, fraud risk\n• Capital markets: long sales cycles, client concentration, implementation risk at go-live\n\nFor every check: the questions to ask, the evidence to request in the board pack, and the red flags. Plus who owns the company, the metrics that matter, a first-meeting worksheet and a scorecard.\n\nThe guide is free, with no sign-up. The link is in the first comment.\n\n#BoardDirectors #Fintech #CorporateGovernance",
-   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/board-checklist/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=giveaway-video-b8G1",
+   "first_comment": "The Fintech Board Checklist, free:\nhttps://webinar.fintechcircle.com/go/b8g1\n\nRegister for the Board Webinar on 10 December:\nhttps://webinar.fintechcircle.com/go/b8g1-2",
    "media": {
     "type": "video",
     "files": [
@@ -2831,7 +2831,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "board-programme",
    "text": "Fractional CXO, board advisor, NED, chair.\n4 roles that look alike and carry very different duties ↓\n\nThey are often discussed as one \"board career\". They are not the same job:\n\n• Fractional CXO: a part-time executive, responsible for delivery, with executive authority\n• Board advisor: non-executive and not a director. Influence only, no direct management oversight, no formal fiduciary duty. Can be paid a fee plus equity or options\n• NED: a director listed at Companies House, as liable as an executive director, answerable to the FCA and PRA in a regulated firm, with formal oversight\n• Chair: leads the board and is responsible for its effectiveness\n\nThe difference that matters most is liability. Know which one you are being offered before you say yes.\n\nThis is part of Module 3 of the Board Programme. Details are in the first comment.\n\n#NonExecutiveDirector #BoardDirectors #PortfolioCareer",
-   "first_comment": "Board Programme details:\nhttps://fintechcircle.com/boards-online?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=portfolio-career-image-b8S1",
+   "first_comment": "Board Programme details:\nhttps://webinar.fintechcircle.com/go/b8s1",
    "media": {
     "type": "image",
     "files": [
@@ -2883,7 +2883,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "webinar",
    "text": "4 questions every NED should be asking about AI ↓\n\nA board does not need to understand how a model works. It does need answers to these four:\n\n1. Where are we using AI?\n2. What is the AI governance structure?\n3. What would a bad AI incident look like?\n4. What are the performance measures for our AI?\n\nAI is a board issue on two fronts: the business model, because AI-native competitors can be faster, better and cheaper, and governance, because shadow AI needs rules and an ethical approach.\n\nAI governance literacy is step 6 of the roadmap we teach in the Board Webinar on Thursday 10 December, 12:00 London. Registration is in the first comment.\n\n#AIGovernance #NonExecutiveDirector #BoardDirectors",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=ai-governance-image-b8S2",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8s2",
    "media": {
     "type": "image",
     "files": [
@@ -2936,7 +2936,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "webinar",
    "text": "Consumer or business. Balance sheet or capital light.\nThe fintech map every board candidate should carry ↓\n\nTwo questions place almost any fintech:\n\n• Does it serve consumers or businesses?\n• Does it hold risk on its balance sheet, or run capital light, off balance sheet?\n\nBalance sheet models on the consumer side include consumer lending and deposit taking: neobanks, buy now pay later, digital mortgages. Underneath every quadrant sits the infrastructure layer: processing, APIs, compliance tooling, data and identity.\n\nWhere a company sits on this map tells a director what kind of risk the board will spend its time on.\n\nPositioning in the fintech NED landscape is step 3 of the roadmap we teach in the Board Webinar today, 12:00 London. Registration is in the first comment.\n\n#Fintech #BoardDirectors #NonExecutiveDirector",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=fintech-sector-image-b8S5",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8s5",
    "media": {
     "type": "image",
     "files": [
@@ -2990,7 +2990,7 @@ window.STUDIO = {
    "format": "Image",
    "cta": "webinar",
    "text": "Our next Board Webinar is on 10 December at 12:00 London.\nFor senior leaders with 15 to 30+ years in financial services ↓\n\nIt is designed for the UK portfolio finance leader: senior professionals from banking, insurance or top-tier audit who want a fintech board seat.\n\nWe cover the roadmap step by step:\n• The real role of the board, and fiduciary duties\n• Portfolio career architecture\n• Positioning in the fintech NED landscape\n• Fundraising and governance literacy\n• Regulatory and reputational protection\n• AI governance literacy for directors\n\nThursday 10 December, 12:00 London. Registration is in the first comment.\n\n#BoardDirectors #NonExecutiveDirector #Fintech",
-   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/?utm_source=linkedin&utm_medium=social&utm_campaign=content-b8&utm_content=webinar-image-b8S7",
+   "first_comment": "Register for the Board Webinar:\nhttps://webinar.fintechcircle.com/go/b8s7",
    "media": {
     "type": "image",
     "files": [
